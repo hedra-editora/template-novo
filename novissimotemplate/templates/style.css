@@ -35,10 +35,15 @@ font-style: italic;}
 font-style: italic;
 text-align: right; }
 
-.entrada
-{font-weight: bold;
+.entrada 
+{
+font-size: 1em; 
+text-align: right; 
 font-style: italic;
-text-align: right;}
+color: #111;
+line-height: 125%;
+margin-top: 2em;
+}
 
 
 a {
