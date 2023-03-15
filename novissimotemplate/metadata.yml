@@ -1,6 +1,9 @@
 ---
 title: Título
-author: Autor
+author: 
+- Autor
+- <em>(Organização)</em>
+- <em>(Tradução)</em>
 rights: Editora Hedra
 edition: Segunda Edição
 lang: pt-BR
