@@ -1,0 +1,16 @@
+---
+title: Alice no País das Maravilhas
+author: Lewis Carroll
+rights: hedra
+lang: pt-BR
+mainlang: portuguese
+otherlang: english
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

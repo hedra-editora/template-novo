@@ -1,0 +1,3303 @@
+# Alice no país das maravilhas
+
+## Na toca do coelho
+
+
+Alice estava começando a ficar muito cansada de ficar sentada ao lado da
+irmã na margem do rio e de não ter nada para fazer: uma ou duas vezes,
+ela espiara no livro que a irmã estava lendo, mas não tinha nenhuma
+figura nem diálogos, "e para que serve um livro", pensou Alice, "sem
+figuras nem diálogos?" [\[ref1\]]{#ref1 label="ref1"}
+
+Assim, ela estava considerando em seus pensamentos (da melhor forma que
+podia, pois o dia quente a deixava muito sonolenta e estúpida) se o
+prazer de fazer uma guirlanda de margaridas valeria o trabalho de
+levantar e colher margaridas, quando, de repente, um Coelho Branco, de
+olhos rosados, passou correndo perto dela.
+
+Não havia nada de *muito* marcante nisso; nem Alice achou *tão* estranho
+o fato de ela ter ouvido o Coelho dizer consigo mesmo, "Oh, céus! Oh,
+céus! Estou muito atrasado!". (Quando ela pensou sobre isso mais tarde,
+ocorreu-lhe que devia ter achado estranho, mas na hora lhe pareceu
+bastante natural); mas quando o Coelho [\[ref2\]]{#ref2 label="ref2"}
+realmente *tirou um relógio do bolso do colete* e olhou para as horas, e
+então se apressou, Alice se pôs de pé, pois lhe passou pela cabeça que
+nunca tinha visto nem coelho de colete, nem relógio guardado no bolso,
+e, ardendo de curiosidade, ela correu pelo campo atrás dele e chegou a
+tempo de vê-lo pular dentro de uma grande toca embaixo da cerca viva.
+
+No momento seguinte, Alice desceu atrás dele, sem jamais pensar em como
+faria para sair dali depois.
+
+A toca do coelho seguia reta como um túnel até parte do caminho, e de
+repente descia vertiginosamente, tão de repente que Alice não teve um
+momento sequer para pensar em parar, até se ver caindo pelo que parecia
+ser um poço muito profundo.
+
+Ou o poço era muito fundo, ou ela caiu muito devagar, pois ela teve
+tempo suficiente na descida para olhar ao seu redor e se perguntar o que
+lhe aconteceria em seguida. Primeiro, ela tentou olhar para baixo e
+descobrir aonde estava caindo, mas era escuro demais para enxergar;
+então ela olhou para os lados do poço e reparou que as paredes estavam
+cobertas de armários de louça e estantes de livros: aqui e ali, ela viu
+mapas e quadros pendurados em pregos. Ela tirou um pote de vidro de uma
+das prateleiras ao passar; o rótulo dizia "[geleia de
+laranja]{.smallcaps}", mas para sua frustração estava vazio; ela não
+soltou o pote de vidro com medo de matar alguém lá embaixo, então
+conseguiu devolvê-lo em um dos armários de louça pelos quais passou em
+sua queda.
+
+"Bem!", pensou Alice consigo mesma. "Depois de uma queda dessas, não vou
+achar nada demais em rolar escada abaixo! Como me acharão corajosa lá em
+casa! Ora, eu não contaria nada a ninguém, nem que eu caísse do telhado
+de casa!" (O que provavelmente era verdade.)
+
+Caindo, caindo, caindo. Aquela queda não terminava *nunca*? "Quantos
+quilômetros eu já tinha caído àquela altura?", ela disse em voz alta.
+"Já devo estar chegando ao centro da terra. Vejamos: o centro fica a
+mais de seis mil e quatrocentos quilômetros. Acho..." (pois, como se vê,
+Alice havia aprendido várias coisas desse tipo na escola, e, embora
+aquela não fosse uma oportunidade *muito* boa para exibir seus
+conhecimentos, pois não havia ninguém ali para ouvi-la, ainda assim era
+um bom costume repetir o que se aprendeu)" --- sim, a distância é mais
+ou menos essa --- mas eu me pergunto: em que latitude ou longitude devo
+ter chegado?" (Alice não fazia ideia do que era latitude ou longitude,
+mas achava que eram belas palavras grandiosas de serem ditas.)
+
+Então ela começou de novo. "Será que vou cair *através* da terra? Seria
+engraçado sair lá do outro lado, entre as pessoas que andam de
+ponta-cabeça! Os antipáticos, acho que chamam..." (ela ficou contente
+por *não* haver ninguém ouvindo dessa vez, pois não parecia mesmo ser
+essa a palavra certa)" --- "mas vou precisar perguntar o nome do país,
+sabe como é... Por favor, senhora, aqui é a Nova Zelândia ou a
+Austrália?" (e ela tentou fazer uma mesura enquanto falava --- imagine
+fazer uma *mesura* enquanto se está caindo em plano ar! Você acha que
+conseguiria?) "E me achariam uma garotinha ignorante! Não, não vou
+perguntar nada: talvez esteja escrito em algum lugar."
+
+Caindo, caindo, caindo. Não havia nada a fazer, então Alice começou a
+falar de novo. "A Dinah vai sentir minha falta hoje à noite, isso sim!"
+(Dinah era a gata.) "Espero que alguém se lembre de dar o pires de leite
+para ela na hora do chá. Dinah, querida, queria que você estivesse aqui
+embaixo comigo! Não há camundongos no ar, infelizmente, mas você poderia
+tentar caçar um morcego, que é muito parecido com um camundongo, você
+sabe. Mas será que gata come morcego, é o que eu me pergunto..." E aqui
+Alice começou a ficar com sono e seguiu falando sozinha, de um modo um
+tanto sonhador, "Gata come morcego? Gata come morcego?" e, por vezes,
+"Morcego come gata?", pois, você sabe, como ela não tinha resposta a
+essas perguntas, não importava a ordem dos termos. Ela sentiu como se
+estivesse cochilando, e havia começado a sonhar que estava de mãos dadas
+com Dinah, e dizia muito seriamente: "Ora, Dinah, diga a verdade: você
+já comeu morcego?", quando, de repente, tum! tum!, ela caiu em um monte
+de gravetos e folhas secas, e a queda terminou.
+
+Alice não se machucou nem um pouquinho e pulou para o chão no momento
+seguinte: ela olhou para cima, mas estava tudo escuro sobre sua cabeça;
+diante dela, havia outro longo corredor, e o Coelho Branco ainda estava
+à vista, descendo esse corredor apressadamente. Não havia tempo a
+perder: lá se foi Alice, feito o vento, chegando a tempo de ouvir,
+quando o coelho virou uma esquina: "Oh, minhas orelhas, minhas suíças,
+como está ficando tarde!". Ela estava logo atrás dele, quando virou a
+esquina, mas o Coelho não estava mais à vista: ela se viu em um grande
+salão, comprido, de teto baixo, iluminado por uma fileira de lustres que
+pendiam do teto.
+
+Esse salão era cercado de portas, mas estavam todas trancadas; e, depois
+que Alice percorreu todo o recinto, de um lado para o outro,
+experimentando todas, ela caminhou tristonha até o meio do salão,
+perguntando-se se algum dia conseguiria sair dali.
+
+De repente, ela se deparou com uma mesinha de três pernas, toda feita de
+vidro maciço; não havia nada na mesa além de uma minúscula chave
+dourada, e a primeira ideia de Alice foi que talvez a chave pertencesse
+a uma das portas do salão; mas, infelizmente, ou as fechaduras eram
+muito grandes, ou a chave era muito pequena, mas de qualquer forma não
+abrira nenhuma delas. Contudo, na segunda tentativa, ela se deparou com
+uma cortina baixa em que não havia reparado antes, e detrás da cortina
+havia uma portinha de menos de quarenta centímetros de altura: ela
+experimentou a chavezinha dourada na fechadura, e, para sua grande
+alegria, a chave servia!
+
+Alice abriu a portinha e descobriu que dava em um pequeno corredor, não
+muito maior do que um buraco de rato: ela se ajoelhou e olhou através do
+corredor e do outro lado avistou o jardim mais adorável que alguém já
+viu na vida. Como ela quis sair daquele salão escuro e passear entre
+aqueles canteiros de flores coloridas e fontes de água fresca! Mas ela
+não conseguia passar nem mesmo a cabeça pela portinha. "Mesmo que a
+minha cabeça passe", pensou a pobre Alice, "ela seria de pouca utilidade
+sem meus ombros. Oh, como eu queria me fechar feito um telescópio! Acho
+que eu conseguiria, se ao menos soubesse como começar." Pois, você sabe,
+tantas coisas estranhas haviam acontecido ultimamente que Alice havia
+começado a pensar que pouquíssimas coisas de fato deviam ser realmente
+impossíveis.
+
+Aparentemente era inútil esperar diante da portinha, de modo que ela
+voltou até a mesa, com certa esperança de encontrar ali outra chave, ou
+ao menos um livro de regras para fechar pessoas como telescópios: dessa
+vez ela encontrou sobre a mesa uma garrafinha ("que seguramente não
+estava ali antes", disse Alice) e amarrado ao gargalo da garrafa havia
+uma etiqueta de papel onde se lia "[beba-me]{.smallcaps}" lindamente
+impresso em letras garrafais.
+
+Não era um problema estar escrito "Beba-me", mas a pequena sabichona
+Alice não faria *isso* com pressa. "Não, antes vou olhar", ela disse, "e
+ver se está escrito 'veneno' ou não", pois ela havia lido várias
+historinhas agradáveis sobre crianças que eram queimadas ou devoradas
+por animais selvagens, e outras coisas desagradáveis, tudo porque elas
+*não* se lembraram das regras mais simples que os pais ensinavam: por
+exemplo, saber que um atiçador incandescente acabará queimando se você
+segurá-lo por muito tempo; e que, se você fizer um corte *muito* fundo
+com uma faca, geralmente vai sair sangue; e ela jamais esqueceria que,
+se você beber muito de uma garrafa escrito "veneno", quase certamente
+passará mal, cedo ou tarde.
+
+No entanto, nessa garrafa *não* estava escrito "veneno", de modo que
+Alice arriscou provar e, achando muito gostoso (o líquido, na verdade,
+tinha um sabor misturado de torta de cereja, creme, abacaxi, peru
+assado, café e torrada com manteiga), logo ela bebeu todo o conteúdo.
+
+"Que sensação engraçada!", disse Alice. "Devo estar me fechando como um
+telescópio."
+
+E, de fato, ela estava agora com apenas vinte e cinco centímetros de
+altura, e seu rosto se iluminou com a ideia de que agora ela tinha o
+tamanho certo para passar pela portinha e ir até aquele jardim adorável.
+Primeiro, contudo, ela esperou alguns minutos para ver se ainda
+diminuiria mais: ela ficou um pouco nervosa quanto a isso, "pois pode
+acontecer, você sabe", disse Alice consigo mesma, "de eu sumir
+totalmente, como uma vela. Como será que eu seria então?" E ela tentou
+imaginar como seria a chama de uma vela depois que a vela se apaga, pois
+ela não se lembrava de ter visto algo assim acontecer.
+
+Após algum tempo, vendo que nada mais acontecia, ela resolveu ir de uma
+vez até o jardim; mas, pobre Alice!, quando chegou na portinha, percebeu
+que havia esquecido a chavezinha dourada, e, quando voltou à mesa para
+buscá-la, notou que era impossível alcançá-la: ela podia vê-la
+claramente através do vidro da mesa, e fez o melhor que podia para
+escalar por um dos pés da mesa, mas o vidro era muito escorregadio; e,
+quando a pobrezinha se cansou de tentar, sentou-se no chão e começou a
+chorar.
+
+"Ora, vamos, não adianta nada ficar assim chorando!", disse Alice
+consigo mesma, um tanto ríspida. "Aconselho você a sair daqui
+agora!" Ela geralmente se dava muito bons conselhos (embora raramente os
+seguisse), e algumas vezes ralhava consigo mesma tão severamente que lhe
+vinham lágrimas aos olhos; e, uma vez, ela se lembrava de ter tentado
+guardar as lágrimas em uma caixa, por ter trapaceado a si mesma em uma
+partida de *croquet* que estava jogando sozinha, pois essa curiosa
+criança gostava muito de fingir ser duas pessoas. "Mas agora não adianta
+nada", pensou a pobre Alice, "fingir ser duas pessoas! Pois restou tão
+pouco de mim que mal daria *uma* pessoa de respeito!"
+
+Logo seus olhos depararam com uma caixinha de vidro que estava embaixo
+[\[ref3\]]{#ref3 label="ref3"} da mesa: ela abriu e encontrou um bolinho
+muito pequeno, no qual estava escrito, lindamente composto com
+uvas-passas: "coma-me". "Bem coma", disse Alice, "e se isso me fizer
+crescer, posso alcançar a chave; e, se me fizer diminuir, poderei me
+arrastar por baixo da porta; de modo que seja como for chegarei ao
+jardim, e não me importa o que vai acontecer!"
+
+Ela deu uma mordidinha e disse aflita consigo mesma: "Será que estou
+crescendo? Será que estou diminuindo?", pondo a mão no topo da cabeça
+para sentir o sentido do crescimento, e ficou muito surpresa ao notar
+que permanecia do mesmo tamanho; sem dúvida, é o que geralmente acontece
+quando comemos bolo, mas Alice já estava tão acostumada a esperar que
+coisas inesperadas acontecessem que lhe pareceu uma tolice, sem graça,
+que a vida continuasse do mesmo jeito.
+
+Então ela resolveu agir e, em pouquíssimo tempo, comeu o bolo inteiro.
+
+## Piscina de lágrimas
+
+"Que bizarrismo!", gritou Alice (ela ficou tão surpresa que por um
+momento se esqueceu das regras da própria língua; "agora estou me
+abrindo como o maior telescópio do mundo! Adeus, meus pés!" (pois,
+quando ela olhou para baixo, seus pés pareciam quase fora do alcance da
+visão de tão distantes que estavam). "Oh, meus pobres pezinhos! Quem vai
+colocar sapato e meia em vocês agora, meus queridos? Sem dúvida, eu que
+não vou poder! Vou estar muito longe para me ocupar de vocês: vocês
+terão que se virar sozinhos da melhor forma que puderem... mas devo ser
+boazinha com eles", pensou Alice, "porque talvez eles resolvam não me
+obedecer depois! Vejamos: eu lhes darei botas novas todo Natal."
+
+E ela prosseguiu planejando consigo mesma como faria aquilo. "As botas
+devem vir pelo correio", ela pensou, "e que engraçado seria mandar
+presentes para os próprios pés! E como ficaria absurdo no endereço!
+
+> Sr. Pé Direito de Alice.\
+> Tapete da Lareira,\
+> próximo ao Guarda-Fogo,\
+> (com Amor, da Alice).
+
+Oh, céus, quanta bobagem estou falando!"
+
+Nesse instante, sua cabeça bateu no teto do salão: na verdade, ela
+estava agora com quase três metros de altura e imediatamente pegou a
+chavezinha dourada e correu para a porta do jardim.
+
+Pobre Alice! Foi o máximo que ela conseguiu fazer, deitar-se de lado,
+para olhar para o jardim com um olho só; mas atravessar agora era ainda
+mais impossível do que nunca: ela se sentou no chão e começou a chorar
+de novo.
+
+"Você devia ter vergonha de si mesma", disse Alice, "uma meninona grande
+como você" (nisso ela tinha razão), "ficar assim chorando desse jeito!
+Pare já com isso, estou lhe dizendo!" Mas ela continuou da mesma forma,
+despejando galões e galões de lágrimas, até que se formou uma piscina de
+uns dez centímetros de profundidade, ocupando metade do salão.
+
+Após algum tempo, ela ouviu o som de passos ao longe e rapidamente
+enxugou os olhos para ver o que estava acontecendo. Era o Coelho Branco
+que voltava, esplendidamente vestido, com luvas brancas em uma mão e um
+grande leque na outra: ele vinha trotando, muito apressado, resmungando
+consigo mesmo no caminho, "Oh! A Duquesa, a Duquesa! Oh, ela vai ficar
+furiosa com a minha demora!". Alice se sentia tão desesperada que estava
+disposta a pedir ajuda a qualquer um; então, quando o Coelho se
+aproximou, ela começou, em voz baixa e tímida: "Por favor, senhor..." O
+Coelho se assustou brutalmente, deixou cair as luvas brancas e o leque e
+fugiu correndo para a escuridão, o mais depressa que podia.
+
+Alice recolheu o leque e as luvas e, como o salão estava muito abafado,
+ficou se abanando com o leque todo o tempo em que ficou falando! "Ora,
+ora! Tudo está tão estranho hoje! Ontem tudo parecia normal. Será que eu
+mudei durante a noite? Deixe-me pensar: será que eu *era* a mesma pessoa
+quando acordei esta manhã? Acho que quase lembro de ter me sentido um
+pouquinho diferente. Mas se eu não sou mais a mesma, a pergunta seguinte
+é: quem afinal eu sou? Ah, *esse* é o grande enigma!" E ela começou a
+recapitular todas as crianças que tinham a mesma idade que ela para ver
+se ela podia ter sido trocada por alguma delas.
+
+"Com certeza, eu não sou a Ada", ela disse, "porque o cabelo dela é
+comprido e encaracolado, e o meu não faz nenhum cacho; e tenho certeza
+de que não posso ser a Mabel, porque eu sei todo tipo de coisa, e ela,
+oh!, ela sabe muito pouco! Além do mais, *ela* é ela, e *eu sou* eu,
+e... oh, céus, como isso tudo é enigmático! Deixe-me ver se eu ainda sei
+todas as coisas que eu sabia. Deixe-me ver: quatro vezes cinco, doze, e
+quatro vezes seis, treze, e quatro vezes sete é... oh, céus! Assim nunca
+vou chegar no vinte! Mas Tabuada não faz sentido: vamos ver Geografia.
+Londres é a capital de Paris, e Paris é a capital de Roma, e Roma...
+não, *isso* está tudo errado, tenho certeza! Devo ter sido trocada pela
+Mabel! Vou tentar recitar '*Como o pequeno...*' ", e ela cruzou as mãos
+no colo, como se estivesse lendo uma lição, e começou a repetir o poema,
+mas sua voz saiu rouca e estranha, e as palavras não eram as palavras de
+costume:...
+
+> Como o pequeno crocodilo\
+> Levanta a luzidia cauda,\
+> Espalham águas do Nilo\
+> As escamas douradas! Como alegre gargalha,\
+> Como abre suas garras,\
+> E recebe bem peixinhos\
+> Na risonha bocarra!
+
+"Tenho certeza de que essas palavras estão erradas", disse a pobre
+Alice, e seus olhos se encheram de lágrimas de novo, conforme ela
+prosseguiu. "Devo ser a Mabel mesmo, e vou ter que ir morar naquela
+casinha minúscula, e não ter quase nenhum brinquedo, e oh! E ainda tanta
+lição para aprender! Não, quanto a isso está decidido: se eu for a
+Mabel, eu vou ficar aqui embaixo. Não vai adiantar nem enfiarem a cabeça
+aqui e dizerem 'Volte, querida!'. Eu vou olhar lá para cima e falar,
+'Quem eu sou afinal? Primeiro, digam e, depois, se eu gostar da pessoa,
+eu volto: se não, fico aqui até que eu seja outra pessoa'... mas, oh,
+céus!", gritou Alice com um súbito acesso de choro: "Quem dera eles
+enfiassem a cabeça aqui embaixo! Estou *muito* cansada de ficar aqui
+sozinha!".
+
+Ao dizer isso, ela olhou para suas mãos e ficou surpresa ao ver que
+havia posto uma das luvinhas brancas do Coelho enquanto falava. "Como eu
+*consegui* vestir isto?", ela pensou. "Devo estar diminuindo de novo."
+Ela se levantou e foi até a mesa para se medir em comparação, e
+descobriu que, aproximadamente, devia estar agora com pouco mais de meio
+metro de altura, e continuava diminuindo rapidamente: ela logo descobriu
+que a causa daquilo era o leque que estava segurando e o soltou
+bruscamente, a tempo de evitar uma diminuição total.
+
+"Essa foi por pouco!", disse Alice, um bocado assustada com a súbita
+mudança, mas muito contente de se encontrar ainda existente; "e agora
+direto para o jardim!", e ela correu a toda velocidade de volta até a
+portinha: mas ai!, a portinha estava outra vez fechada, e a chavezinha
+de ouro estava sobre a mesa de vidro como antes, "e as coisas estão
+piores do que nunca", pensou a pobre criança, "pois nunca fui tão
+pequena assim antes, nunca! E posso afirmar que é muito ruim, isso sim!"
+
+Ao dizer essas palavras, seu pé escorregou e, no momento seguinte,
+splash!, ela estava enfiada até o pescoço em água salgada. Sua primeira
+ideia foi que de alguma forma havia caído no mar, "e, nesse caso,
+poderei voltar de trem", ela disse consigo. (Alice tinha ido à praia uma
+única vez na vida, e chegara à conclusão geral de que, aonde quer que
+você fosse no litoral inglês, encontraria uma série de guarda-sóis à
+beira-mar, algumas crianças cavando na areia com pazinhas de madeira e
+uma fileira de chalés de aluguel, e atrás deles uma estação de trem.) No
+entanto, ela logo se deu conta de que estava na piscina de suas próprias
+lágrimas choradas quando estava com quase três metros de altura.
+
+"Quem dera eu não tivesse chorado tanto!", disse Alice, enquanto nadava,
+tentando encontrar uma saída. "Serei castigada por isso agora, imagino,
+sendo afogada nas minhas próprias lágrimas! Isso sim seria uma coisa
+estranha, com certeza! Mas tudo está estranho hoje."
+
+Nesse instante, ela ouviu algo se mexendo na água um pouco adiante e
+nadou para perto para ver o que era: a princípio, ela pensou se tratar
+de uma morsa ou de um hipopótamo, mas então se lembrou de quão minúscula
+estava agora e logo percebeu que era um mero camundongo que também havia
+escorregado como ela.
+
+"Será que adiantaria alguma coisa agora", pensou Alice, "falar com esse
+camundongo? Tudo tem sido tão inesperado aqui embaixo que deveria achar
+provável que esse camundongo falasse: seja como for, não faz mal nenhum
+tentar." Então ela começou: "Ó Camundongo, você sabe como se sai desta
+piscina? Estou muito cansada de nadar aqui, ó Camundongo!" (Alice achou
+que esse devia ser o modo apropriado de se dirigir a um camundongo; ela
+nunca tinha feito nada parecido antes, mas se lembrou de ter visto no
+livro de latim do irmão "O camundongo --- de um camundongo --- para um
+camundongo --- um camundongo --- Ó camundongo!".) O Camundongo olhou
+para ela um tanto inquisitivamente, e pareceu-lhe piscar com um de seus
+olhinhos, mas não disse nada.
+
+"Talvez ele não fale a minha língua", pensou Alice. "Talvez seja um
+camundongo francês, que veio com Guilherme, o Conquistador." (Pois,
+apesar de todo seu conhecimento de história, Alice não tinha uma ideia
+muito clara de quanto tempo atrás as coisas tinham acontecido.) Então
+ela começou de novo: "*Où est ma chatte?*" \[Onde está minha gata?\],
+que era a primeira frase de seu livro de francês. O Camundongo saltou
+subitamente para fora da água e parecia trêmulo de pavor. "Oh, me
+desculpe!", gritou Alice apressadamente, com medo de ter magoado os
+sentimentos do pobre animal. "Eu esqueci que você não gosta de gato."
+
+"Não gosta de gato?!", exclamou o Camundongo, com voz aguda, passional.
+"Você *gostaria* de gato se fosse eu?"
+
+"Bem, talvez não", disse Alice em tom suave. "Não se irrite. Mas você
+deveria conhecer a nossa gata, a Dinah: acho que você passaria a gostar
+de gatos se a visse. Ela é uma criatura tão querida e sossegada", Alice
+prosseguiu, em parte consigo mesma, como se estivesse nadando
+preguiçosamente na piscina, "e ela fica ronronando bem bonitinha diante
+da lareira, lambendo as patinhas e limpando o rosto --- e ela é fofinha
+e fica bem no colo --- e é ótima para apanhar camund... oh, me
+desculpe!", exclamou Alice outra vez, pois agora o Camundongo estava
+todo eriçado, e ela percebeu que certamente ele estava realmente
+ofendido. "Não vamos mais falar nela se você não quiser."
+
+"De fato, não vamos!", exclamou o Camundongo, que estava tremendo até a
+ponta da cauda. "Como se eu fosse falar sobre isso! Nossa família sempre
+odiou gato: criaturas cruéis, vis, vulgares! Não me obrigue a ouvir esse
+nome outra vez!"
+
+"Não, não obrigarei!", disse Alice, querendo depressa mudar de assunto.
+"Você... você gosta... de... cachorro?" O Camundongo não respondeu, de
+modo que Alice prosseguiu avidamente: "Há um cachorrinho tão bonitinho
+perto da nossa casa, eu adoraria lhe mostrar! Um terrier de olho claro,
+sabe? Oh, ele tem o pelo comprido, encaracolado, marrom! E ele busca
+coisas que a gente joga, e ele fica parado esperando a comida, e todo
+esse tipo de coisa --- nem posso lembrar metade delas --- e o dono é um
+fazendeiro, sabe? E ele diz que é um cachorro muito útil, custou cem
+libras! Disse que mata todos os ratos e ca... oh, céus!", exclamou Alice
+em tom tristonho. "Receio que o tenha ofendido outra vez!" Pois o
+Camundongo estava indo embora nadando o mais depressa que podia e
+causando grande comoção na piscina em seu trajeto.
+
+Então ela o chamou suavemente: "Camundongo querido! Volte aqui e não
+vamos mais falar de gato ou de cachorro, já que você não gosta!".
+
+Quando o Camundongo ouviu isso, ele se virou e nadou de volta lentamente
+para ela. Seu rosto estava muito pálido (de paixão, pensou Alice), e
+disse em voz baixa e trêmula: "Vamos para a margem, e então vou lhe
+contar minha história, e você entenderá por que eu odeio gato e
+cachorro".
+
+## Corrida eleitoral e uma história sinuosa
+
+
+Eles eram mesmo um grupo de aparência esquisita que se reuniu na margem
+do rio --- as aves com as penas molhadas, os animais com o pelo
+escorrido, e todos ensopados, pingando, contrariados e incomodados.
+
+A primeira questão, evidentemente, era como se secar: eles se
+consultaram a respeito, e alguns minutos depois pareceu perfeitamente
+natural para Alice se ver conversando com familiaridade com eles, como
+se os conhecesse desde sempre. Na verdade, ela teve uma longa discussão
+com o Louro, que ficou enfim carrancudo, e só dizia "Sou mais velho que
+você, eu é que sei", e isso Alice não engoliu sem antes saber quantos
+anos ele tinha, e, como o Louro se recusou terminantemente a dizer sua
+idade, nada mais foi dito.
+
+Por fim, o Camundongo, que parecia ter alguma autoridade entre eles,
+exclamou: "Sentem-se, todos vocês, e me escutem! Deixem comigo, vocês
+rapidamente ficarão secos". Todos eles se sentaram ao mesmo tempo, em um
+grande círculo, com o Camundongo no meio. Alice ficou olhando fixa e
+ansiosamente para ele, pois tinha certeza de que pegaria um resfriado se
+não se secasse logo. [\[ref4\]]{#ref4 label="ref4"}
+
+"Aham!", disse o Camundongo com um ar importante. "Vocês estão prontos?
+Essa é a coisa mais árida que eu conheço. Silêncio, todos vocês, por
+favor! 'Guilherme, o Conquistador, cuja causa é favorecida pelo papa,
+logo submetido pelos ingleses, a quem faltavam líderes, e ultimamente se
+acostumaram à usurpação e à conquista. Edwin e Morcar, condes de Mercia
+e Northumbria...' "
+
+"Ugh!", disse o Louro, com um tremor.
+
+"Com sua licença!", disse o Camundongo, franzindo a testa, mas muito
+polidamente. "Você disse alguma coisa?"
+
+"Eu não!", disse o Louro prontamente.
+
+"Achei que você tivesse dito", disse o Camundongo. "... Prossigo: 'Edwin
+e Morcar, condes de Mercia e Northumbria, declararam-no: e até mesmo
+Stigand, o patriótico Arcebispo de Canterbury, achou isso
+aconselhável...''
+
+"Achou o quê?", disse o Pato.
+
+"Achou *isso*", o Camundongo respondeu um tanto contrariado.
+"Evidentemente você sabe o que significa *isso*."
+
+"Sei muito bem o que significa *isso*, quando *acho*", disse o Pato;
+"geralmente é uma rã ou uma minhoca. A questão é o que o arcebispo
+achou."
+
+O Camundongo não deu ouvidos a essa pergunta, mas prosseguiu
+apressadamente, "'achou aconselhável ir com Edgar Atheling ao encontro
+de William e oferecer-lhe a coroa. A conduta de William a princípio foi
+moderada. Mas a insolência de seus normandos...' Como você está agora,
+minha querida?", ele continuou, virando-se para Alice ao falar.
+
+"Molhada como nunca", disse Alice em tom melancólico; "aparentemente
+isso não está me secando nada."
+
+"Nesse caso", disse o Dodo solenemente, ficando de pé, "proponho que a
+sessão entre em recesso para a adoção imediata de remédios mais
+efetivos..."
+
+"Fale a nossa língua!", disse a Aguiazinha. "Não entendo metade dessas
+palavras difíceis e, mais do que isso, não creio nem que você entenda!"
+E a Aguiazinha inclinou a cabeça para esconder um sorriso: algumas das
+outras aves deram risadinhas.
+
+"O que eu ia dizer", disse o Dodo em tom ofendido, "era que a melhor
+coisa para nos secar seria uma Corrida eleitoral."
+
+"O que é Corrida eleitoral?", disse Alice; não que ela quisesse muito
+saber, mas o Dodo fez uma pausa, como se achasse que alguém fosse falar,
+e mais ninguém se sentiu tentado a dizer nada.
+
+"Ora", disse o Dodo, "a melhor forma de explicar é fazendo." (E, como
+você pode querer tentar fazer isso, em um dia de inverno, vou lhe dizer
+o que fez o Dodo.)
+
+Primeiro ele traçou uma pista de corrida, em uma espécie de círculo ("a
+forma exata não tem importância", ele disse), e então o grupo inteiro
+foi posicionado na largada, aqui e ali. Não houve nenhum "um, dois, três
+e já", mas eles começaram a correr, quando bem entenderam, e só pararam
+quando quiseram, de modo que não foi fácil saber quando a corrida
+acabou. No entanto, depois de correrem meia hora, mais ou menos, quando
+se viram secos de novo, o Dodo subitamente anunciou "Corrida encerrada!"
+e todos se reuniram em volta dele, ofegantes, perguntando "Mas quem
+ganhou?".
+
+A essa questão o Dodo não conseguiu responder sem antes pensar bastante,
+e ele ficou muito tempo com um dedo apontado na testa (posição em que
+geralmente vemos Shakespeare, nos retratos dele), enquanto o resto
+esperou em silêncio. Por fim, o Dodo disse "Todo mundo ganhou e todos
+devem receber prêmios".
+
+"Mas quem vai dar os prêmios?", um belo coral de vozes perguntou.
+
+"Ora, ela, é claro", disse o Dodo, apontando para Alice com um dedo; e o
+grupo inteiro ao mesmo tempo se aproximou em volta dela, exclamando de
+modo confuso: "Prêmios! Prêmios!".
+
+Alice não fazia ideia do que devia fazer e desesperadamente pôs a mão no
+bolso, tirando uma caixa de doces (que, por sorte, a água salgada não
+havia penetrado), e os distribuiu a todos como prêmios. Havia exatamente
+um doce para cada um.
+
+"Mas ela também deve receber um prêmio, vocês sabem...", disse o
+Camundongo.
+
+"É claro", o Dodo respondeu muito gravemente.
+
+"O que mais você tem no bolso?", ele prosseguiu, virando-se para Alice.
+
+"Só um dedal", disse Alice, tristonha.
+
+"Passe para cá", disse o Dodo.
+
+Todos se aproximaram dela outra vez, enquanto o Dodo solenemente
+apresentou o dedal, dizendo: "Esperamos que você aceite este elegante
+dedal", e, quando ele terminou o breve discurso, todos deram vivas.
+
+Alice achou tudo aquilo muito absurdo, mas todos pareciam tão graves que
+ela não ousou dar risada; e, como não lhe ocorreu mais nada para dizer,
+ela simplesmente fez uma mesura e aceitou o dedal, aparentando a máxima
+solenidade que conseguiu.
+
+A próxima coisa a fazer era comer os doces, o que causou certo barulho e
+confusão, pois as aves maiores se queixaram por não conseguirem nem
+sentir o gosto dos seus, e as menores engasgaram e precisaram levar
+tapinhas nas costas. No entanto, por fim, acabou, e todos sentaram de
+novo em círculo e pediram ao Camundongo que lhes contasse mais alguma
+coisa.
+
+"Você prometeu que ia contar a sua história, você sabe...", disse Alice,
+"e o motivo de você odiar... G e C", ela acrescentou sussurrante, com um
+certo medo de que ele se ofendesse outra vez.
+
+"Minha história é como o meu rabo: sinuosa e triste", disse o
+Camundongo, virando-se para Alice e suspirando.
+
+"Sinuoso, de fato", disse Alice olhando para o rabo do Camundongo. "Mas
+por que triste?" E ela continuou intrigada enquanto o Camundongo falava,
+de modo que a ideia que lhe ficou da história foi algo mais ou menos
+assim:
+
+> Furioso, cachorrão,\
+> disse,\
+> ao camundongo,\
+> Que\
+> encontrou na\
+> casa,\
+> 'Vamos pro\
+> tribunal. Vou te pro-\
+> cessar...\
+> Ora,\
+> vamos, não\
+> aceito não:\
+> Faça-\
+> mos logo\
+> julga-\
+> mento;\
+> "De fato\
+> hoje cedo\
+> estou\
+> livre"\
+> Disse o\
+> camundongo\
+> ao cão,\
+> "Esse pro-\
+> cesso todo,\
+> meu senhor,\
+> Sem júri ou juiz\
+> Seria uma\
+> perda de tempo".\
+> "Serei teu\
+> juiz,\
+> serei teu\
+> júri",\
+> disse\
+> astuto\
+> o velho\
+> Furi-\
+> oso:\
+> "Pro-\
+> cesso\
+> teu\
+> caso\
+> e con-\
+> deno-te\
+> à\
+> mor-\
+> te."
+
+"Você não está prestando atenção", disse o Camundongo a Alice
+severamente. "No que você está pensando?"
+
+"Desculpe", disse Alice humildemente. "Será que você não está se
+desviando demais?"
+
+"Não, está bem amarrado!", exclamou o Camundongo, irritadiço.
+
+"Amarrado!", disse Alice, sempre prestativa, e olhando aflita para os
+lados. "Oh, deixe-me ajudar a desamarrar!"
+
+"Não deixo coisa alguma", disse o Camundongo, levantando-se e
+retirando-se. "Você me insulta com esses absurdos!"
+
+"Não foi por mal!", suplicou a pobre Alice. "Mas você se ofende por
+qualquer coisa, você sabe..."
+
+O Camundongo simplesmente grunhiu em resposta.
+
+"Por favor, volte para terminar a sua história!", Alice pediu a ele. E
+os outros todos se juntaram em coro, "Sim, por favor!", mas o Camundongo
+balançou a cabeça com impaciência e continuou a andar um pouco mais
+depressa.
+
+"Que pena que ele não ficou", suspirou o Louro, quando já não se
+avistava mais ele; e uma velha Carangueja aproveitou a oportunidade para
+dizer à filha: "Ah, meu bem! Que isso sirva de lição para você nunca
+perder a paciência!".
+
+"Controle-se, mamãe!", disse a jovem Caranguejinha, um tanto
+impertinente. "Você é demais até para a paciência de uma ostra!"
+
+"Quem dera Dinah estivesse aqui, como eu queria!", disse Alice em voz
+alta, para ninguém em particular. "Ela logo o buscaria!"
+
+"E quem é Dinah, se você me permite perguntar?", disse o Louro.
+
+Alice respondeu avidamente, pois estava sempre disposta a falar de sua
+gata: "A Dinah é a nossa gata. E ela é ótima caçadora de camundongos,
+vocês não imaginam! E, oh, vocês precisavam vê-la correndo atrás das
+aves! Ora, ela devora todo pássaro que encontra!"
+
+Esse discurso causou notável comoção no grupo. Algumas aves foram embora
+imediatamente; uma velha Pêga começou a se arrumar com parcimônia,
+comentando: "Eu realmente preciso ir para casa; o ar frio da noite não
+faz bem à minha garganta!", e um Canário chamou com voz trêmula os
+filhos: "Vamos, meus queridos! Já passou da hora de vocês estarem na
+cama!". Sob vários pretextos, todos foram embora e logo Alice ficou
+sozinha.
+
+"Quem dera eu não tivesse mencionado a Dinah!", ela disse consigo mesma
+em tom melancólico. "Pelo visto, ninguém gosta dela aqui embaixo, e eu
+não tenho dúvida de que ela é a melhor gata do mundo! Oh, minha querida
+Dinah! Será que algum dia voltarei a vê-la..."
+
+E aqui a pobre Alice começou a chorar de novo, pois se sentia sozinha e
+desanimada. Dali a pouco, no entanto, outra vez, ela ouviu um som de
+passos ao longe e ergueu os olhos avidamente, com certa esperança de que
+o Camundongo tivesse mudado de ideia e estivesse voltando para terminar
+sua história.
+
+## O Coelho manda um lagarto
+
+Era o Coelho Branco, voltando lentamente em seu trote e olhando aflito
+para os lados, no caminho, como se tivesse perdido alguma coisa; e ela o
+ouviu resmungar consigo mesmo: "A Duquesa! A Duquesa! Oh, minhas patas!
+Oh, minha pele e minhas suíças! Ela vai mandar me matar, tão certo como
+furões são furões! Onde posso ter deixado cair?". Alice concluiu
+instantaneamente que ele estava procurando o leque e as luvas brancas, e
+ela, muito generosamente, começou a procurá-los, mas não encontrou em
+lugar nenhum --- tudo parecia ter se transformado desde que ela nadara
+na piscina, e o grande salão, com a mesa de vidro e a portinha, havia
+desaparecido completamente.
+
+Rapidamente o Coelho notou a presença de Alice, conforme ela começou a
+procurar, e chamou em tom irritadiço: "Ora, Mary Ann, o que você está
+fazendo aqui fora? Vá correndo já para casa e traga-me um par de luvas e
+um leque! Depressa, agora!". E Alice ficou tão assustada que saiu
+correndo imediatamente na direção que ele apontou, sem tentar explicar o
+equívoco que ele havia cometido.
+
+"Ele acha que sou sua empregada", ela disse consigo mesma enquanto
+corria. "Que surpresa ele terá ao descobrir quem sou eu! Mas é melhor eu
+levar para ele o leque e as luvas --- isto é, se eu conseguir
+encontrar." Ao dizer isso, ela deparou com uma bela casinha, em cuja
+porta havia uma placa de latão polido escrito "[coelho b]{.smallcaps}."
+em letras gravadas. Ela entrou sem bater, com muito medo de encontrar a
+verdadeira Mary Ann e de ser expulsa da casa antes de encontrar leque e
+luvas.
+
+"Que esquisito", Alice disse consigo mesma, "cumprir tarefas para um
+coelho! Imagino que Dinah também vá querer que eu faça favores para
+ela!" E ela começou a imaginar o tipo de coisa que aconteceria: "
+'Senhorita Alice! Venha já aqui e arrume-se para sair!' 'Só um
+minutinho, babá, já vou! Mas tenho antes que vigiar esse buraco de
+camundongo enquanto a Dinah não volta, para ver se o camundongo não
+sai.' Só que eu não acho", Alice prosseguiu, "que vão deixar a Dinah
+continuar em casa se ela começar a dar ordens às pessoas desse jeito!"
+
+A essa altura, ela já havia encontrado uma salinha arrumada com uma mesa
+junto à janela, e em cima da mesa (como ela esperava que fosse) um leque
+e dois ou três pares minúsculos de luvinhas brancas: ela pegou o leque e
+um par de luvas e estava prestes a sair da salinha, quando seus olhos
+depararam com uma garrafinha que estava perto de um espelho. Dessa vez,
+não havia rótulo escrito "[beba-me]{.smallcaps}", mas mesmo assim ela
+tirou a rolha e levou o gargalo aos lábios. "Sei que alguma coisa
+interessante certamente vai acontecer", ela disse consigo mesma, "sempre
+que eu comer ou beber alguma coisa; então vou só esperar para ver o que
+essa garrafinha faz. Espero que me faça crescer de novo, pois estou
+realmente cansada de ser assim minúscula!"
+
+De fato, fez, e muito antes do que ela esperava: antes de beber metade
+da garrafa, sua cabeça já estava encostando no teto, e ela precisou
+inclinar a cabeça para a frente para não quebrar o pescoço. Ela depôs a
+garrafa depressa, dizendo consigo mesma: "Já é o bastante... espero que
+eu pare de crescer agora... Desse jeito, não vou conseguir sair pela
+porta... Quem dera eu não tivesse bebido tanto!".
+
+Pena! Era tarde demais para desejar isso! Ela continuou crescendo, e
+crescendo, e logo precisou se ajoelhar no chão: no minuto seguinte, não
+havia espaço nem para se ajoelhar, e ela tentou deitar no chão com um
+cotovelo encostado na porta, e o outro braço abraçando a cabeça. Mesmo
+assim ela continuou crescendo, e, como um último recurso, ela passou um
+braço pela janela, e um pé pela chaminé, e disse consigo mesma: "Agora
+não dá mais, aconteça o que acontecer. O que será de mim?".
+
+Para sorte de Alice, a garrafinha mágica atingiu o efeito máximo, e ela
+não cresceu mais: ainda assim estava desconfortável, e, como não parecia
+haver nenhuma possibilidade de sair daquela salinha, não foi estranho
+que ela se sentisse infeliz.
+
+"Em casa era muito melhor", pensou a pobre Alice, "a gente não ficava
+sempre crescendo e diminuindo sem parar, e recebendo ordens de
+camundongos e coelhos. Quase desejo não ter entrado naquela toca de
+coelho... e no entanto... e no entanto... é bem curioso, sabe como é...
+esse tipo de vida! Eu me pergunto o que pode ter acontecido comigo!
+Quando eu lia contos de fadas, eu achava que esse tipo de coisa não
+acontecesse nunca, e agora aqui estou eu no meio de um desses contos!
+Alguém devia escrever um livro sobre mim, isso sim! E, quando eu
+crescer, vou escrever um... bem, agora já estou bem crescidinha", ela
+agregou em tom tristonho; "mas... pelo menos *aqui* não tem mais espaço
+para crescer".
+
+"Mas será", pensou Alice, "que eu nunca vou ficar mais velha do que sou
+agora? Isso seria um consolo, de certo modo... nunca virar uma
+velhinha... mas... ter que fazer lição de casa para sempre! Oh, eu não
+ia gostar nada disso!"
+
+"Oh, Alice, sua boba", ela mesma se respondeu. "Como você vai fazer
+lição aqui? Ora, mal tem espaço para você, que dirá para os livros!"
+
+E assim ela prosseguiu, pensando primeiro por um lado, depois por outro,
+e fazendo disso uma verdadeira conversa consigo mesma; mas, depois de
+alguns minutos, ela escutou uma voz lá fora e parou para ouvir.
+
+"Mary Ann! Mary Ann!", dizia a voz. "Traga minhas luvas já!" Então ela
+ouviu o som de passos na escada. Alice sabia que era o Coelho vindo
+procurá-la, e ela estremeceu tanto que fez tremer a casa, esquecendo-se
+de que agora era mil vezes maior que o Coelho e não tinha motivos para
+ter medo dele.
+
+Então o Coelho chegou perto da porta e tentou abri-la; mas, como a porta
+abria para dentro, e o cotovelo de Alice estava apoiado contra a porta,
+essa tentativa fracassou. Alice o ouviu dizer de si para si: "Sendo
+assim, vou dar a volta e entrar pela janela".
+
+"Isso você não vai conseguir", pensou Alice, e, depois de esperar até
+ouvir que o Coelho chegara embaixo da janela, ela de repente esticou a
+mão e agarrou o ar. Ela não agarrou nada, mas ouviu um gritinho e o som
+de algo caindo, e de vidro quebrando, ao que concluiu que era possível
+que ele tivesse caído em uma estufa de pepinos ou algo do tipo.
+
+Em seguida, veio uma voz furiosa --- a voz do Coelho --- "Pat! Pat! Onde
+está você?" E então uma voz que ela nunca tinha ouvido antes: "Estou
+aqui, onde mais? Colhendo maçãs, excelência!".
+
+"Colhendo maçãs, ora!", disse o Coelho, irritado. "Aqui! Venha me ajudar
+com isso!" (Mais sons de vidro quebrado.)
+
+"Agora me diga uma coisa, Pat, o que você está vendo na janela?"
+
+"Sem dúvida, é um braço, excelência." (Ele pronunciava "brrazo".)
+
+"Um braço, seu tonto! Onde já se viu um braço desse tamanho? Ora, ocupa
+a janela inteira!"
+
+"Sem dúvida, ocupa, excelência... Mas mesmo assim é um braço."
+
+"Bem, isso não tem nada que fazer aí, seja como for: tire já isso daí!"
+
+Houve um longo silêncio depois disso, e Alice só ouviu sussurros aqui e
+ali; como: "Sem dúvida, não estou gostando, excelência, nem um pouco,
+nem um pouco!", "Faça o que estou dizendo, seu covarde!", e por fim ela
+esticou a mão de novo e tentou novamente agarrar o ar. Dessa vez, houve
+dois gritinhos, e mais sons de vidro se quebrando. "Quantas estufas de
+pepinos deve haver aí!", pensou Alice. "Imagino o que eles farão agora!
+Quanto a me tirar pela janela, quem dera eles conseguissem! Com certeza
+*eu* não quero ficar mais aqui!"
+
+Ela esperou algum tempo até não escutar mais nada: por fim, veio um
+barulho de rodas de carroça, e o som de muitas vozes falando ao mesmo
+tempo: ela conseguiu entender as palavras: "Cadê a outra escada?" "Ora,
+eu não trouxe outra, porque o Bill tinha uma... Bill! Traga aqui essa
+escada, rapaz!... Aqui, ponha nesse canto... Não, amarre as duas
+primeiro... ainda não chega na metade da altura... Oh! Bem, é o que
+temos; não seja tão implicante... Aqui, Bill! Pegue essa corda... Será
+que o telhado vai suportar? Cuidado com essa telha solta... Oh, caiu!
+Cuidado com a cabeça aí embaixo!" (um barulho estrondoso)... --- "Ora, o
+que foi isso?" "Acho que foi o Bill... Quem vai descer pela chaminé?
+Não, eu que não vou! Vá você então! O Bill desce... Aqui, Bill!, o
+patrão mandou você descer pela chaminé!"
+
+"Oh! Quer dizer que o Bill vai descer pela chaminé?", disse Alice
+consigo mesma. "Ora, pelo visto, eles mandam esse Bill fazer tudo! Eu
+não queria estar no lugar desse Bill por nada neste mundo: essa lareira
+é estreita, sem dúvida; mas acho que consigo dar um chute!"
+
+Ela esticou o pé até a chaminé, o máximo que conseguiu, e esperou até
+ouvir o pequeno animal se aproximar (ela não fazia ideia do tipo de
+animal), arrastando-se e esforçando-se para descer a chaminé acima dela:
+então, dizendo consigo mesma, "Deve ser o Bill", ela deu um chute firme
+e esperou para ver o que ia acontecer em seguida.
+
+A primeira coisa que ela ouviu foi um coro geral de "Lá se vai o Bill",
+então a voz do Coelho apenas: "Não o deixe cair, você aí perto da
+cerca!", depois o silêncio, e em seguida outra confusão de vozes ---
+"Levante a cabeça dele... Conhaque, já! Não deixe engasgar... Como você
+está, meu velho? O que aconteceu? Queremos saber tudo!"
+
+Por fim, ouviu-se uma vozinha fraca, esganiçada ("Deve ser o Bill",
+pensou Alice), "Bem, eu não sei exatamente... Já chega, obrigado; já
+estou melhor... mas ainda estou confuso demais para explicar... só sei
+que alguma coisa me atingiu, como um boneco de mola numa caixa, e,
+quando vi, eu estava subindo feito um foguete!"
+
+"Você subiu mesmo, meu velho!", disseram os outros.
+
+"Vamos incendiar a casa!", disse a voz do Coelho. E Alice exclamou o
+mais alto que podia: "Se vocês fizerem isso, mando a Dinah atrás de
+vocês!".
+
+Por um momento, fez-se um silêncio mortal e Alice pensou consigo mesma:
+"O que será que eles vão fazer agora? Se eles tivessem um pingo de bom
+senso, arrancariam esse telhado". Depois de um minuto ou dois, eles
+voltaram a se mexer, e Alice ouviu o Coelho dizer: "Um carrinho cheio
+será o suficiente".
+
+"Um carrinho cheio do quê?", pensou Alice. Mas sua dúvida não durou
+muito, pois no momento seguinte uma chuva de pedrinhas se chocou contra
+a janela, e algumas acertaram seu rosto. "Vou dar um jeito nisso agora
+mesmo", ela disse consigo mesma, e gritou: "Melhor vocês não fazerem
+mais isso!", o que produziu outro silêncio de morte.
+
+Alice reparou com certa surpresa que as pedrinhas estavam todas se
+transformando em bolinhos conforme caíam no chão, e uma ideia brilhante
+lhe ocorreu. "Se eu comer um desses bolinhos", ela pensou, "certamente
+alguma mudança de tamanho vou sofrer; e imagino que, como é impossível
+crescer, vou acabar diminuindo."
+
+Então ela comeu um bolinho e ficou contente ao ver que começou a
+diminuir instantaneamente. Assim que ficou pequena o suficiente para
+passar pela porta, ela saiu correndo da casa e encontrou uma verdadeira
+multidão de animaizinhos e aves esperando do lado de fora. O pobrezinho
+do Lagarto, Bill, estava no meio, apoiado por dois porquinhos-da-índia
+que lhe davam uma garrafa para beber. Todos correram na direção de Alice
+no momento em que ela apareceu; mas ela correu o máximo que podia e logo
+se viu a salvo no meio de uma densa floresta.
+
+"A primeira coisa que devo fazer", disse Alice para si mesma, enquanto
+perambulava pela floresta, "é voltar ao meu tamanho original; e a
+segunda coisa é encontrar o caminho para aquele jardim adorável. Acho
+que esse é o melhor plano."
+
+Parecia um plano excelente, sem dúvida, e planejado de modo muito exato
+e simples; a única dificuldade era que ela não sabia por onde começar;
+e, enquanto espiava aflita entre as árvores, ouviu um latidinho agudo
+acima de sua cabeça que lhe fez olhar para cima rapidamente.
+
+Um cachorrinho enorme olhava para baixo com grandes olhos redondos
+voltados para ela e, mansamente esticando uma pata, tentava tocá-la.
+"Pobrezinho!", disse Alice, em tom de adulação, e tentou assobiar para
+ele; mas o tempo todo ela estava terrivelmente assustada pensando que
+talvez ele estivesse com fome, e nesse caso era muito provável que ele a
+devorasse apesar de toda sua adulação.
+
+Mal sabendo o que fazia, ela pegou um pedaço de um graveto, e mostrou
+para o filhote; ao que o cachorrinho saltou no ar com as quatro patas,
+com um ganido de prazer, e foi correndo atrás do graveto, e fingiu
+rosnar para o graveto; então Alice se escondeu atrás de um cardo enorme
+para evitar ser pisoteada; e, no momento em que reapareceu do outro
+lado, o cachorrinho correu de novo atrás do graveto, tropeçou e deu uma
+cambalhota na afobação de buscar o graveto; então Alice, pensando que
+era como brincar entre as patas de um cavalo, e esperando a qualquer
+momento ser pisoteada, tornou a se esconder atrás do cardo enorme; então
+o cachorrinho começou uma série de ataques breves contra o graveto,
+correndo um pouquinho para a frente e depois correndo mais para trás, e
+latindo roucamente o tempo todo, até que por fim o cachorrinho se
+sentou, ofegante, com a língua de fora, e os grandes olhos entreabertos.
+
+Parecia uma boa oportunidade para Alice conseguir escapar; então ela
+logo partiu e correu até se cansar e ficar sem fôlego, e até que os
+latidos do cachorrinho soaram fraquinhos à distância.
+
+"E, no entanto, que cachorrinho fofo era esse!", disse Alice,
+apoiando-se a um ranúnculo para descansar, abanando-se com uma das
+folhas. "Eu teria adorado ensinar alguns outros truques para ele, se...
+se ao menos eu tivesse o tamanho certo para isso! Oh, céus! Quase me
+esqueci de que preciso crescer de novo! Vejamos... como isso poderia ser
+resolvido? Acho que o melhor seria comer ou beber uma coisa ou outra;
+mas a grande questão é o quê?".
+
+A grande questão certamente era: o quê? Alice olhou à sua volta, para as
+flores e as folhas de relva, mas não conseguiu encontrar nada que
+parecesse a coisa certa para comer ou beber naquelas circunstâncias.
+Havia um grande cogumelo perto dela, quase da sua altura; e, depois que
+observou por baixo, e pelos dois lados, e por trás do cogumelo,
+ocorreu-lhe que podia também dar uma olhada por cima.
+
+Ela se esticou na ponta dos pés e espiou pela borda do cogumelo, e seus
+olhos imediatamente deram com os olhos de uma grande lagarta azul
+sentada em cima do cogumelo, de braços cruzados, silenciosamente fumando
+um narguilé, e sem dar a menor atenção a ela ou a qualquer outra coisa.
+
+## Conselho de uma Lagarta
+
+
+A Lagarta e Alice se entreolharam por algum tempo em silêncio: por fim a
+Lagarta tirou o narguilé da boca e se dirigiu a ela, com uma voz
+lânguida, sonolenta.
+
+"Quem é você?", disse a Lagarta.
+
+Esse não foi um começo de conversa muito encorajador. Alice respondeu,
+um tanto timidamente: "Senhor, eu não sei bem, no momento... pelo menos
+eu sei quem eu era quando acordei hoje cedo, mas acho que devo ter
+mudado várias vezes de lá para cá."
+
+"Como assim?", disse seriamente a Lagarta. "Explique-se!"
+
+"Não sei me explicar, infelizmente, senhor", disse Alice, "porque não
+sou mais eu mesma, sabe..."
+
+"Não sei", disse a Lagarta.
+
+"Infelizmente não consigo explicar com mais clareza", disse Alice muito
+educadamente, "pois eu mesma não entendo, antes de mais nada, e depois
+de ter vários tamanhos diferentes no mesmo dia, é muito confuso."
+
+"Não é nada confuso", disse a Lagarta.
+
+"Bem, talvez o senhor não ache", disse Alice, "mas, quando você tiver
+que virar crisálida... você sabe, algum dia isso vai acontecer... e
+depois virar borboleta, acho que o senhor também vai se sentir um pouco
+esquisito, não é mesmo?"
+
+"Nem um pouco", disse a Lagarta.
+
+"Bem, talvez os seus sentimentos sejam diferentes dos meus", disse
+Alice; "só sei que, se fosse comigo, eu acharia muito esquisito."
+
+"Você!", disse a Lagarta com desdém. "Quem é você?"
+
+O que os trouxe de volta, mais uma vez, ao começo da conversa. Alice
+sentiu-se um pouco irritada com a Lagarta fazendo comentários *muito*
+sucintos e se levantou e disse, muito gravemente: "Acho que o senhor
+deveria me dizer quem é você primeiro".
+
+"Por quê?", disse a Lagarta.
+
+Eis outra questão enigmática; e como Alice não conseguiu pensar em
+nenhum bom motivo, e como a Lagarta parecia em um estado de espírito
+*muito* desagradável, ela se virou para ir embora.
+
+"Volte aqui!", a Lagarta chamou. "Tenho algo importante a dizer!"
+
+Isso pareceu promissor, sem dúvida. Alice se virou e voltou mais uma
+vez.
+
+"Não perca a paciência", disse a Lagarta.
+
+"Era só isso?", disse Alice, engolindo sua raiva o melhor que conseguia.
+
+"Não", disse a Lagarta.
+
+Alice achou por bem esperar, já que não tinha mais nada para fazer, e
+talvez afinal a Lagarta dissesse algo que valesse a pena ouvir. Por
+alguns minutos, a Lagarta ficou soltando fumaça sem falar, mas por fim
+descruzou os braços, tirou o narguilé da boca de novo e disse: "Quer
+dizer que você se transformou?".
+
+"Infelizmente, sim, senhor", disse Alice. "Não consigo me lembrar das
+coisas que eu sabia... e parece que não consigo manter o mesmo tamanho
+por mais de dez minutos!"
+
+"Não se lembra de quais coisas?", disse a Lagarta.
+
+"Bem, eu tentei recitar *Como a pequena abelha*, mas saiu tudo
+diferente!", Alice respondeu com voz melancólica.
+
+"Recite 'Você está velho, pai William' ", disse a Lagarta.
+
+Alice juntou as mãos e começou:
+
+> "Você está velho, pai William", disse o moço,\
+> "E seu cabelo ficou branco;\
+> No entanto, você planta bananeira ---\
+> Na sua idade, não é um desplante?"
+>
+> "No meu tempo", pai William respondeu ao filho,\
+> "Achava que fazia mal aos miolos;\
+> Mas hoje, que sei que miolos não tenho,\
+> Ora, planto bananeira a todo instante."
+>
+> "Você está velho", disse o moço, "como eu disse,\
+> E ficou gordo demais desse jeito;\
+> Ainda assim dá cambalhota para trás ---\
+> Ora, qual é o seu intuito?"
+>
+> "No meu tempo", disse o sábio, das cacheadas cãs,\
+> "Mantive braços e pernas flexíveis\
+> Usando essa pomada --- um xelim a lata ---\
+> Se quiser comprar, tenho algumas!"
+>
+> "Você está velho", disse o moço, "desdentado,\
+> Não morde nada mais duro que banha;\
+> Ainda assim devorou o ganso, com ossos e bico ---\
+> Ora, como consegue tal proeza?"
+>
+> "No meu tempo", disse o pai, "fui tribuno,\
+> Discutia meus casos com a esposa;\
+> E a musculatura que isso me deu à mandíbula\
+> Durou pelo resto da vida."
+>
+> "Você está velho", disse o moço, "ninguém diria\
+> Que os seus olhos já tiveram boa mira;\
+> Mas você equilibra uma enguia no nariz ---\
+> Como ficou assim sagaz?"
+>
+> "Já respondi três perguntas, já basta",\
+> Disse o pai, "não fique se achando!\
+> Você acha que tenho o dia inteiro?\
+> Se não parar com isso, te chuto lá para baixo!"
+
+"Você recitou errado", disse a Lagarta.
+
+"Não saiu perfeito, infelizmente", disse Alice, timidamente; "algumas
+palavras saíram alteradas."
+
+"Está errado do começo ao fim", disse a Lagarta, decidida, e houve um
+silêncio de alguns minutos.
+
+A Lagarta falou primeiro.
+
+"Qual tamanho você gostaria de ter?", a Lagarta perguntou.
+
+"Oh, eu não sou detalhista para tamanho", Alice respondeu
+apressadamente; "só não gosto de ficar mudando tanto, sabe..."
+
+"Não sei", disse a Lagarta.
+
+Alice não falou nada: nunca ninguém a contradissera tanto na vida, e ela
+sentiu que ia perder a paciência.
+
+"Você está contente agora?", disse a Lagarta.
+
+"Bem, eu preferiria ser um pouquinho maior, senhor, se o senhor não se
+importa", disse Alice. "Sete centímetros é uma altura horrível de se
+ter."
+
+"Na verdade, é uma altura muito boa", disse irritadamente a Lagarta,
+erguendo-se, muito empertigado, enquanto falava (ele tinha justamente
+sete centímetros de altura).
+
+"Mas é que eu não estou acostumada!", implorou a pobre Alice em tom
+piedoso. E ela pensou consigo mesma: "Quem dera as criaturas não se
+ofendessem tão facilmente assim!".
+
+"Com o tempo, você vai se acostumar", disse a Lagarta; e pôs o narguilé
+na boca e começou a fumar outra vez.
+
+Dessa vez Alice esperou com paciência até que a Lagarta quisesse falar
+de novo. Dali um ou dois minutos, a Lagarta tirou o narguilé da boca e
+bocejou uma ou duas vezes, e se sacudiu. Então desceu do cogumelo e
+rastejou pela relva, simplesmente comentando no caminho: "Um lado fará
+você ficar mais alta, e o outro lado fará você ficar mais baixa".
+
+"Um lado do quê? O outro lado do quê?", pensou Alice consigo mesma.
+
+"Do cogumelo", disse a Lagarta, como se Alice tivesse falado em voz
+alta; e, no momento seguinte, a Lagarta sumiu.
+
+Alice continuou olhando pensativamente para o cogumelo por um minuto,
+tentando entender quais eram os dois lados do cogumelo; e, como o
+cogumelo era perfeitamente redondo, ela achou essa uma questão muito
+difícil. No entanto, por fim, ela esticou os braços, abertos, ao máximo,
+e arrancou um pedaço da borda com cada mão.
+
+"E agora: qual será o quê?", disse consigo mesma, e mordiscou um
+pedacinho do da mão direita para ver o efeito: no momento seguinte,
+sentiu uma pancada violenta no queixo: seu queixo havia batido em seu
+pé!
+
+Ela ficou um bocado apavorada com essa mudança tão súbita, mas percebeu
+que não havia tempo a perder, pois estava encolhendo rapidamente; então
+resolveu logo comer um pedaço do outro. Seu queixo estava tão
+pressionado contra seus pés que quase não tinha espaço para ela abrir a
+boca; mas ela abriu enfim, e conseguiu engolir um pedaço do pedaço da
+mão esquerda.
+
+"Ora, finalmente minha cabeça está livre!", disse Alice em tom
+satisfeito, mas que se tornou um tom preocupado no momento seguinte,
+quando ela descobriu que não conseguia ver os próprios ombros: a única
+coisa que ela conseguiu ver, quando olhou para baixo, foi uma imensa
+extensão de pescoço, que parecia brotar como um talo em meio a um mar de
+folhas verdes, ao longe, muito lá embaixo.
+
+"O que será toda essa coisa verde?", disse Alice. "E por onde andarão
+meus ombros? E, oh, minhas pobres mãos, por que não consigo vê-las?" Ela
+estava movimentando as mãos enquanto falava, mas aparentemente não havia
+nenhum efeito, exceto um ligeiro tremor em meio às remotas folhagens lá
+embaixo.
+
+Como não parecia haver nenhuma possibilidade de levar as mãos até a
+cabeça, ela tentou levar a cabeça até as mãos e ficou contente ao
+descobrir que seu pescoço se dobrava facilmente em qualquer direção,
+como uma serpente. Ela havia acabado de conseguir dobrá-lo em um
+gracioso zigue-zague, e estava mergulhando entre as folhagens, que
+descobriu serem simplesmente as copas das árvores sob as quais ela
+estivera perambulando, quando um zunido agudo a fez recuar apressada:
+uma pomba grande veio até seu rosto e bateu violentamente com as asas.
+
+"Serpente!", gritou a Pomba.
+
+"Não sou serpente!", disse Alice, indignada. "Deixe-me em paz!"
+
+"Serpente, eu repito!", repetiu a Pomba, mas em tom mais ameno, e
+agregou com uma espécie de soluço: "Já tentei de tudo, nada parece bom o
+suficiente para vocês!".
+
+"Não faço a menor ideia do que você está falando", disse Alice.
+
+Alice estava cada vez mais intrigada, mas achou que não adiantaria nada
+dizer qualquer coisa enquanto a Pomba não terminasse de falar.
+
+"Como se já não bastasse o trabalho de chocar os ovos", disse a Pomba;
+"eu ainda tenho que me preocupar com vocês, serpentes, noite e dia! Ora,
+eu não preguei o olho um minuto essas últimas três semanas!"
+
+"Lamento ter incomodado", disse Alice, que estava começando a entender o
+sentido daquilo.
+
+"Mas eu não sou serpente, estou dizendo", disse Alice. "Eu sou... Eu
+sou..."
+
+"Bem! O que você é afinal?", disse a Pomba. "Pelo visto você está
+tentando inventar uma mentira!"
+
+"Até parece!", disse a Pomba em tom do mais profundo desdém. "Eu já vi
+muitas meninas ao longo da vida, mas nunca vi uma menina com um pescoço
+desse! Não, não! Você é uma serpente, não adianta negar. Daqui a pouco
+você vai me dizer que nunca comeu ovo!"
+
+"Já comi ovo, certamente", disse Alice, que era uma criança muito
+sincera; "mas meninas também comem ovos, tanto quanto serpentes, você
+sabe."
+
+"Eu não acredito", disse a Pomba; "mas, se as meninas comem ovos tanto
+quanto as serpentes, ora, então elas são uma espécie de serpente, eu
+diria."
+
+Essa foi uma ideia tão nova para Alice que ela ficou calada por um ou
+dois minutos, o que deu à Pomba a oportunidade de acrescentar: "Você
+estava procurando ovos, isso eu sei muito bem; e que diferença faz para
+mim se você é uma menina ou uma serpente?".
+
+"Para mim, faz muita diferença", disse logo Alice; "mas eu não estou
+procurando ovo nenhum, na verdade; e, se eu estivesse, eu não iria comer
+os seus. Não gosto de ovo cru."
+
+"Então vá embora!", disse a Pomba, em tom contrariado, enquanto se
+instalava de volta em seu ninho. Alice se abaixou entre as árvores o
+melhor que conseguiu, pois seu pescoço continuava se enroscando nos
+galhos, e de quando em quando ela precisava parar para desenroscar.
+Algum tempo depois ela se lembrou de que ainda estava com os pedaços de
+cogumelo nas mãos, e agiu cautelosamente, mordiscando primeiro um e
+depois o outro, e ficando ora maior, ora menor, até conseguir voltar à
+sua altura de sempre.
+
+Fazia tanto tempo que ela não ficava do tamanho certo que a princípio se
+sentiu muito estranha; mas se acostumou em poucos minutos e começou a
+falar sozinha, como sempre. "Ora, ora, cumpri metade do meu plano! Como
+essas transformações são enigmáticas! Nunca sei o que vou ser de um
+minuto para o outro! No entanto, voltei para o meu tamanho certo: a
+próxima coisa agora é voltar para aquele lindo jardim... como fazer
+isso? É o que eu me pergunto agora..." Enquanto ela dizia isso, chegou
+de repente a um lugar aberto, com uma casinha de menos de um metro e
+meio de altura. "Quem quer que seja o morador dessa casinha", pensou
+Alice, "não poderei chegar com esse tamanho: ora, o morador
+enlouqueceria de susto!" De modo que ela começou a mordiscar o pedaço da
+mão direita, e só ousou se aproximar da casa quando estava com uns vinte
+centímetros de altura.
+
+## Porco e pimenta
+Por um minuto ou dois, ela ficou olhando para a casa e se perguntando o
+que faria em seguida, quando de repente um criado de libré saiu correndo
+da floresta --- (ela considerou que fosse um criado porque estava usando
+libré: do contrário, a julgar apenas pelo rosto dele, ela o teria
+chamado de peixe) --- e bateu com estardalhaço na porta com os nós dos
+dedos. A porta foi aberta por outro criado de libré, de rosto redondo e
+grandes olhos de rã; e ambos os criados, reparou Alice, usavam perucas
+empoadas e cacheadas nas cabeças. Ela ficou muito curiosa para saber o
+que significava tudo aquilo e se esgueirou um pouco para fora da mata
+para escutar.
+
+O criado Peixe começou tirando de debaixo do braço uma longa carta,
+quase tão comprida quanto ele, e entregou essa carta ao outro, dizendo,
+em tom solene: "Para a Duquesa. Um convite da Rainha para jogar
+*croquet*". O criado Rã repetiu, no mesmo tom solene, apenas mudando um
+pouco a ordem das palavras: "Da Rainha. Um convite para a Duquesa para
+jogar *croquet*".
+
+Então ambos fizeram mesuras, e seus cachos empoados se enroscaram.
+
+Alice riu tanto nessa hora que precisou voltar correndo para a floresta
+com medo de que a ouvissem; e, quando ela tornou a espiar, o criado
+Peixe tinha ido embora, e o outro estava sentado no chão perto da porta,
+contemplando o céu estupidamente.
+
+Alice caminhou timidamente até a porta e bateu.
+
+"Não adianta bater", disse o Criado, "e isso por dois motivos. Primeiro,
+estou do mesmo lado da porta que você; segundo, estão fazendo tanto
+barulho lá dentro que ninguém vai conseguir ouvir." E certamente havia
+um barulho extraordinário lá dentro --- berros e espirros incessantes, e
+de quando em quando estrondos altíssimos, como de um prato ou de um bule
+estilhaçados.
+
+"Por favor, então", disse Alice, "como posso entrar?"
+
+"Talvez fizesse sentido bater", o Criado prosseguiu sem olhar para ela,
+"se a porta estivesse entre nós. Por exemplo, se você estivesse lá
+dentro, você poderia bater, e eu poderia deixar você sair, você sabe..."
+Ele estava olhando para o céu todo o tempo em que falava, e isso Alice
+achou definitivamente indelicado. "Mas talvez ele não faça por mal", ela
+disse consigo mesma. "Os olhos dele ficam muito juntos no alto da
+cabeça. Mas mesmo assim ele podia responder. Como posso entrar?", ela
+repetiu em voz alta.
+
+"Vou ficar aqui sentado", comentou o Criado, "até amanhã..."
+
+Nesse momento, a porta da casa abriu e um prato grande voou para fora,
+na direção da cabeça do Criado: o prato apenas resvalou em seu nariz e
+se espatifou contra as árvores atrás dele.
+
+"... ou talvez até depois de amanhã", o Criado continuou no mesmo tom,
+justamente como se nada tivesse acontecido.
+
+"Como posso entrar?", perguntou Alice outra vez em voz mais alta.
+
+"Você tem mesmo que entrar?", disse o Criado. "Essa é a primeira
+questão, você sabe..."
+
+Sem dúvida, era mesmo: só que Alice não gostou de ouvir. "É realmente
+infernal", ela resmungou consigo mesma, "o modo como todas as criaturas
+questionam tudo aqui. É enlouquecedor!"
+
+O Criado pareceu considerar essa uma boa oportunidade para repetir seu
+comentário, com variações. "Vou ficar aqui sentado", ele disse, "sem me
+mexer, durante dias e dias."
+
+"Mas o que eu vou fazer?", disse Alice.
+
+"O que você quiser", disse o Criado, e começou a assobiar.
+
+"Oh, não adianta falar com esse aí", disse Alice desesperadamente. "É um
+perfeito idiota!" E ela abriu a porta e entrou.
+
+A porta dava diretamente em uma grande cozinha, toda enfumaçada de ponta
+a ponta: a Duquesa estava sentada em um banco de três pernas no meio,
+com um bebê no colo; a cozinheira estava inclinada sobre o fogão,
+mexendo um grande caldeirão que parecia cheio de sopa.
+
+"Sem dúvida tem muita pimenta nessa sopa!", Alice disse consigo mesma,
+da melhor forma que pôde, espirrando.
+
+Sem dúvida, havia muita pimenta no ar. Até a Duquesa espirrava de quando
+em quando; e o bebê ora dava espirro, ora dava uivos, incessantemente.
+As únicas criaturas na cozinha que não estavam espirrando sem parar eram
+a cozinheira e um gato grande, sentado perto do fogo, sorrindo de orelha
+a orelha.
+
+"Por favor, você poderia me dizer", falou Alice um tanto timidamente,
+pois ela não tinha certeza se era educado falar primeiro, "por que o seu
+gato sorri assim?"
+
+"É um gato de Cheshire", disse a Duquesa, "é por isso. Porco!"
+
+Ela disse a última palavra com violência tão súbita que Alice teve um
+sobressalto; mas ela viu no momento seguinte que fora dirigida ao bebê,
+e não a ela, de modo que ela tomou coragem e tornou a falar:
+
+"Eu não sabia que os gatos de Cheshire sempre sorriam assim; na verdade,
+eu não sabia que gato ria."
+
+"Todos os gatos sabem rir", disse a Duquesa; "e a maioria ri."
+
+"Eu não sabia disso, nunca vi um gato rindo", Alice disse muito
+educadamente, sentindo-se muito aliviada por conversar com alguém.
+
+"Você não sabe muita coisa", disse a Duquesa; "e isso é um fato."
+
+Alice não gostou do tom desse comentário e achou que seria bom mudar o
+assunto da conversa. Enquanto tentava pensar em algum, o cozinheiro
+tirou o caldeirão de sopa do fogo e logo começou a atirar tudo o que
+tinha à mão em cima da Duquesa e do bebê --- os atiçadores foram
+primeiro; em seguida veio uma chuva de caçarolas, bandejas e pratos. A
+Duquesa nem se abalou, nem mesmo quando foi atingida; e o bebê já estava
+se esgoelando tanto que era praticamente impossível saber se o haviam
+acertado ou não.
+
+"Oh, por favor, cuidado!", exclamou Alice, pulando e se abaixando em uma
+agonia de terror. "Oh, lá se vai o narizinho lindo dele"; pois uma
+caçarola absurdamente grande passou raspando e quase arrancou o
+narizinho do bebê.
+
+"Se as pessoas cuidassem da própria vida", a Duquesa disse com um
+rosnado rouco, "o mundo giraria muito mais depressa."
+
+"Mas isso não seria uma vantagem", disse Alice, que ficou muito contente
+pela oportunidade de exibir um pouco seus conhecimentos. "Imagine o
+efeito disso sobre o dia e a noite! Você sabe, a Terra leva vinte e
+quatro horas para dar uma volta em seu eixo..."
+
+"Por falar em efeito", disse a Duquesa, "corte a cabeça dela."
+
+Alice olhou aflita para a cozinheira para ver se ela obedeceria; mas a
+cozinheira estava ocupada mexendo a sopa e não parecia estar escutando,
+de modo que ela arriscou prosseguir: "Vinte e quatro horas, eu acho, ou
+será que são doze? Eu..."
+
+"Oh, não me aborreça", disse a Duquesa; "Nunca fui boa com números!" E
+com isso ela voltou a embalar o filho, entoando uma espécie de canção de
+ninar, e sacudindo violentamente o bebê ao final de cada verso:
+
+> Fale brava com seu filhinho,\
+> Bata quando ele espirrar;\
+> Ele só faz isso para me irritar,\
+> Porque sabe que me irrita.\
+> [coro]{.smallcaps}\
+> (Ao qual se juntam a cozinheira e o bebê):\
+> *Uou! uou! uou!*
+
+Enquanto cantava a segunda estrofe da canção, a Duquesa ficou sacudindo
+o bebê tão violentamente, e o pobrezinho se esgoelou tanto, que Alice
+mal conseguiu entender a letra:
+
+> Falo brava com meu filho,\
+> Bato quando ele espirra;\
+> Pois ele sabe se aproveitar\
+> Da pimenta para espirrar!\
+> [coro]{.smallcaps}\
+> *Uou! uou! uou!*
+
+"Tome! Embale um pouco se quiser!", a Duquesa disse a Alice, atirando o
+bebê ao falar. "Preciso ir me arrumar para jogar *croquet* com a
+Rainha", e ela saiu correndo. A cozinheira atirou uma frigideira na
+Duquesa, mas não a acertou.
+
+Alice segurou o bebê com alguma dificuldade, pois era uma criaturazinha
+de formato esquisito e esticava braços e pernas em todas as direções,
+"igualzinho a uma estrela-do-mar", pensou Alice. A pobre criaturazinha
+estava espirrando como um motor a vapor quando ela o pegou no colo, e
+ficou se contorcendo e se esticando sem parar, tanto que, por um minuto
+ou dois, ela fez tudo o que pôde para tentar segurá-lo no colo.
+
+Assim que ela entendeu a melhor forma de embalar o bebê (que era dar um
+nó nele e depois segurar firme a orelha direita e o pé esquerdo, para
+impedir que ele se desamarrasse), ela o levou para o ar livre. "Se eu
+não levar esse bebê comigo", pensou Alice, "sem dúvida ele vai acabar
+morrendo daqui um ou dois dias: não seria um assassinato deixar o bebê
+aqui?" Ela disse essas últimas palavras em voz alta, e a criaturazinha
+grunhiu em resposta (ele havia parado de espirrar a essa altura). "Não
+grunha", disse Alice; "não é um modo apropriado de se expressar."
+
+O bebê grunhiu de novo, e Alice olhou aflita para ver o que havia de
+errado com ele. Não havia nenhuma dúvida de que o bebê tinha um nariz
+bastante arrebitado, muito mais parecido com um focinho do que com um
+nariz de verdade; além disso, seus olhos estavam ficando extremamente
+pequenos para um bebê: de modo geral, Alice não gostou nada da aparência
+daquilo. "Talvez ele estivesse só soluçando", ela pensou, e olhou outra
+vez para os olhos dele para ver se havia lágrimas.
+
+Não, não havia nenhuma lágrima. "Se você se transformar em um porco, meu
+querido", disse Alice, seriamente, "não vou mais querer ficar com você.
+Pense bem!" A pobre criatura soluçou de novo (ou grunhiu, era impossível
+dizer exatamente), e ficaram em silêncio por algum tempo.
+
+Alice estava começando a pensar, "Ora, o que eu vou fazer com essa
+criatura quando voltar para casa?", quando ele grunhiu outra vez, tão
+violentamente, que ela olhou preocupada para seu rosto. Dessa vez, não
+havia mais dúvida: ele era nada mais, nada menos que um porco, e ela
+achou muito absurdo continuar levando-o no colo.
+
+Então ela depôs a criaturazinha no chão e se sentiu bastante aliviada ao
+vê-lo trotar sossegadamente para dentro da floresta. "Se tivesse
+crescido", ela disse consigo mesma, "teria sido uma criança
+horrivelmente feia: mas acho que vai acabar sendo um porco até bonito."
+E ela começou a pensar em outras crianças que conhecia, que dariam belos
+porcos, e estava dizendo a si mesma, "se a gente soubesse o jeito certo
+de transformar...", quando teve um breve sobressalto ao ver o Gato de
+Cheshire sentado em um galho de uma árvore alguns metros adiante.
+
+O Gato simplesmente sorriu ao ver Alice. Ele parecia bondoso, ela
+pensou: embora tivesse garras muito compridas e muitos dentes, de modo
+que ela sentiu que ele devia ser tratado com respeito.
+
+"Gatinho de Cheshire", ela começou, um tanto timidamente, pois não sabia
+se ele iria gostar do apelido: no entanto, ele apenas sorriu um pouco
+mais. "Ora, até agora, ele parece satisfeito", pensou Alice, e
+prosseguiu: "Por favor, você poderia me dizer que caminho devo seguir?".
+
+"Isso depende muito de saber aonde você quer chegar", disse o Gato.
+
+"Não faz muita diferença para mim...", disse Alice.
+
+"Então não importa qual caminho seguir", disse o Gato.
+
+"... desde que eu chegue em algum lugar", Alice explicou.
+
+"Oh, sem dúvida você chegará", disse o Gato, "basta andar bastante."
+
+Alice sentiu que isso era inegável, de modo que tentou outra pergunta.
+"Que tipo de gente vive por aqui?"
+
+"Naquela direção", o Gato disse, acenando com a pata direita, "mora um
+Chapeleiro; e naquela direção", apontando com a outra pata, "mora uma
+Lebre de Março. Qualquer um que você visite: todos os dois são loucos."
+
+"Mas eu não quero visitar gente louca", Alice comentou.
+
+"Oh, isso você não pode evitar", disse o Gato. "Aqui somos todos loucos.
+Eu sou louco. Você é louca."
+
+"Como você sabe que eu sou louca?", disse Alice.
+
+"Deve ser", disse o Gato, "ou não teria vindo aqui."
+
+Alice não achava que isso provava nada; mas prosseguiu. "E como você
+sabe que você é louco?"
+
+"Antes de mais nada", disse o Gato, "cachorros não são loucos. Você
+concorda?"
+
+"Acho que sim", disse Alice.
+
+"Pois bem", o Gato prosseguiu, "você sabe, o cachorro rosna quando está
+bravo e balança o rabo quando está contente. Ora, eu rosno quando estou
+contente e balanço o rabo quando estou bravo. Portanto eu sou louco."
+
+"Eu chamo de ronronar, não de rosnar", disse Alice.
+
+"Chame como quiser", disse o Gato. "Você vai jogar *croquet* com a
+Rainha hoje?"
+
+"Eu adoraria", disse Alice, "mas ainda não fui convidada."
+
+"Você me verá por lá", disse o Gato e sumiu.
+
+Alice não ficou muito surpresa com isso, de tão acostumada que já estava
+com coisas esquisitas acontecendo. Enquanto olhava para o lugar onde ele
+estivera, subitamente ele apareceu de novo.
+
+"Por falar nisso, o que aconteceu com o bebê?", disse o Gato. "Ia me
+esquecendo de perguntar."
+
+"Ele virou um porco", Alice disse sossegadamente, como se fosse algo
+muito natural.
+
+"Como eu pensei", disse o Gato, e tornou a desaparecer.
+
+Alice aguardou um pouquinho, com certa esperança de vê-lo novamente, mas
+ele não apareceu, e, após um ou dois minutos, ela seguiu caminhando na
+direção em que, segundo lhe dissera o Gato, vivia a Lebre de Março. "Já
+conheci outros chapeleiros", ela disse consigo mesma; "a Lebre de Março
+será muito mais interessante, e talvez, como estamos em maio, a lebre
+não esteja tão louca... pelo menos não tanto quanto em março." Ao dizer
+isso, ela olhou para cima, e lá estava o Gato outra vez, sentado no
+galho de uma árvore.
+
+"Você disse porco ou pouco?", disse o Gato.
+
+"Eu disse porco", respondeu Alice, "e eu gostaria que você não ficasse
+aparecendo e desaparecendo de repente: você deixa a gente um pouco
+tonta."
+
+"Está bem", disse o Gato, e dessa vez foi sumindo bem devagar, começando
+pela ponta do rabo, e terminando no sorriso, que permaneceu por algum
+tempo depois que todo o resto havia desaparecido.
+
+"Ora! Já vi muito gato sem sorriso", pensou Alice; "mas um sorriso sem
+gato! É a coisa mais interessante que eu já vi em toda a minha vida."
+
+Ela não chegou a caminhar muito quando avistou a casa da Lebre de Março:
+ela achou que devia ser a casa certa, porque as chaminés eram em forma
+de orelhas e o telhado era peludo. Era uma casa tão grande que ela não
+quis se aproximar sem antes mordiscar mais um pouco do cogumelo da mão
+esquerda e crescer até ficar com uns sessenta centímetros. Mesmo assim,
+ela caminhou até a casa timidamente, dizendo consigo: "E se a lebre
+estiver muito louca?! Estou quase arrependida de não ter ido ao
+Chapeleiro!".
+
+## Chá de loucos
+
+Havia uma mesa posta embaixo de uma árvore na frente da casa, e a Lebre
+de Março e o Chapeleiro estavam tomando chá em volta: um Arganaz estava
+sentado entre eles, dormindo pesado, e os outros dois o usavam como
+almofada para os cotovelos e conversavam por cima de sua cabeça. "Isso
+deve ser muito desconfortável para o Arganaz", pensou Alice; "mas, como
+ele está dormindo, pelo visto, não se importa."
+
+A mesa era grande, mas os três estavam apinhados em um canto. "Não tem
+mais lugar! Não tem mais lugar!", ele gritaram quando viram Alice
+chegar.
+
+"Estou vendo vários lugares!", disse Alice, indignada, sentando-se em
+uma grande poltrona em uma ponta da mesa.
+
+"Beba vinho", disse a Lebre de Março em tom encorajador.
+
+Alice olhou para a mesa, mas só havia chá. "Não estou vendo nenhum
+vinho", ela comentou.
+
+"Não tem mesmo", disse a Lebre de Março.
+
+"Então não é muito educado oferecer", disse Alice, irritada.
+
+"Não é muito educado da sua parte sentar sem ser convidada", disse a
+Lebre de Março.
+
+"Eu não sabia que a mesa era sua", disse Alice. "A mesa está posta para
+muito mais do que três."
+
+"Você está precisando cortar esse cabelo", disse o Chapeleiro. Ele
+estivera observando Alice havia algum tempo com grande curiosidade, e
+foi a primeira coisa que ele disse.
+
+"Você devia aprender a não fazer comentários pessoais", Alice disse com
+certa severidade; "é muito rude."
+
+O Chapeleiro arregalou bem os olhos ao ouvir isso, mas a única coisa que
+ele disse foi: "Qual é a semelhança entre o corvo e a escrivaninha?".
+
+"Ora, agora vamos nos divertir um pouco!", pensou Alice. "Que bom que
+começaram a brincar de enigmas. --- Acho que posso adivinhar", ela
+acrescentou em voz alta.
+
+"Você está dizendo que acha que pode descobrir a resposta?", disse a
+Lebre de Março.
+
+"Exatamente", disse Alice.
+
+"Pois então diga", a Lebre de Março prosseguiu.
+
+"Quero dizer", Alice respondeu rispidamente; "pelo menos... pelo menos é
+o que eu acho... o que dá na mesma, você sabe..."
+
+"Não dá nada na mesma!", disse o Chapeleiro. "Ora, você acha que é a
+mesma coisa dizer que 'eu vejo o que eu como' e 'eu como o que eu
+vejo'?"
+
+"Ou ainda dizer", agregou a Lebre de Março, "que 'eu gosto do que eu
+tenho' é o mesmo que 'eu tenho o que eu gosto'?"
+
+"Daqui a pouco você vai dizer", agregou o Arganaz, que parecia falar
+enquanto dormia, "que 'eu respiro quando durmo' é a mesma coisa que 'eu
+durmo quando respiro'!"
+
+"Só se der na mesma para você", disse o Chapeleiro, e aqui a conversa
+acabou, e o grupo se sentou em silêncio por um minuto, enquanto Alice
+recapitulava tudo o que conseguia se lembrar sobre corvos e
+escrivaninhas, o que não era muito.
+
+O Chapeleiro foi o primeiro a romper o silêncio. "Em que dia do mês
+estamos?", ele disse, virando-se para Alice. Ele havia tirado o relógio
+do bolso e estava olhando contrariado para o relógio, sacudindo-o de
+quando em quando e aproximando-o do ouvido.
+
+Alice pensou um pouco e então disse: "Dia quatro".
+
+"Dois dias atrasado!", suspirou o Chapeleiro. "Eu falei que manteiga na
+engrenagem não ia resolver!", ele acrescentou, olhando irritado para a
+Lebre de Março.
+
+"Era uma manteiga da *melhor* qualidade", a Lebre de Março mansamente
+respondeu.
+
+"Sim, mas devem ter caído também algumas migalhas na engrenagem",
+resmungou o Chapeleiro. "Você não devia ter usado a faca de pão."
+
+A Lebre de Março tirou o relógio do bolso e olhou tristonho para os
+ponteiros: depois mergulhou o relógio em sua xícara de chá e tornou a
+olhar para o relógio: mas não conseguiu pensar em nada melhor para dizer
+do que seu primeiro comentário. "Era uma manteiga da *melhor* qualidade,
+você sabe..."
+
+Alice ficara observando por cima do ombro dele com certa curiosidade.
+"Que relógio engraçado!", ela comentou. "Dá o dia do mês, mas não diz
+que horas são!"
+
+"Por que diria a hora?", resmungou o Chapeleiro. "O seu relógio diz em
+que ano estamos?"
+
+"Claro que não", Alice respondeu muito prontamente. "Mas isso é porque
+continua sendo o mesmo ano por muito tempo."
+
+"Pois bem, o meu relógio diz", disse o Chapeleiro.
+
+Alice ficou terrivelmente intrigada. O comentário do Chapeleiro parecia
+não fazer sentido, e no entanto ele falava sem dúvida a mesma língua.
+"Não sei se entendi", ela disse, o mais educadamente que conseguiu.
+
+"O Arganaz dormiu de novo", disse o Chapeleiro, e serviu chá quente em
+seu nariz.
+
+O Arganaz sacudiu a cabeça impaciente e disse, sem abrir os olhos:
+"Claro, claro, era jsutamente o que eu ia dizer".
+
+"Você já adivinhou o enigma?", o Chapeleiro disse, virando-se de novo
+para Alice.
+
+"Não, eu desisto", Alice respondeu. "Qual é a resposta?"
+
+"Não faço a menor ideia", disse o Chapeleiro.
+
+"Nem eu", disse a Lebre de Março.
+
+Alice soltou um suspiro de desgosto. "O tempo é uma coisa preciosa", ela
+disse, "para desperdiçar com enigmas sem resposta."
+
+"Se você conhecesse o Tempo como eu conheço", disse o Chapeleiro, "você
+não diria que é uma coisa. Ele é uma pessoa."
+
+"Não entendi o que você disse", disse Alice.
+
+"Claro que não entendeu!", o Chapeleiro disse, jogando a cabeça para
+trás com desdém. "Eu diria que você nunca conversou com o Tempo!"
+
+"Talvez não", Alice respondeu com cautela. "Mas eu aprendi na aula de
+música a marcar o tempo, batendo assim..."
+
+"Ah! Então está explicado", disse o Chapeleiro. "Ele não gosta que
+batam. Agora, se você se dá bem com ele, ele faz praticamente tudo o que
+você quiser com o relógio. Por exemplo, suponhamos que agora fossem nove
+da manhã, hora de começar a estudar: basta você cochichar para o Tempo,
+e a hora passa em uma piscar de olhos! Quando der uma e meia, pula para
+a hora do jantar!"
+
+("Quem dera já fosse", Lebre de Março sussurrou para si mesmo.)
+
+"Sem dúvida, isso seria ótimo", disse Alice, pensativamente: "mas... eu
+ainda não estaria com fome, você sabe..."
+
+"A princípio, talvez não", disse o Chapeleiro. "Mas você poderia fazer
+com que continuasse sendo uma e meia pelo tempo que quisesse."
+
+"É assim que você faz?", Alice perguntou.
+
+O Chapeleiro balançou a cabeça pesarosamente. "Eu não!", ele respondeu.
+"Nós discutimos isso março passado --- pouco antes de esse aí
+enlouquecer, você sabe..." (apontando com a colher de chá para a Lebre
+de Março), "era o grande concerto oferecido pela Rainha de Copas, e eu
+teria que cantar
+
+> Pisca, pisca, morceguinho!\
+> Me pergunto onde é seu ninho!
+
+"Talvez você conheça essa canção."
+
+"Já ouvi algo parecido", disse Alice.
+
+"A canção continua, você sabe...", o Chapeleiro continuou, "mais ou
+menos assim..."
+
+> Lá no céu sempre a voar,\
+> Como bandeja de chá.\
+> Pisca, pisca...
+
+Aqui o Arganaz se sacudiu e começou a cantar enquanto dormia: "Pisca,
+pisca, pisca, pisca...", e continuou nisso por tanto tempo que
+precisaram beliscá-lo para que ele parasse.
+
+"Bem, eu mal havia terminado a primeira estrofe", disse o Chapeleiro,
+"quando a Rainha deu um pulo e berrou: 'Ele está matando o Tempo!
+Cortem-lhe a cabeça!' ".
+
+"Mas que selvageria!", exclamou Alice.
+
+"E desde então", o Chapeleiro prosseguiu em tom de lamento, "o Tempo não
+faz nada que eu peço! Agora são sempre seis horas."
+
+Uma ideia brilhante ocorreu a Alice. "É por isso que há tantos
+utensílios do chá da tarde aqui?", ela perguntou.
+
+"Sim, é por isso", disse o Chapeleiro com um suspiro. "É sempre hora do
+chá, e não temos tempo nem de lavar a louça."
+
+"Quer dizer que vocês só ficam o tempo todo mudando de lugar de lá para
+cá?", perguntou Alice.
+
+"Exatamente", disse o Chapeleiro. "Enquanto as coisas vão sendo
+consumidas."
+
+"Mas o que acontece quando vocês voltam ao princípio de novo?", Alice
+arriscou perguntar.
+
+"E se nós mudarmos de assunto", a Lebre de Março interrompeu, bocejando.
+"Estou ficando cansado disso. Voto para que a mocinha nos conte uma
+história."
+
+"Infelizmente não sei nenhuma", disse Alice, um tanto preocupada com a
+proposta.
+
+"Então o Arganaz contará!", ambos gritaram. "Acorde, Arganaz!" E eles
+beliscaram o Arganaz pelos dois lados ao mesmo tempo.
+
+O Arganaz abriu lentamente os olhos. "Eu não estava dormindo", ele disse
+com uma voz rouca, fraca. "Escutei cada palavra do que vocês disseram."
+
+"Conte-nos uma história!", disse a Lebre de Março.
+
+"Sim, por favor, conte!", implorou Alice.
+
+"E depressa", acrescentou o Chapeleiro, "para não pegar no sono outra
+vez antes de terminar."
+
+"Era uma vez três irmãzinhas", o Arganaz começou a contar muito
+depressa; "que se chamavam Elsie, Lacie e Tillie; e viviam no fundo de
+um poço..."
+
+"Viviam do quê?", disse Alice, sempre muito interessada em questões de
+comida e bebida.
+
+"Elas comiam melaço", disse o Arganaz, depois de pensar um ou dois
+minutos.
+
+"Isso seria impossível, você sabe...", Alice gentilmente observou; "elas
+ficariam doentes."
+
+"E elas ficaram", disse o Arganaz; "*muito* doentes."
+
+Alice tentou por um momento imaginar que modo de vida extraordinário
+seria só comer melaço, mas ficou intrigada demais, de modo que
+prosseguiu: "Mas por que elas moravam no fundo de um poço?".
+
+"Beba mais chá", a Lebre de Março disse a Alice, muito seriamente.
+
+"Eu ainda não bebi *nada*", Alice respondeu em tom ofendido, "de modo
+que seria impossível beber *mais*."
+
+"Você deve estar querendo dizer que é impossível beber *menos*", disse o
+Chapeleiro; "pois é muito fácil beber *mais* do que nada."
+
+"Ninguém perguntou a sua opinião", disse Alice.
+
+"Quem está fazendo comentários pessoais agora?", o Chapeleiro perguntou,
+triunfante.
+
+Alice ficou sem saber o que dizer diante disso, então se serviu de chá e
+pão com manteiga, e então se virou para o Arganaz e repetiu a pergunta:
+"Por que elas viviam no fundo de um poço?".
+
+O Arganaz novamente levou um ou dois minutos para pensar e então disse:
+"Era um poço de melaço".
+
+"Isso não existe!", Alice estava começando a dizer, muito irritada, mas
+o Chapeleiro e a Lebre de Março disseram "Psiu!", e o Arganaz,
+consternado, comentou: "Se você não sabe se comportar, termine a
+história sozinha".
+
+"Não, por favor, continue!", Alice disse muito humildemente. "Não vou
+mais interromper. Vamos dizer que existiu um poço de melaço."
+
+"Sim, um único, esse", disse o Arganaz, indignado. Enfim, ele consentiu
+em prosseguir. "E então essas três irmãzinhas... elas estavam aprendendo
+a fazer..."
+
+"Fazer o quê?", disse Alice, esquecendo a promessa.
+
+"Melaço", disse o Arganaz, sem cerimônia dessa vez.
+
+"Preciso de uma xícara limpa", interrompeu o Chapeleiro. "Vamos todos
+passar para o lugar ao lado, nesse sentido."
+
+Ele mudou de lugar enquanto falava, e o Arganaz o acompanhou: a Lebre de
+Março foi para o lugar do Arganaz, e Alice, um tanto a contragosto, foi
+para o lugar da Lebre de Março. O Chapeleiro foi o único a se beneficiar
+com a mudança: e Alice ficou bem pior do que antes, pois a Lebre de
+Março havia derrubado a leiteira no prato.
+
+Alice não queria mais ofender o Arganaz, então começou muito
+cautelosamente: "Mas eu não entendo. De onde vinha o melaço?".
+
+"É possível tirar água de um poço de água", disse o Chapeleiro; "de modo
+que eu acho que seria possível obter melaço em um poço de melaço...
+bem... é muita estupidez!"
+
+"Mas elas estavam *dentro* do poço", Alice disse ao Arganaz, preferindo
+não dar atenção a esse último comentário.
+
+"Claro que estavam", disse o Arganaz. "... Bem no fundo do poço."
+
+Essa resposta confundiu a pobre Alice, tanto que ela deixou o Arganaz
+prosseguir por algum tempo sem interrompê-lo.
+
+"As três irmãzinhas estavam um dia fazendo desenhos", o Arganaz
+prosseguiu, bocejando e esfregando os olhinhos, pois estava ficando com
+muito sono; "e elas desenharam todo tipo de coisas... e todas começavam
+com [m]{.smallcaps}..."
+
+"Por que com [m]{.smallcaps}?", disse Alice.
+
+"Por que não?", disse a Lebre de Março.
+
+Alice ficou quieta.
+
+A essa altura, o Arganaz havia fechado os olhinhos e mergulhava em uma
+soneca; mas, sendo beliscado pelo Chapeleiro, acordou de novo com um
+gritinho e prosseguiu: "... Começavam com [m]{.smallcaps}, como
+malandros, meninas, memórias e muitíssimos múltiplos mais --- ou, como
+se diz, 'mesmíssimos' --- vocês já viram 'muitos mesmos' desenhados?"
+
+"Olha, agora você me pegou", disse Alice, muito confusa, "mas acho que
+não..."
+
+"Então você não deveria falar", disse o Chapeleiro.
+
+Essa grosseria foi maior do que Alice poderia suportar: ela se levantou
+com grande desprezo e foi embora; o Arganaz adormeceu instantaneamente,
+e nenhum dos outros dois sequer reparou que ela saíra, embora ela
+tivesse olhado para trás uma ou duas vezes, com certa esperança de que
+eles fossem chamá-la: na última vez que ela olhou, eles estavam tentando
+pôr o Arganaz no bule.
+
+"Seja como for, nunca mais volto para lá!", disse Alice, seguindo um
+caminho através da floresta. "Nunca fui a um chá da tarde com gente tão
+estúpida na minha vida!"
+
+Assim que ela disse isso, reparou que uma das árvores tinha um porta bem
+no meio. "Que coisa curiosa!", ela pensou. "Mas hoje tudo é curioso.
+Acho melhor eu entrar de uma vez." E ela entrou.
+
+Mais uma vez ela se viu no grande salão, perto da mesinha de vidro.
+"Agora vou me sair melhor", ela disse a si mesma, e começou pegando a
+chavinha dourada e abrindo a porta que dava para o jardim. Depois, ela
+mordiscou o cogumelo (ela guardara um pedaço no bolso) até atingir
+trinta centímetros de altura: então, ela foi andando pelo corredorzinho:
+e *aí*... ela se viu, enfim, no lindo jardim, entre canteiros de flores
+coloridas e fontes de água fresca.
+
+## O campo de «croquet» da Rainha
+
+
+Havia uma grande roseira na entrada do jardim: as rosas que ali cresciam
+eram brancas, mas havia três jardineiros pintando-as de vermelho. Alice
+achou isso muito curioso e se aproximou para observá-los, e, assim que
+chegou perto, escutou um deles dizer: "Cuidado agora, Cinco! Não me suje
+de tinta desse jeito!".
+
+"Não foi por querer", disse o Cinco, em tom rabugento. "O Sete cutucou
+meu cotovelo."
+
+Ao que o Sete olhou para cima e falou: "Isso, Cinco! Sempre pondo a
+culpa nos outros!".
+
+"É bom você não falar nada!", disse o Cinco. "Ouvi dizer que a Rainha
+falou ontem que você merecia ser decapitado!"
+
+"Por quê?", disse aquele que falara primeiro.
+
+"Não interessa, Dois", disse o Sete.
+
+"Sim, interessa a ele, sim!", disse o Cinco. "E eu vou contar para
+ele... foi por ter trazido para a cozinheira bulbos de tulipas em vez de
+cebolas!"
+
+O Sete soltara seu pincel e havia começado: "Bem, de todas as
+injustiças...", quando seus olhos depararam com Alice, ali parada
+olhando para eles, e ele parou de falar subitamente. Os outros também
+olharam para os lados, e todos fizeram uma mesura reverente.
+
+"Vocês poderiam me dizer", disse Alice, um tanto timidamente, "por que
+estão pintando essas rosas?"
+
+Cinco e Sete não disseram nada, mas olharam para o Dois. Dois começou em
+voz baixa: "Ora, o fato, sabe, senhorita, é que aqui deveria haver uma
+roseira de rosas vermelhas, e nós plantamos uma branca por engano; e, se
+a Rainha descobrir, cortarão nossas cabeças, sabe como é... Então,
+senhorita, sabe como é, estamos fazendo o nosso melhor, antes que ela
+chegue, e..." Nesse momento, o Cinco, que ficara olhando aflito para o
+outro lado do jardim, avisou "A Rainha! A Rainha!", e os três
+jardineiros instantaneamente se curvaram com os rostos encostando no
+chão. Houve um rumor de muitos passos, e Alice olhou de relance, ansiosa
+para ver a Rainha.
+
+Primeiro vieram dez soldados carregado paus; eram todos do mesmo formato
+dos três jardineiros, finos e planos, com as mãos e os pés nos quatro
+cantos do corpo: em seguida, dez cortesãos; esses eram todos
+ornamentados com ouros e caminhavam de dois em dois, como os soldados.
+Depois vieram as crianças da realeza; eram dez, e esses pequeninos
+chegaram saltitando alegremente de mãos dadas, em pares; estavam
+ornamentados com copas. A seguir, os convidados, a maioria Reis e
+Rainhas, e entre eles Alice reconheceu o Coelho Branco: ele falava
+depressa, nervoso, sorrindo para tudo que diziam, e passou sem olhar
+para ela. Então o Valete de Copas, trazendo a coroa do Rei em uma
+almofada de veludo carmesim; e, ao final de todo esse grandioso cortejo,
+vieram o rei e a rainha de copas.
+
+Alice ficou na dúvida se devia deitar com o rosto no chão como os três
+jardineiros, mas não se lembrava de ter ouvido falar dessa regra em
+cortejos; "além do mais, para que serve um cortejo", ela pensou, "se as
+pessoas deitam viradas para o chão e não conseguem ver nada?" De modo
+que ela ficou parada onde estava e esperou.
+
+Quando o cortejo chegou bem na frente de Alice, todos pararam e olharam
+para ela, e a Rainha disse severamente: "Quem é essa?". Ela disse ao
+Valete de Copas, que apenas fez uma mesura e sorriu em resposta.
+
+"Idiota!", disse a Rainha, jogando a cabeça para trás com impaciência;
+e, virando-se para Alice, prosseguiu: "Qual é o seu nome, menina?".
+
+"Meu nome é Alice, à disposição de sua Majestade", disse Alice muito
+educadamente; mas ela acrescentou, para si mesma: "Ora, são apenas
+cartas de baralho, afinal. Não preciso ter medo deles!".
+
+"E quem são esses aí?", disse a Rainha, apontando para os três
+jardineiros que estavam curvados em volta da roseira; pois, você sabe,
+como estavam com os rostos virados para o chão, e o padrão em suas
+costas era o mesmo do resto do baralho, ela não sabia se eram
+jardineiros, soldados, cortesãos ou três de seus próprios filhos.
+
+"Como eu poderia saber?", disse Alice, surpresa com a própria coragem.
+"Não tenho nada com isso."
+
+A Rainha ficou vermelha de fúria e, depois de olhar fixamente para ela
+por um momento como um animal selvagem, berrou: "Cortem-lhe a cabeça!
+Cortem...".
+
+"Que absurdo!", disse Alice, em uma voz muito alta e decidida, e a
+Rainha ficou calada.
+
+O Rei pôs a mão no braço da esposa e timidamente disse: "Reconsidere,
+querida: ela é apenas uma menina!".
+
+A Rainha irritada deu as costas ao marido e disse ao Valete: "Vire-os!".
+
+O Valete virou os três, com muito cuidado, com a ponta do pé.
+
+"Levantem-se!", disse a Rainha, com uma voz estridente e volumosa, e os
+três jardineiros prontamente se puseram de pé e começaram a fazer
+mesuras para o Rei, a Rainha e as crianças da realeza, e para todos os
+demais.
+
+"Parem já com isso!", berrou a Rainha. "Vocês me deixam tonta." E então,
+voltando-se para a roseira, ela prosseguiu: "Ora, o que vocês estavam
+fazendo aqui?".
+
+"Para agradar sua Majestade", disse o Dois, em tom muito humilde,
+apoiando-se em um joelho ao falar, "estávamos tentando..."
+
+"Eu estou vendo!", disse a Rainha, que nesse ínterim ficara examinando
+as rosas. "Cortem suas cabeças!", e o cortejo prosseguiu, três soldados
+ficando para trás para executar os pobres jardineiros, que correram para
+Alice pedindo proteção.
+
+"Vocês não serão decapitados!", disse Alice, e escondeu-os em um grande
+vaso de flor que havia ali perto. Os três soldados perambularam por um
+ou dois minutos, procurando os jardineiros, e depois voltaram marchando
+sossegadamente atrás dos outros.
+
+"E as cabeças deles?", berrou a Rainha.
+
+"As cabeças sumiram, conforme o desejo de sua Majestade!", os soldados
+berraram em resposta.
+
+"Muito bem!", berrou a Rainha. "Você joga *croquet*?"
+
+Os soldados ficaram calados e olharam para Alice, pois a pergunta
+evidentemente se dirigia a ela.
+
+"Sim!", berrou Alice.
+
+"Então vamos!", rugiu a Rainha, e Alice se juntou ao cortejo, imaginando
+intensamente o que aconteceria em seguida.
+
+"Está... um dia muito bonito!", disse uma voz tímida ao seu lado. Ela
+estava caminhando ao lado do Coelho Branco, que olhava ansiosamente para
+ela.
+
+"Muito", disse Alice. "... Cadê a Duquesa?"
+
+"Psiu!", disse o Coelho em tom baixo e apressado. Ele olhava aflito para
+os lados enquanto falava e então se levantou na ponta do pé, pôs a boca
+perto do ouvido de Alice e sussurrou: "Ela foi condenada à pena de
+morte".
+
+"Mas por quê?", disse Alice.
+
+"Você disse 'Mas que pena!'?", o Coelho perguntou.
+
+"Não, não disse", disse Alice. "Aliás, não acho que seja uma pena. Eu
+disse 'Mas por quê?'."
+
+"Ela bateu com as duas mãos nas orelhas da Rainha...", o Coelho começou.
+Alice deixou escapar uma breve gargalhada. "Oh, silêncio!", o Coelho
+sussurrou em tom assustado. "A Rainha vai acabar escutando! Sabe, ela
+chegou um tanto atrasada, e a Rainha falou..."
+
+"Aos seus lugares!", berrou a Rainha com voz de trovão, e as pessoas
+começaram a correr em todas as direções, tropeçando umas nas outras; até
+que enfim todos se posicionaram, depois de um minuto ou dois, e o jogo
+começou.
+
+Alice nunca tinha visto um campo de *croquet* tão curioso em toda sua
+vida; era todo cheio de sulcos e plataformas; as bolas eram ouriços
+vivos, os martelos flamingos vivos, e os soldados precisavam se dobrar,
+com mãos e pés no chão, para formar os arcos.
+
+A principal dificuldade que Alice encontrou a princípio foi lidar com
+seu flamingo. Ela conseguiu colocar o corpo dele embaixo do braço, com
+algum conforto, com as pernas frouxas pensas, mas, de modo geral, assim
+que conseguiu fazê-lo esticar bem o pescoço, e estava prestes bater no
+ouriço com a cabeça dele, o flamingo se virou e olhou para ela, com uma
+expressão tão intrigada que ela não conseguiu evitar de explodir em uma
+gargalhada. E quando ela o fez abaixar a cabeça, e estava prestes a
+tentar de novo, foi muito aflitivo ver que o ouriço havia se desenrolado
+e estava tentando fugir rastejando. Além de tudo isso, havia geralmente
+um sulco e uma plataforma no caminho, aonde quer que ela mirasse o
+ouriço, e, como os soldados dobrados estavam sempre se levantando e
+andando para outras partes do campo, Alice logo concluiu que aquele era
+realmente um jogo muito difícil.
+
+Os jogadores jogavam todos ao mesmo tempo sem esperar a vez do outro,
+brigando sem parar e disputando os mesmos ouriços; e dali a pouco a
+Rainha foi tomada por uma paixão furiosa, bateu os pés e começou a
+berrar "Cortem a cabeça dele!" ou "Cortem a cabeça dela!" pelo menos uma
+vez por minuto.
+
+Alice começou a se sentir muito incomodada: sem dúvida, ela não havia
+entrado em nenhuma disputa com a Rainha, mas sabia que isso podia
+acontecer a qualquer momento, "e aí", ela pensou, "o que será de mim? As
+pessoas por aqui adoram cortar cabeças: a grande questão é se vai sobrar
+alguém vivo!"
+
+Ela estava procurando uma forma de fugir, e se perguntava se conseguiria
+fazê-lo sem ser notada, quando reparou em uma curiosa aparição em pleno
+ar: a princípio, aquilo a deixou muito intrigada, mas, depois de
+observar por um ou dois minutos, ela se deu conta de que era um sorriso,
+e ela disse a si mesma: "É o Gato de Cheshire: agora terei alguém com
+quem conversar".
+
+"Como vai?", disse o Gato, assim que se formou o suficiente da boca para
+ele falar.
+
+Alice esperou aparecerem os olhos e então meneou a cabeça. "Não adianta
+falar com ele", ela pensou, "enquanto não aparecerem as orelhas, ou pelo
+menos uma delas". No minuto seguinte, a cabeça inteira surgiu, e então
+Alice depôs seu flamingo e começou a fazer um relato do jogo,
+sentindo-se muito contente por ter alguém que a ouvisse. O Gato parecia
+achar que já havia o bastante de si à vista e não apareceu mais.
+
+"Não acho que eles joguem limpo", Alice começou, em tom um tanto
+queixoso, "e todos brigam tão horrivelmente que a gente mal consegue se
+ouvir... e parece que não seguem nenhuma regra em particular; pelo
+menos, se há alguma regra, ninguém cumpre... e você não imagina como é
+confuso o fato de todas as coisas estarem vivas; por exemplo, veja o
+arco onde tenho que acertar, ele fica andando lá do outro lado do
+campo... e eu ia *croquetear* o ouriço da Rainha agorinha mesmo, só que
+ele fugiu quando viu o meu se aproximando!"
+
+"Você gostou da Rainha?", disse o Gato em voz baixa.
+
+"Nem um pouco", disse Alice. "Ela é extremamente..." Nesse instante, ela
+notou que a Rainha estava logo atrás escutando, de modo que prosseguiu:
+"... invencível, de modo que nem vale a pena continuar jogando".
+
+A Rainha sorriu e prosseguiu.
+
+"Com quem você está falando?", disse o Rei, aproximando-se de Alice e
+olhando para a cabeça do Gato com grande curiosidade.
+
+"Este é um amigo meu... um Gato de Cheshire", disse Alice. "Permita que
+eu o apresente."
+
+"Não gostei da aparência dele", disse o Rei, "mas ele pode beijar minha
+mão se quiser."
+
+"Eu preferiria que não", comentou o Gato.
+
+"Não seja impertinente", disse o Rei, "e não me olhe assim!" Ele se
+escondeu atrás de Alice ao falar.
+
+"O gato pode olhar para o rei", disse Alice. "Li isso em um livro, mas
+não me lembro qual."
+
+"Bem, ele deve se retirar", disse o Rei, muito convictamente, e chamou a
+Rainha, que estava passando nesse momento. "Querida! Quero que você
+mande esse gato embora!"
+
+A Rainha só tinha uma forma de resolver todas as dificuldades, grandes
+ou pequenas. "Cortem a cabeça dele!", ela disse, sem sequer olhar para o
+lado.
+
+"Vou chamar o carrasco pessoalmente", disse o Rei, avidamente, e saiu
+correndo.
+
+Alice achou que era melhor voltar e ver como estava indo o jogo, pois
+ouvira a Rainha ao longe berrando apaixonadamente. Ela já tinha ouvido a
+Rainha sentenciar três jogadores à pena de morte por terem perdido a
+vez, e ela não estava gostando nada daquilo tudo, pois o jogo era tão
+confuso que ela nunca sabia se era ou não sua vez de jogar. De modo que
+ela foi procurar seu ouriço.
+
+O ouriço estava brigando com outro ouriço, o que pareceu a Alice uma
+excelente oportunidade de *croquetear* um com o outro: a única
+dificuldade foi que seu flamingo tinha ido para o outro lado do jardim,
+onde Alice podia vê-lo tentando desajeitadamente subir voando em uma
+árvore.
+
+Quando ela conseguiu apanhar o flamingo e o trouxe de volta ao campo, a
+briga havia acabado e ambos os ouriços tinham desaparecido: "mas nem tem
+tanta importância", pensou Alice, "pois todos os arcos foram embora
+desse lado do campo." De modo que ela pôs o flamingo debaixo do braço,
+para ele não escapar de novo, e voltou para conversar mais um pouco com
+seu amigo.
+
+Quando ela voltou para o Gato de Cheshire, ficou surpresa ao encontrar
+uma grande multidão reunida em torno dele: havia uma disputa ocorrendo
+entre o carrasco, o Rei e a Rainha, que estavam todos falando ao mesmo
+tempo, enquanto todos os outros esperavam calados e pareciam muito
+incomodados.
+
+No momento em que Alice apareceu, os três recorreram a ela para decidir
+a questão e repetiram seus argumentos para ela, embora, como todos
+falaram ao mesmo tempo, ela tenha achado muito difícil de fato entender
+exatamente o que cada um disse.
+
+O argumento do carrasco era que era impossível decapitar se não houvesse
+um corpo do qual a cabeça deveria ser cortada: que ele nunca tivera que
+fazer uma coisa dessas antes, e que não iria começar agora, *naquela
+altura de sua carreira*.
+
+O argumento do Rei era que qualquer um que tivesse uma cabeça podia ser
+decapitado, e que ele não devia falar aqueles absurdos.
+
+O argumento da Rainha era que, se algo não fosse feito a respeito
+imediatamente, ela mandaria executar todo mundo agora mesmo. (Este
+último comentário foi o que deixou o grupo inteiro preocupado e aflito.)
+
+Alice não conseguiu pensar em nada para dizer, exceto: "O Gato é da
+Duquesa: seria melhor perguntar para ela".
+
+"Ela está presa", a Rainha disse ao carrasco; "vá buscá-la." E o
+carrasco partiu como uma flecha.
+
+A cabeça do Gato começou a sumir no momento em que o carrasco partiu, e,
+quando o carrasco voltou com a Duquesa, a cabeça do Gato já havia
+desaparecido inteiramente, de modo que o Rei e o carrasco correram feito
+loucos para cima e para baixo procurando a cabeça do Gato, enquanto o
+resto do grupo voltou a jogar.
+
+## A história da falsa Tartaruga
+
+"Você não imagina como estou contente em revê-la, minha querida!", disse
+a Duquesa, dando afetuosamente o braço a Alice, e elas caminharam
+juntas.
+
+Alice ficou muito contente por encontrá-la com um temperamento tão
+amável e pensou consigo mesma que talvez fosse a pimenta que a deixara
+tão selvagem quando se conheceram na cozinha.
+
+"Quado eu for Duquesa", ela disse consigo mesma (mas não em tom muito
+esperançoso), "não usarei pimenta nenhuma na minha cozinha. Sopa não
+precisa de pimenta... Talvez seja a pimenta que deixa as pessoas
+esquentadinhas", ela prosseguiu, muito satisfeita por encontrar um novo
+tipo de regra, "e o vinagre que as deixa azedas... e a camomila
+amargas... e bala de cevada e essas coisas deixam as crianças doces.
+Quem dera as pessoas soubessem disso; aposto que não seriam tão
+mesquinhas, sabe como é..."
+
+Ela havia praticamente se esquecido da Duquesa a essa altura e ficou um
+pouco assustada ao ouvir a voz dela perto de seu ouvido. "Você está
+pensando alguma coisa, minha querida, e se esqueceu de falar. No
+momento, não sei dizer a moral dessa história, mas daqui a pouco vou me
+lembrar."
+
+"Talvez não haja nenhuma moral da história", Alice ousou comentar.
+
+"Nananina, menina!", disse a Duquesa. "Tudo tem uma moral da história,
+se a gente souber procurar." E ela se espremeu ainda mais perto de Alice
+ao falar.
+
+Alice não gostou muito de ficar tão perto dela: primeiro, porque a
+Duquesa era muito feia; e, segundo, porque a Duquesa tinha a altura
+exata para apoiar o queixo no ombro de Alice, e seu queixo era muito
+pontudo e incômodo. No entanto, ela não gostava de ser rude, de modo que
+suportou aquilo o máximo que conseguiu. "O jogo ficou melhor agora", ela
+disse, só para manter a conversa mais um pouco.
+
+"De fato", disse a Duquesa. "E a moral da história é... 'Oh, é o amor, o
+que faz o mundo girar!' "
+
+"Alguém já disse", Alice sussurrou, "que isso aconteceria se cada um
+cuidasse da própria vida!"
+
+"Ah, bem! É praticamente a mesma coisa", disse a Duquesa, cravando seu
+queixinho pontudo no ombro de Alice e acrescentando: "e a moral da
+história é... 'Cuide do sentido, que os sons se resolvem sozinhos'."
+
+"Como ela gosta de encontrar moral nas coisas!", Alice pensou consigo
+mesma.
+
+"Eu diria que você deve estar se perguntando por que eu não passo o
+braço pela sua cintura", a Duquesa disse após uma pausa. "O motivo é que
+tenho minhas dúvidas sobre o temperamento do seu flamingo. Será que
+fazemos uma experiência?"
+
+"Cuidado para não pegar na garganta dele", Alice respondeu com cautela,
+sentindo-se totalmente despreocupada com a experiência proposta.
+
+"É verdade", disse a Duquesa, "com flamingos e mostarda, é preciso ter
+cuidado para não pegar na garganta. E a moral da história é... 'Aves da
+mesma plumagem voam juntas'."
+
+"Bem, mostarda não é ave", Alice comentou.
+
+"Claro, como sempre", disse a Duquesa, "você usa as palavras de um modo
+muito claro!"
+
+"Mostarda é um minério, eu acho", disse Alice.
+
+"Claro que é", disse a Duquesa, que parecia disposta a concordar com
+qualquer coisa que Alice dissesse. "Aqui perto há uma grande mina de
+mostarda. E a moral dessa história é que... 'Minas, quanto mais minhas,
+menos suas'."
+
+"Oh, lembrei!", exclamou Alice, que não dera atenção a esse último
+comentário. "Mostarda é vegetal. Não parece, mas é."
+
+"Concordo totalmente", disse a Duquesa; "e a moral dessa história é
+que... 'Seja o que aparentemente você seria'... ou se você quiser dizer
+de modo mais simples... 'Nunca pense que você é outra coisa senão o que
+pode parecer para os outros que você é, porque, do contrário, o que você
+é mesmo pareceria para os outros ser outra coisa'."
+
+"Acho que talvez eu entenda melhor", Alice disse muito educadamente, "se
+tivesse isso escrito, mas não consegui entender bem quando você disse."
+
+"Não foi nada perto do que eu poderia dizer se quisesse", a Duquesa
+respondeu, em tom satisfeito.
+
+"Não se incomode de dizer nada mais comprido do que isso", disse Alice.
+
+"Oh, não me fale em trabalho!", disse a Duquesa. "Vou lhe dar de
+presente tudo o que eu disse até agora por escrito."
+
+"Mas que presente de grego!", pensou Alice. "Ainda bem que ninguém dá
+isso de aniversário!" Mas ela não ousou dizer isso em voz alta.
+
+"Pensando de novo?", a Duquesa perguntou, fincando outra vez seu
+queixinho ossudo.
+
+"Tenho direito de pensar", disse Alice rispidamente, pois ela estava
+começando a se sentir um pouco preocupada.
+
+"Tanto direito", disse a Duquesa, "quanto os porcos têm de voar, e a
+mo..."
+
+Mas aqui, para grande surpresa de Alice, a voz da Duquesa começou a
+diminuir, no meio de sua palavra favorita, "moral", e o braço que estava
+abraçado ao seu começou a tremer. Alice ergueu os olhos, e lá estava a
+Rainha diante delas, de braços cruzados, carrancuda como uma tempestade.
+
+"Que belo dia, Majestade!", a Duquesa começou em voz baixa e fraca.
+
+"Agora, vou lhe avisar uma coisa", berrou a Rainha, batendo os pés no
+chão ao falar, "ou você vai embora, ou vai sua cabeça, e isso é para já!
+Escolha!"
+
+A Duquesa escolheu, e foi embora no mesmo instante.
+
+"Vamos continuar a jogar", a Rainha disse a Alice; e Alice estava
+apavorada demais para dizer qualquer coisa, mas lentamente a acompanhou
+de volta ao campo de *croquet*.
+
+Os outros convidados haviam aproveitado a ausência da Rainha e
+descansavam à sombra. No entanto, no momento em que a avistaram,
+voltaram correndo para o jogo, ao que a Rainha comentou que, se
+demorassem mais um momento, isso lhes custaria suas cabeças.
+
+Todo esse tempo em que ficaram jogando, a Rainha não parou de brigar com
+os outros jogadores e de berrar "Cortem a cabeça dele!" ou "Cortem a
+cabeça dela!". Aqueles que ela condenava eram levados presos pelos
+soldados, que evidentemente precisavam deixar de ser arcos para
+obedecer, de modo que ao cabo de meia hora, mais ou menos, já não havia
+mais nenhum arco no campo, e todos os jogadores, exceto o Rei, a Rainha
+e Alice, estavam presos e condenados à morte.
+
+Então a Rainha se retirou, quase sem fôlego, e disse a Alice: "Você já
+viu a Falsa Tartaruga?".
+
+"Não", disse Alice. "Não sei nem o que é uma Falsa Tartaruga."
+
+"É aquilo que se usa para fazer Sopa de Falsa Tartaruga", disse a
+Rainha.
+
+"Nunca vi, nem ouvi falar", disse Alice.
+
+"Então vamos", disse a Rainha, "e ela mesmo lhe contará sua história."
+
+Enquanto caminhavam juntas, Alice escutou o Rei dizendo em voz baixa, ao
+grupo em geral, "Vocês estão todos perdoados". "Ora, isso é bom!", ela
+disse consigo mesma, pois ficara muito infeliz com o número de execuções
+ordenadas pela Rainha.
+
+Logo chegaram diante de um Grifo dormindo pesadamente deitado ao sol.
+(Se você não sabe o que é um Grifo, procure uma figura.) "Levante-se,
+preguiçoso!", disse a Rainha, "e leve essa jovem dama para ver a Falsa
+Tartaruga e escutar sua história. Preciso voltar e acompanhar algumas
+execuções que ordenei", e ela foi embora, deixando Alice sozinha com o
+Grifo. Alice não gostou muito da aparência da criatura, mas em geral
+achou que seria tão seguro ir com ele quanto continuar com aquela Rainha
+selvagem, de modo que ela esperou.
+
+O Grifo se levantou e esfregou os olhos, então ficou observando a Rainha
+até que ela sumisse de seu campo de visão e gargalhou. "Que engraçado!",
+disse o Grifo, em parte para si mesmo, em parte para Alice.
+
+"Qual é a graça?", disse Alice.
+
+"Ora, *ela*", disse o Grifo. "É tudo fantasia dela, isso aí: eles nunca
+executam ninguém, você sabe. Vamos!"
+
+"Aqui todo mundo fica dizendo 'vamos!' ", pensou Alice, conforme seguia
+lentamente atrás dele. "Nunca recebi tantas ordens na minha vida,
+jamais!"
+
+Eles não haviam ido muito longe quando avistaram a Falsa Tartaruga à
+distância, sentada, triste e solitária, em um lajedo de pedra, e,
+conforme se aproximaram dela, Alice pôde ouvi-la suspirar, como se seu
+coração fosse se partir. Ela teve muita pena dela. "Qual é o motivo de
+tanta tristeza?", ela perguntou ao Grifo, e o Grifo respondeu,
+praticamente com as mesmas palavras de antes: "É tudo fantasia dela,
+isso aí: ela não está triste coisa nenhuma, você sabe... Vamos!".
+
+Então eles foram até a Falsa Tartaruga, que olhou para eles com seus
+olhos grandes cheios de lágrimas, mas não disse nada.
+
+"Esta jovem dama aqui", disse o Grifo, "ela quer conhecer a sua
+história, quer mesmo."
+
+"Vou contar para ela", disse a Falsa Tartaruga em tom grave, retumbante.
+"Sentem-se, vocês dois, e não digam nada enquanto eu não terminar."
+
+De modo que eles se sentaram, e ninguém falou nada por alguns minutos.
+Alice pensou consigo mesma: "Não sei como ela vai terminar, se nunca
+começa...". Mas esperou pacientemente.
+
+"Um dia", disse a Falsa Tartaruga por fim, com um longo suspiro, "já fui
+uma verdadeira Tartaruga."
+
+Essas palavras foram seguidas por um silêncio muito longo, interrompido
+apenas por uma ocasional exclamação de "Hjckrrh!" da parte do Grifo e
+pelos constantes soluços da Falsa Tartaruga. Alice estava muito perto de
+se levantar e dizer "Obrigada, senhora, por sua interessante história",
+mas não conseguia evitar de pensar que devia haver mais coisas pela
+frente, de modo que ela se sentou imóvel e ficou calada.
+
+"Quando éramos pequenos", a Falsa Tartaruga prosseguiu por fim, mais
+serenamente, embora ainda soluçando um pouco de quando em quando, "nossa
+escola era no mar. O professor era uma velha Tartaruga... costumávamos
+chamá-lo de senhor Jabuti..."
+
+"Por que vocês o chamavam de Jabuti, se ele era uma Tartaruga?", Alice
+perguntou.
+
+"Chamávamos de Jabuti porque foi o que ele nos disse", disse a Falsa
+Tartaruga irritadamente. "Realmente você é muito burra!"
+
+"Você devia ter vergonha de fazer uma pergunta ingênua assim",
+acrescentou o Grifo, e então os dois ficaram sentados em silêncio
+olhando para a pobre Alice, que se sentiu querendo afundar na terra.
+
+Por fim, o Grifo disse à Falsa Tartaruga: "Continue, minha velha. Não
+temos o dia inteiro!", e ela prosseguiu com as seguintes palavras:
+
+"Sim, nossa escola era no mar, embora você talvez não acredite..."
+
+"Eu não disse nada que não acreditava!", interrompeu Alice.
+
+"Mas você não acredita", disse a Falsa Tartaruga.
+
+"Controle sua língua!", acrescentou o Grifo, antes que Alice falasse de
+novo. A Falsa Tartaruga prosseguiu:
+
+"Nós tivemos a melhor educação possível... na verdade, íamos todos os
+dias à escola..."
+
+"Eu também vou à escola todo dia", disse Alice, "não há nenhum motivo de
+orgulho nisso."
+
+"Com matérias optativas?", perguntou a Falsa Tartaruga um tanto
+ansiosamente.
+
+"Sim", disse Alice, "aprendemos francês e música."
+
+"E banho?", disse a Falsa Tartaruga.
+
+"Certamente, não!", disse Alice, indignada.
+
+"Ah! Então a sua não era realmente uma boa escola", disse a Falsa
+Tartaruga em tom aliviado. "Agora, na nossa, eles tinham, no final do
+curso, 'Francês, música e banho... como optativas'."
+
+"Não poderia ser diferente", disse Alice, "vivendo no fundo do mar."
+
+"Eu não podia pagar optativas", disse a Falsa Tartaruga com um suspiro.
+"Eu só fiz o curso normal."
+
+"Quais eram as matérias?", indagou Alice.
+
+"Balançar e Contorcer, evidentemente, para começo de conversa", a Falsa
+Tartaruga respondeu; "e depois os diferentes ramos da Aritmética:
+Ambição, Distração, Enfeiamento e Zombaria."
+
+"Nunca ouvi falar em 'Enfeiamento' ", Alice arriscou dizer. "O que é?"
+
+O Grifo levantou duas patas de tanta surpresa. "Nunca ouviu falar em
+enfeiamento?!", ele exclamou. "Você sabe o que é embelezar, não sabe?"
+
+"Sei", disse Alice, desconfiada. "Quer dizer... deixar... tudo... mais
+bonito."
+
+"Pois então", o Grifo prosseguiu, "se você não souber o que é enfeiar,
+você é uma ignorante."
+
+Alice não se sentiu encorajada a fazer mais perguntas sobre aquilo, de
+modo que se virou para a Falsa Tartaruga e disse: "O que mais foi teve
+que aprender?".
+
+"Bem, tínhamos aula de Mistério", a Falsa Tartaruga respondeu, contando
+as matérias em suas nadadeiras. "... Mistério, antigo e moderno, com
+Marografia: e depois Fala-arrastada --- o professor de Fala-arrastada
+era uma velha enguia, que vinha uma vez por semana; ele nos deu aula de
+Fala-arrastada, Alongamento e Tontura em Espiral."
+
+"Como era isso?", disse Alice.
+
+"Bem, eu não serei capaz de mostrar", a Falsa Tartaruga disse. "Sou
+muito dura. E o Grifo nunca aprendeu direito."
+
+"Não deu tempo", disse o Grifo. "Mas eu tive aula com o professor do
+Clássico. Era um velho caranguejo, isso sim."
+
+"Nunca fui aluna dele", a Falsa Tartaruga disse com um suspiro. "Ele
+dava aula de Latido e Grito, como se dizia."
+
+"Ele era assim mesmo, era mesmo", disse o Grifo, suspirando por sua vez;
+e ambos esconderam os rostos nas patas.
+
+"E qual era a carga horária diária das aulas?", disse Alice, querendo
+mudar logo de assunto.
+
+"Dez horas no primeiro dia", disse a Falsa Tartaruga. "Nove no segundo,
+e assim por diante."
+
+"Que programa curioso!", exclamou Alice.
+
+"Era por isso que chamavam de carga", o Grifo comentou, "porque ia
+descarregando dia após dia."
+
+Essa foi uma ideia bastante nova para Alice, e ela pensou nisso um
+pouquinho antes de fazer o próximo comentário. "Então no décimo primeiro
+dia devia ser feriado."
+
+"Claro que era", disse a Falsa Tartaruga.
+
+"E como vocês faziam no décimo segundo dia?", Alice prosseguiu
+avidamente.
+
+"Já chega de falar de escola", o Grifo interrompeu em tom muito
+decidido. "Conte para ela alguma coisa sobre brincadeiras agora."
+
+## A quadrilha da Lagosta
+
+A Falsa Tartaruga suspirou profundamente e passou uma de suas nadadeiras
+sobre os olhos. Ela olhou para Alice e tentou falar, mas, por um ou dois
+minutos, soluços sufocaram sua voz: "Como se estivesse com um osso
+entalado na garganta", disse o Grifo; e se pôs a sacudi-lo e dar tapas
+em suas costas. Por fim, a Falsa Tartaruga recuperou a voz e, com
+lágrimas escorrendo pelas faces, prosseguiu:
+
+"Talvez você não tenha vivido muito tempo no fundo do mar..." ("Não
+mesmo", disse Alice.) "E talvez não tenha sido jamais apresentada a uma
+lagosta..." (Alice começou a dizer "Um dia eu provei...", mas se deteve
+rapidamente, e disse: "Não, nunca".) "... Então você não faz ideia da
+delícia que é uma Quadrilha de Lagosta!"
+
+"Não, de fato", disse Alice. "Que tipo de dança é?"
+
+"Ora", disse o Grifo, "primeiro você forma uma fila no litoral..."
+
+"Duas filas!", gritou a Falsa Tartaruga. "Focas, tartarugas, e assim por
+diante; aí, depois que você tirou a água-viva do caminho..."
+
+"Isso geralmente leva algum tempo", interrompeu o Grifo.
+
+"... você dá dois passos para a frente..."
+
+"Cada um tendo uma lagosta como par!", exclamou Grifo.
+
+"Claro", a Falsa Tartaruga disse: "dois passos para a frente, atenção
+aos pares..."
+
+"... troque de lagosta e recue na mesma ordem", continuou o Grifo.
+
+"Então, você sabe", a Falsa Tartaruga prosseguiu, "você joga..."
+
+"As lagostas!", berrou o Grifo, dando um pulo no ar.
+
+"... no mar o mais longe que conseguir..."
+
+"Nade atrás delas!", gritou o Grifo.
+
+"Dê uma cambalhota no mar!", exclamou a Falsa Tartaruga, saltitando
+loucamente.
+
+"Troque de lagosta outra vez!", berrou o Grifo.
+
+"Volte de novo para a praia, e... essa é a primeira figura", disse a
+Falsa Tartaruga, de repente baixando a voz; e as duas criaturas, que
+haviam ficado pulando feito loucas todo esse tempo, sentaram-se
+novamente, muito tristes e caladas, e olharam para Alice.
+
+"Deve ser uma dança muito bonita", disse Alice, timidamente.
+
+"Você gostaria de ver um pouco?", disse a Falsa Tartaruga.
+
+"Gostaria muitíssimo", disse Alice.
+
+"Venha, vamos tentar a primeira figura!", disse a Falsa Tartaruga ao
+Grifo. "Podemos fazer sem lagostas, sabe como é... Quem vai cantar?"
+
+"Oh, você canta", disse o Grifo. "Esqueci a letra."
+
+Então eles começaram solenemente a dançar dando voltas em torno de
+Alice, de quando em quando pisando no seu pé quando passavam muito
+perto, e acenando com as patas dianteiras para marcar o tempo, enquanto
+a Falsa Tartaruga cantava o seguinte, muito lenta e tristemente:
+
+> "Você pode ir mais depressa?", disse o badejo ao caramujo.\
+> "Há uma toninha logo atrás, que avança enquanto fujo.\
+> Veja as lagostas e as tartarugas, veja só que maravilha!\
+> Estão esperando no cascalho --- você vem para a quadrilha?\
+> Você vem, não vem? Você vem, não vem? Junte-se à quadrilha!\
+> Você vem, não vem? Você vem, não vem? Junte-se à quadrilha! "Você não
+> faz ideia da delícia que será,\
+> Quando nos atirarem, com as lagostas, no mar!"\
+> Mas o caramujo disse: "Muito longe!" e olhou de soslaio ---\
+> Disse obrigado ao badejo, mas não se juntou ao baile.\
+> Não iria, não poderia, não iria, não poderia se juntar ao baile.\
+> Não iria, não poderia, não iria, não poderia se juntar ao baile. "E
+> daí se é longe?", o amigo escamoso retrucou.\
+> "Há outra praia, você sabe, do outro lado.\
+> Quanto mais longe da Inglaterra, mais perto da França.\
+> Então não se avexe, amado caramujo, mas junte-se à dança.\
+> Você vai, não vai? Você vai, não vai? Não vai se juntar à dança?
+
+"Obrigada, é uma dança muito interessante de assistir", disse Alice,
+sentindo-se muito contente por ter terminado finalmente. "E gostei muito
+da canção sobre o badejo!"
+
+"Oh, quanto ao badejo", disse a Falsa Tartaruga, "eles... você já viu
+badejo, não é mesmo?"
+
+"Já", disse Alice. "Vi muitos badejos no jan...", ela se interrompeu
+bruscamente.
+
+"Não sei onde é Jan", disse a Falsa Tartaruga, "mas, se você já os viu
+muitas vezes, deve saber como são os badejos."
+
+"Acredito que sim", Alice respondeu, pensativa. "Eles têm os rabos nas
+bocas... e ficam cobertos de migalhas."
+
+"Você se engana sobre as migalhas", disse a Falsa Tartaruga. "As
+migalhas saem na água do mar. Mas de fato eles têm os rabos nas bocas; e
+o motivo disso é que...", aqui a Falsa Tartaruga bocejou e fechou os
+olhos. "Diga você os motivos e tudo o mais", ela disse ao Grifo.
+
+"O motivo é que", disse o Grifo, "eles vão com as lagostas ao baile. De
+modo que são atirados ao mar. De modo que caem bem no fundo. De modo que
+põem o rabo na boca. De modo que não conseguem mais tirar o rabo da
+boca. Só isso."
+
+"Obrigada", disse Alice. "Muito interessante. Nunca aprendi tanto sobre
+badejos."
+
+"Posso contar muito mais, se você quiser", disse o Grifo. "Sabe por que
+se chamam badejos?"
+
+"Nunca tinha pensado nisso", disse Alice. "Por quê?"
+
+"Porque eles engraxam botas e sapatos", o Grifo respondeu muito solene.
+
+Alice ficou totalmente confusa. "Engraxam botas e sapatos!", ela repetiu
+em tom maravilhado.
+
+"Ora, como você engraxa os seus sapatos?", disse o Grifo. "Quero dizer,
+o que faz para que eles brilhem?"
+
+Alice olhou para os próprios pés e considerou um pouco antes de dar uma
+resposta. "Acho que são engraxados com graxa."
+
+"As botas e os sapatos no mar", o Grifo prosseguiu com voz grave, "são
+engraxados com badejos. Agora você sabe."
+
+"Do que é feita essa graxa?", Alice perguntou em tom de grande
+curiosidade.
+
+"Solhas e moreias, é claro", o Grifo respondeu um tanto impacientemente.
+"Qualquer camarão sabe disso."
+
+"Se eu fosse o badejo", disse Alice, cujos pensamentos ainda entoavam a
+canção, "eu teria dito à toninha 'Afaste-se, por favor: não queremos
+nada com você!'."
+
+"Eles são obrigados a ficar com elas", a Falsa Tartaruga disse. "Nenhum
+peixe sábio vai a lugar nenhum sem uma toninha."
+
+"É mesmo?", disse Alice em tom de grande surpresa.
+
+"Claro que não", disse a Falsa Tartaruga. "Ora, se um peixe viesse até
+mim e me dissesse que ia viajar, eu diria: 'Com qual toninha?'."
+
+"Você quis dizer 'sentido'?", disse Alice.
+
+"Quis dizer o que eu disse", a Falsa Tartaruga respondeu em tom
+ofendido. E o Grifo acrescentou: "Venha, vamos ouvir agora alguma
+aventura das suas".
+
+"Eu poderia contar minhas aventuras... a começar por esta manhã", disse
+Alice um pouco tímida, "mas não adianta começar por ontem, porque ontem
+eu era uma pessoa diferente."
+
+"Explique melhor", disse a Falsa Tartaruga.
+
+"Não, não! Primeiro as aventuras", disse o Grifo em tom impaciente.
+"Explicar demora demais."
+
+Então Alice começou a contar a eles suas aventuras a partir do momento
+em que viu pela primeira vez o Coelho Branco. Ela ficou um pouco nervosa
+a princípio, pois as duas criaturas estavam perto demais, uma de cada
+lado, e abriam muito os olhos e as bocas, mas ela foi ganhando coragem
+conforme prosseguia. Seus ouvintes ficaram totalmente calados até a
+parte em que ela recitou "Você está velho, pai William" para a Lagarta,
+e as palavras saíram todas diferentes, e então a Falsa Tartaruga
+respirou fundo e disse: "Isso é muito curioso".
+
+"É praticamente a coisa mais curiosa que existe", disse o Grifo.
+
+"Saiu tudo diferente!", a Falsa Tartaruga repetiu pensativamente. "Eu
+gostaria que ela recitasse de novo. Diga para ela recitar." Ele olhou
+para o Grifo como se achasse que ele tinha algum tipo de autoridade
+sobre Alice.
+
+"Fique de pé e recite 'Eis a voz do preguiçoso' ", disse o Grifo.
+
+"Como essas criaturas gostam de dar ordens e mandar os outros recitar
+lições!", pensou Alice. "É como se eu estivesse na escola." No entanto,
+ela se levantou e começou a recitar, mas sua cabeça estava tão cheia da
+Quadrilha da Lagosta que ela mal se deu conta do que estava dizendo, e
+as palavras de fato saíram muito esquisitas:
+
+> Eis a voz do Lagosta; escutei ele afirmar,\
+> "Você me deixou marrom, meu pelo devo açucarar."\
+> Como o pato com as pálpebras, ele com seu nariz\
+> Aperta cinto e botões, e de tudo o mais desiste.\
+> Quando a areia está seca, ele é alegre como cotovia.\
+> E, com desdém, com o Tubarão até conversaria:\
+> Mas quando sobe a maré e vêm os tubarões,\
+> Sua voz tem tímidos e trêmulos tons.
+
+"Está diferente do que eu costumava recitar quando criança", disse o
+Grifo.
+
+"Bem, eu nunca tinha ouvido isso antes", disse a Falsa Tartaruga, "mas
+me soa como um contrassenso incomum."
+
+Alice não disse nada; ela havia sentado segurando o rosto nas mãos,
+imaginando se alguma coisa *algum dia* aconteceria naturalmente outra
+vez.
+
+"Eu gostaria que você explicasse", disse a Falsa Tartaruga.
+
+"Ela não poderá explicar", apressadamente disse o Grifo. "Vá logo para a
+próxima estrofe."
+
+"Mas por que ele desiste de tudo?", a Falsa Tartaruga insistiu. "Como
+ele fez essas coisas com o nariz?"
+
+"Essa é a primeira posição da dança", Alice disse; mas estava
+pavorosamente intrigada com tudo aquilo, e ansiosa para mudar de
+assunto.
+
+"Mas passe logo à estrofe seguinte", o Grifo repetiu. "Começa assim:
+'Passei por seu jardim...'."
+
+Alice não ousou desobedecer, embora tivesse certeza de que sairia tudo
+errado, e ela prosseguiu com voz trêmula:
+
+> Passei por seu jardim, e vi, de canto de olho,\
+> Como a Coruja e a Pantera dividiam um bolo:\
+> A Pantera comeu a casca, o molho, a carne,\
+> Enquanto a Coruja engoliu o prato.\
+> Quando o bolo acabou, a Coruja, como prêmio,\
+> Embolsou a colher, generosamente:\
+> Ao passo que a Pantera recebeu faca e garfo,\
+> E concluiu o banquete com um...
+
+"De que adianta repetir tudo isso", a Falsa Tartaruga interrompeu, "se
+você não explica as coisas que diz? É de longe a coisa mais confusa que
+eu já ouvi nada na vida!"
+
+"Sim, acho melhor você ir embora", disse o Grifo; e Alice ficou contente
+por fazê-lo.
+
+"Que tal fazermos outra figura da Quadrilha da Lagosta?", o Grifo
+prosseguiu. "Ou você preferiria que a Falsa Tartaruga cantasse outra
+canção?"
+
+"Oh, uma canção, por favor, se a Falsa Tartaruga fizesse essa
+gentileza", Alice respondeu, tão avidamente que o Grifo disse, em tom um
+tanto ofendido: "Humpf! Bem, gosto não se discute! Cante para ela 'Sopa
+de Tartaruga', pode ser, minha velha?".
+
+A Falsa Tartaruga soltou um suspiro profundo e começou, com a voz
+sufocada de soluços, a cantar o seguinte:
+
+> Bela Sopa, cheia de verdura e vitamina,\
+> Esperando na escaldante terrina!\
+> Quem a tal delícia não diz "oba"?\
+> Sopa noturna, bela Sopa!\
+> Sopa noturna, bela Sopa!\
+> Be...laaa So...opa!\
+> Be...laaa So...opa!\
+> So...opa no...tur...na,\
+> Bela delícia de Sopa! Bela Sopa! Quem quer saber de peixe,\
+> Caça ou outro prato que seja?\
+> Quem não daria tudo por um pouco,\
+> Dois tostões que fosse de uma bela Sopa?\
+> Dois tostões que fosse de uma bela Sopa?\
+> Be...laaa So...opa!\
+> Be...laaa So...opa!\
+> So...opa no...tur...na,\
+> Bela delí...cia de [sopa]{.smallcaps}!
+
+"Refrão!", exclamou o Grifo, e a Falsa Tartaruga havia começado a
+repetir o refrão, quando um grito de "Vai começar o julgamento!" foi
+ouvido ao longe.
+
+"Vamos!", exclamou o Grifo, e, pegando Alice pela mão, ele se apressou,
+sem esperar o final da canção.
+
+"Que julgamento é esse?", Alice disse, ofegante, enquanto corria; mas o
+Grifo só respondeu "Vamos!", e correu mais depressa, enquanto cada vez
+mais fracamente, trazidas pela brisa que os acompanhava, ouviam-se as
+melancólicas palavras:
+
+> So...opa no...tur...na,\
+> Bela delícia de Sopa!
+
+## Quem roubou as tortas?
+O Rei e a Rainha de Copas estavam sentados em seus tronos quando eles
+chegaram, com uma grande multidão em volta --- todo tipo de passarinhos
+e animais, assim como o baralho inteiro: o Valete estava de pé na frente
+deles, acorrentado, com um soldado de cada lado a vigiá-lo; e ao lado do
+Rei estava o Coelho Branco, com um clarim em uma mão e um rolo de
+pergaminho na outra. Exatamente no meio da corte, havia uma mesa, com
+uma bandeja enorme cheia de tortas: pareciam tão gostosas que Alice
+olhou com água na boca para elas --- "Quem dera esse julgamento acabasse
+logo!" Mas parecia não haver nenhuma possibilidade de isso ocorrer, de
+modo que ela começou a olhar para os lados para matar o tempo.
+
+Alice nunca estivera em um tribunal de justiça antes, mas havia lido a
+respeito em livros, e ficou muito contente ao perceber que sabia o nome
+de praticamente todos ali presentes. "Aquele é o juiz", ela disse
+consigo mesma, "por causa da enorme peruca."
+
+O juiz, aliás, era o Rei; e, como ele usava a coroa por cima da peruca,
+não parecia nada confortável, e certamente não lhe caía nada bem.
+
+"E ali fica o júri", pensou Alice, "e essas doze criaturas" (ela foi
+obrigada a dizer "criaturas", você sabe, porque alguns eram animais, e
+alguns eram aves), "imagino que sejam os jurados". Ela disse essa última
+palavra duas ou três vezes consigo mesma, sentindo um certo orgulho de
+si mesma, pois, pensou, e com justiça, que pouquíssimas garotinhas da
+sua idade sabiam o que eram jurados. No entanto, "membros do júri" teria
+dado na mesma.
+
+Os doze jurados estavam escrevendo concentradamente em pequenas
+lousinhas. "O que será que estão todos fazendo?", Alice sussurrou para o
+Grifo. "Eles não deveriam escrever nada enquanto o julgamento não
+começa."
+
+"Eles estão escrevendo os próprios nomes", o Grifo sussurrou em
+resposta, "pois receiam se esquecer até o final do julgamento."
+
+"Criaturas estúpidas!", Alice começou a dizer em voz alta e indignada,
+mas logo parou, pois o Coelho Branco exclamara "Silêncio no tribunal!",
+e o Rei pôs os óculos e olhou aflito para os lados para ver quem tinha
+falado.
+
+Alice conseguiu ver, como se estivesse olhando sobre seus ombros, que
+todos os jurados estavam escrevendo "criaturas estúpidas!" em suas
+lousinhas, e ela conseguiu ver até que um deles não sabia soletrar
+"estúpidas" e precisara perguntar ao vizinho. "Essas lousinhas ficarão
+ilegíveis até o final do julgamento!", pensou Alice.
+
+Um dos jurados tinha um giz que rangia. Isso, é claro, Alice não
+conseguiu suportar, e ela deu a volta por trás dele e logo encontrou uma
+oportunidade de tirar o giz do jurado. Ela fez isso tão depressa que o
+pobrezinho do jurado (era Bill, o Lagarto) não entendeu o que
+acontecera; de modo que, depois de procurar o giz perdido, foi obrigado
+a escrever com o dedo pelo resto do dia; e isso não adiantava quase
+nada, pois não deixava marcas na lousinha.
+
+"Arauto, leia a acusação!", disse o Rei.
+
+Nesse momento, o Coelho Branco soprou três vezes seu clarim, então
+desenrolou o pergaminho e leu o seguinte:
+
+> A Rainha de Copas fez as tortas,\
+> No verão, um belo dia:\
+> O Valete de Copas, roubou as tortas,\
+> E levou-as consigo!
+
+"Já chegaram a um veredito?", o Rei disse ao júri.
+
+"Ainda não, ainda não!", o Coelho apressado interrompeu. "Ainda falta
+muito antes disso!"
+
+"Chame a primeira testemunha", disse o Rei; e o Coelho soprou três vezes
+seu clarim e chamou: "A primeira testemunha!".
+
+A primeira testemunha era o Chapeleiro. Ele chegou com uma xícara de chá
+em uma mão e um pedaço de pão com manteiga na outra. "Sinto muito, sua
+Majestade", ele começou, "por trazer isso comigo, mas eu não havia
+terminado meu chá quando me chamaram."
+
+"Você devia ter terminado antes", disse o Rei. "Que horas você começou?"
+
+O Chapeleiro olhou para a Lebre de Março, que o acompanhara até o
+tribunal, de braço dado com o Arganaz. "Catorze de março, acho que foi",
+ele disse.
+
+"Quinze", disse a Lebre de Março.
+
+"Dezesseis", disse o Arganaz.
+
+"Escrevam isso", o Rei disse ao júri, e o júri avidamente escreveu as
+três datas nas lousinhas, e depois somaram as três e reduziram a
+resposta a xelins e pence.
+
+"Tire sua cartola", o Rei disse ao Chapeleiro.
+
+"Não é minha", disse o Chapeleiro.
+
+"Roubada!", o Rei exclamou, virando-se para o júri, que instantaneamente
+redigiu um memorando do fato.
+
+"Eu vendo cartolas", o Chapeleiro agregou para explicar. "Nenhuma das
+cartolas é minha. Sou só o chapeleiro."
+
+Aqui a Rainha pôs os óculos e começou a olhar fixamente para o
+Chapeleiro, que ficou pálido e agitado.
+
+"Apresente uma prova", disse o Rei; "e não fique nervoso, ou mando
+executá-lo aqui mesmo."
+
+Isso não pareceu encorajar muito a testemunha: ele ficava alternando o
+peso de um pé para o outro, parecendo constrangido diante da Rainha, e
+nessa confusão mordeu a xícara em vez de morder o pão.
+
+Nesse exato momento, Alice teve uma sensação muito curiosa, que a
+intrigou um bocado, até que percebesse o que era: ela estava começando a
+crescer de novo e pensou a princípio em se levantar e sair do tribunal;
+mas pensou melhor e resolveu ficar onde estava enquanto houvesse espaço
+suficiente.
+
+"Eu adoraria que você não me espremesse tanto", disse o Arganaz, sentado
+ao lado dela. "Mal consigo respirar assim."
+
+"Não é minha culpa", disse Alice muito delicadamente. "Estou crescendo."
+
+"Você não tem direito de crescer aqui", disse o Arganaz.
+
+"Não diga absurdos", disse Alice com mais ousadia. "Você sabe que você
+também está crescendo."
+
+"Sim, mas eu cresço em um ritmo razoável", disse o Arganaz; "não dessa
+maneira ridícula." E ele se levantou contrariado e atravessou o recinto
+até o outro lado do tribunal.
+
+Todo esse tempo a Rainha havia continuado olhando fixamente para o
+Chapeleiro, e, assim que o Arganaz atravessou o tribunal, ela disse a um
+dos mensageiros. "Traga-me a lista dos cantores do último recital!",
+aquele em que o infeliz Chapeleiro havia tremido tanto, que se sacudira
+a ponto de ficar sem os sapatos.
+
+"Apresente uma prova", o Rei repetiu irritado, "ou mando executá-lo aqui
+mesmo, nervoso ou não."
+
+"Sou um homem pobre, Majestade", o Chapeleiro começou, com voz trêmula,
+"... e eu mal havia começado o meu chá... não mais de uma semana e pouco
+atrás... e o pão com manteiga foi ficando tão escasso... e o pisca-pisca
+do chá..."
+
+"O pisca-pisca do quê?", disse o Rei.
+
+"Começou com ch...", o Chapeleiro respondeu.
+
+"Claro que começou!", o Rei disse rispidamente. "Você acha que eu sou um
+burro? Continue!"
+
+"Não disse nada!", a Lebre de Março interrompeu com muita pressa.
+
+"Disse, sim!", disse o Chapeleiro.
+
+"Eu nego que tenha dito!", disse a Lebre de Março.
+
+"A lebre nega", disse o Rei. "Esqueçam essa parte."
+
+"Depois disso", continuou o Chapeleiro, "cortei mais pão com
+manteiga..."
+
+"Mas o que disse o Arganaz afinal?", um jurado perguntou.
+
+"Isso eu não me lembro", disse o Chapeleiro.
+
+"Você tem que se lembrar", observou o Rei, "ou vou mandar executá-lo."
+
+O angustiado Chapeleiro deixou cair a xícara e o pão com manteiga e se
+apoiou em um joelho. "Sou um homem pobre, Majestade", ele começou.
+
+"Você é um orador paupérrimo de fato", disse o Rei.
+
+"Fico contente por ter visto isso", pensou Alice. "Muitas vezes li no
+jornal, ao final de um julgamento, 'Houve algumas tentativas de aplauso,
+que foram imediatamente reprimidas pelos mensageiros', e nunca tinha
+entendido o que significava até agora."
+
+"Se é só isso que você sabe, pode descer", continuou o Rei.
+
+"Não posso descer mais do que isso", disse o Chapeleiro. "Já estou no
+chão."
+
+"Então você pode se sentar", o Rei respondeu.
+
+Aqui o outro porquinho-da-índia aplaudiu e foi reprimido.
+
+"Bem, assim ficamos livres dos porquinhos-da-índia!", pensou Alice.
+"Agora tudo prosseguirá sem delongas".
+
+"Eu preferiria ter terminado o meu chá", disse o Chapeleiro, olhando
+aflito para a Rainha, que estava lendo a lista dos cantores.
+
+"Você pode ir agora", disse o Rei; e o Chapeleiro saiu apressadamente do
+tribunal, sem sequer esperar para calçar os sapatos.
+
+"... e cortem-lhe a cabeça lá fora", a Rainha acrescentou para um dos
+mensageiros; mas o Chapeleiro já havia desaparecido antes que o
+mensageiro chegasse à porta.
+
+"Chamem a próxima testemunha!", disse o Rei.
+
+A próxima testemunha era a cozinheira da Duquesa. Ela chegou com o
+pimenteiro na mão, e Alice logo adivinhou quem era, mesmo antes de ela
+entrar no tribunal, pelo modo como as pessoas perto da porta começaram a
+espirrar imediatamente.
+
+"Apresente sua prova", disse o Rei.
+
+"Não dá", disse a cozinheira.
+
+O Rei olhou aflito para o Coelho Branco, que disse em voz baixa: "Sua
+Majestade também precisa interrogar essa testemunha".
+
+"Bem, se eu preciso, então, eu preciso", o Rei disse com ar melancólico
+e, depois de cruzar os braços e franzir a testa diante da cozinheira até
+seus olhos ficarem quase invisíveis, ele disse com voz grave: "Do que
+são feitas as tortas?".
+
+"Basicamente, pimenta", disse a cozinheira.
+
+"Melaço", disse uma voz sonolenta atrás dela.
+
+"Enforquem esse Arganaz", a Rainha berrou. "Cortem a cabeça do Arganaz!
+Tirem esse Arganaz daqui! Reprimam esse Arganaz! Belisquem! Cortem suas
+suíças!"
+
+Por alguns minutos, o tribunal ficou uma confusão total; nesse ínterim,
+entre tirarem o Arganaz do recinto, até voltarem e tudo se acalmar, a
+cozinheira havia desaparecido.
+
+"Não faz mal", disse o Rei, com ar de grande alívio. "Chamem a próxima
+testemunha." E ele acrescentou discretamente para a Rainha: "De fato,
+querida, você precisa interrogar a próxima testemunha. Minha testa já
+está doendo!".
+
+## A prova de Alice
+
+"Aqui!", exclamou Alice, quase esquecendo no calor do momento o tanto
+que havia crescido nos últimos minutos, e ela se levantou tão depressa
+que derrubou os jurados com a ponta da saia, espalhando-os no meio da
+multidão que assistia, e ali ficaram os jurados espalhados,
+lembrando-lhe muito o aquário do peixe dourado que acidentalmente ela
+derrubara uma semana antes.
+
+"Oh, eu sinto muito!", ela exclamou em tom de grande desolação, e
+começou a recolher os jurados, o mais depressa que conseguiu, pois o
+acidente do peixe dourado continuava em seus pensamentos, e lhe ocorreu
+uma espécie de ideia vaga, de que o júri devia ser recolhido logo e ser
+devolvido no lugar, do contrário os jurados morreriam.
+
+"O julgamento não pode continuar", disse o Rei com voz muito soturna,
+"enquanto todos os jurados não estiverem em sua posição correta...
+todos", ele repetiu com grande ênfase, olhando duramente para Alice ao
+dizê-lo.
+
+Alice olhou para o júri e notou que, na pressa, pusera o Lagarto de
+ponta-cabeça, e a pobre criaturazinha acenava o rabo de modo
+melancólico, quase incapaz de se mover. Ela logo o tirou dali e o deixou
+na posição correta; "não que isso altere muita coisa", ela disse consigo
+mesma; "eu diria que ele será tão útil no julgamento assim sentado como
+antes virado".
+
+Assim que os jurados se recuperaram um pouco do choque de terem sido
+virados, e suas lousinhas e seus gizes foram encontrados e devolvidos
+para eles, puseram-se a trabalhar diligentemente, escrevendo uma
+história do acidente, todos menos o Lagarto, que parecia abalado demais
+para fazer qualquer outra coisa além de contemplar boquiaberto o teto da
+corte.
+
+"O que você sabe sobre isso?", o Rei disse a Alice.
+
+"Nada", disse Alice.
+
+"Nada mesmo?", insistiu o Rei.
+
+"Nada mesmo", disse Alice.
+
+"Isso é muito relevante", o Rei disse, virando-se para o júri. Eles
+estavam começando a escrever isso em suas lousinhas, quando o Coelho
+interrompeu: "*I*rrelevante, Majestade, evidentemente", ele disse em tom
+muito respeitoso, mas franzindo a testa e fazendo caretas para ele
+enquanto falava.
+
+"*I*rrelevante, claro, foi o que eu quis dizer", o Rei rapidamente
+respondeu, e prosseguiu em tom discreto, "relevante... irrelevante...
+irrelevante... relevante...", como se estivesse experimentando para ver
+qual palavra soava melhor.
+
+Alguns jurados escreveram "relevante" e alguns, "irrelevante". Alice
+conseguiu enxergar isso, pois estava perto o suficiente para ver suas
+lousinhas por cima; "mas não faz nenhuma diferença", ela pensou consigo
+mesma.
+
+Nesse momento, o Rei, que ficara algum tempo escrevendo em seu caderno,
+gritou "Silêncio!" e leu o que havia redigido: "Regra Quarenta e dois.
+*Toda pessoa com mais de uma milha de altura deve deixar a corte*".
+
+Todo mundo olhou para Alice.
+
+"Eu não tenho uma milha de altura", disse Alice.
+
+"Tem, sim", disse o Rei.
+
+"Quase duas milhas", agregou a Rainha.
+
+"Bem, mas eu não vou embora", disse Alice. "Além do mais, essa regra não
+existia: você inventou agorinha."
+
+"É a regra mais antiga que temos", disse o Rei.
+
+"Então devia ser a Número Um", disse Alice.
+
+O Rei ficou pálido e fechou depressa o caderno. "Chegaram a um
+veredito?", ele disse aos jurados, em voz grave e trêmula.
+
+"Ainda há mais provas para serem apresentadas, Majestade", disse o
+Coelho Branco, saltando, muito apressado. "Este envelope acabou de
+chegar".
+
+"O que está escrito?", disse a Rainha.
+
+"Ainda não abri", disse o Coelho Branco, "mas parece ser uma carta,
+escrita pelo prisioneiro... para alguém."
+
+"Deve ser isso", disse o Rei, "a não ser que tenha sido escrita para
+ninguém, o que não é comum, você sabe..."
+
+"Está destinada a quem?", disse um jurado.
+
+"Não está destinada a ninguém", disse o Coelho Branco; "na verdade, não
+há nada escrito do lado de fora." Ele abriu o envelope enquanto falava e
+acrescentou: "Pelo visto, não é uma carta afinal, mas um apanhado de
+versos".
+
+"Está escrito com a caligrafia do prisioneiro?", perguntou outro jurado.
+
+"Não, não está", disse o Coelho Branco, "e isso é a coisa mais
+esquisita." (Os jurados olharam com expressão intrigada.)
+
+"Ele deve ter imitado a caligrafia de alguém", disse o Rei. (Os jurados
+se entusiasmaram de novo.)
+
+"Majestade", disse o Valete, "eu não escrevi isso, e ninguém pode provar
+que escrevi: não há nenhum nome assinado embaixo."
+
+"Se você não assinou", disse o Rei, "isso só piora ainda mais as coisas.
+Você devia ter alguma má intenção, do contrário teria assinado com seu
+nome, como um homem honesto."
+
+Diante disso, todos os presentes aplaudiram: foi a primeira coisa
+realmente inteligente que o Rei disse aquele dia.
+
+"Isso prova que ele é culpado, evidentemente", disse a Rainha.
+"Portanto, cortem..."
+
+"Isso não prova coisa nenhuma!", disse Alice. "Ora, vocês nem sabem o
+que está escrito!"
+
+"Leia", disse o Rei.
+
+O Coelho Branco pôs os óculos. "De onde eu começo, Majestade?", ele
+perguntou.
+
+"Comece do começo", o Rei disse gravemente, "e siga em frente até chegar
+no fim; então pare."
+
+Fez-se um silêncio mortal na corte, enquanto o Coelho Branco leu os
+seguintes versos:
+
+> Disseram que você esteve com ela,\
+> E mencionou meu nome a ele:\
+> Ela me deu um bom papel,\
+> Mas disse que eu não sabia nadar. Ele os avisou de que eu não tinha
+> ido,\
+> (Sabemos que isso é verdade):\
+> Se ela insistir com esse assunto,\
+> O que será de você? Dei a ela uma, eles a ele deram duas,\
+> Você nos deu três ou mais;\
+> Todas voltaram dele para você,\
+> Embora antes fossem minhas. Se eu ou ela corremos risco\
+> De envolvimento nesse caso,\
+> Ele espera que você as livre,\
+> Exatamente como éramos. Minha opinião era que você havia sido\
+> (Antes que ela tivesse esse surto)\
+> Um obstáculo interposto entre\
+> Ele, nós, e isto. Não o deixe saber que ela gostava mais delas,\
+> Pois isso deverá sempre ser\
+> Um segredo, ignorado por todo o resto,\
+> Entre mim e você.
+
+"Essa é a prova mais relevante que ouvimos até agora", disse o Rei,
+esfregando as mãos; "então agora deixemos o júri..."
+
+"Se algum jurado puder explicar isso", disse Alice (ela ficara tão
+grande nos últimos minutos que não teve medo nenhum de interrompê-lo),
+"eu lhe darei uma moeda. Não acredito que haja um pingo de sentido
+nisso."
+
+Os jurados escreveram em suas lousinhas "Ela não acredita que haja um
+pingo de sentido nisso", mas nenhum deles tentou explicar o que estava
+escrito no papel.
+
+"Se não há sentido nisso", disse o Rei, "isso nos poupa um grande
+trabalho, você sabe, pois não precisamos nem tentar procurar nenhum
+sentido nisso. E no entanto eu não sei", ele prosseguiu, abrindo o papel
+com os versos sobre seu joelho, e olhando para eles com um olho só;
+"Acho que enxergo algum sentido nisso afinal. 'Disse que eu não sabia
+nadar...', você não sabe nadar, não é?", ele agregou, virando-se para o
+Valete.
+
+O Valete balançou tristonho a cabeça. "O que você acha?", ele disse.
+(Certamente ele não nadava, sendo feito de papel-cartão.)
+
+"Muito bem, até aqui", disse o Rei, prosseguindo, resmungando para si
+mesmo os versos: "'Sabemos que isso é verdade'... isso se refere ao
+júri, evidentemente... 'Se ela insistir com esse assunto'... isso deve
+se referir à Rainha... 'O que será de você?'... Ora, de fato! 'Dei a ela
+uma, eles a ele deram duas', ora, isso deve ser o que ele fez com as
+tortas, você sabe..."
+
+"Mas depois diz 'todas voltaram dele para você'," disse Alice.
+
+"Ora, elas estão aí!", disse o Rei triunfantemente, apontando para as
+tortas na mesa. "Nada pode ser mais claro do que isso. Mas, novamente...
+'antes que ela tivesse esse surto'... você nunca teve surtos, querida,
+não é?", ele disse à Rainha.
+
+"Jamais!", disse a Rainha furiosamente, atirando um tinteiro no Lagarto
+ao falar. (O infeliz do pequeno Bill parara de escrever com o dedo na
+lousinha, pois descobrira que não deixava marcas; mas agora rapidamente
+começou de novo, usando a tinta, que escorria em seu rosto, até acabar a
+tinta.)
+
+"Então as palavras não *surtiram* efeito em vocês?", disse o Rei,
+olhando para os presentes, com um sorriso. Fez-se um silêncio mortal.
+
+"É um trocadilho!", o Rei acrescentou em tom irritado, e todos deram
+risada.
+
+"Que o júri chegue ao veredito logo", o Rei disse, talvez pela vigésima
+vez naquele dia.
+
+"Não, não!", disse a Rainha. "Primeiro a sentença, depois o veredito."
+
+"Mas que absurdo!", disse Alice em voz alta. "Onde já se viu 'primeiro a
+sentença'?!"
+
+"Controle sua língua!", disse a Rainha, ficando roxa.
+
+"Não vou!", disse Alice.
+
+"Cortem-lhe a cabeça!", a Rainha berrou a plenos pulmões. Ninguém se
+mexeu.
+
+"Quem tem medo de vocês?", disse Alice (a essa altura ela atingira sua
+altura máxima). "Vocês não passam de cartas de baralho!"
+
+Nesse momento, o baralho inteiro se ergueu no ar e veio voando para cima
+dela: ela soltou um gritinho, um tanto assustado, um tanto furioso, e
+tentou espantá-los aos tapas, e se viu deitada na margem do rio, com a
+cabeça no colo da irmã, que delicadamente tirava algumas folhas secas
+que haviam caído das árvores sobre seu rosto.
+
+"Acorde, Alice querida!", disse a irmã. "Ora, você dormiu bastante!"
+
+"Oh, tive um sonho tão curioso!", disse Alice, e ela contou à irmã, da
+melhor forma de que se lembrava, todas essas estranhas Aventuras que
+você acabou de ler; e, quando terminou, a irmã lhe deu um beijo e disse:
+"Certamente, querida, foi um sonho curioso, mas agora vá correndo lá
+para dentro para tomar o seu chá; está ficando tarde". Então Alice se
+levantou e foi embora correndo, pensando enquanto corria, da melhor
+forma que podia, que sonho maravilhoso havia sido.
+
+Mas a irmã continuou ali sentada, desde o momento em que ela saiu
+correndo, com a cabeça inclinada para o lado, assistindo ao pôr do sol e
+pensando na pequena Alice e em todas as suas maravilhosas Aventuras, até
+que ela também começou a sonhar de certa forma, e eis o sonho que ela
+teve:
+
+Primeiro, ela sonhou com a própria pequena Alice, e mais uma vez as
+mãozinhas minúsculas se agarraram ao seu joelho, e aqueles olhos grandes
+e brilhantes estavam olhando para ela... ela podia ouvir até o tom da
+voz dela, e aquele gesto engraçado de tirar seus cabelos soltos que
+sempre caíam sobre os olhos... e, mesmo imóvel como ela estava, ouvindo,
+ou parecendo ouvir, o lugar inteiro à sua volta se tornou vivo com as
+estranhas criaturas do sonho de sua irmãzinha.
+
+A grama alta farfalhou aos seus pés quando o Coelho Branco passou
+apressado... o assustadiço Camundongo chapinhando atravessava a piscina
+vizinha com estardalhaço... ela podia ouvir o chocalhar das xícaras de
+chá, conforme a Lebre de Março e seus amigos faziam sua interminável
+refeição, e a voz estridente da Rainha mandando executar os infelizes
+convidados... mais uma vez o bebê-porco estava espirrando no colo da
+Duquesa, enquanto pratos e bandejas se estilhaçavam com estrondo... mais
+uma vez o grito do Grifo, o rangido do giz na lousinha do Lagarto, e os
+engasgos dos porquinhos-da-índia reprimidos encheram o ar, mesclados aos
+soluços distantes da angustiada Falsa Tartaruga.
+
+De modo que ela ficou sentada de olhos fechados, acreditando em parte
+também no Reino da Maravilha, embora sabendo que precisaria abri-los em
+algum momento, e que tudo se transformaria em uma realidade banal... a
+grama só farfalhando por causa do vento, e a piscina só agitada por
+causa do balanço dos juncos... o chocalhar das xícaras de chá se
+transformando no som dos badalos das ovelhas, e os gritos estridentes da
+Rainha nos chamados do pastorzinho... e os espirros do bebê, o grito do
+Grifo, e todos os outros barulhos esquisitos se transformariam (ela
+sabia) no clamor confuso dos trabalhadores no sítio --- enquanto os
+mugidos do gado ao longe tomariam o lugar dos pesados soluços da Falsa
+Tartaruga.
+
+Por fim, ela imaginou como sua irmãzinha ficaria, depois de algum tempo,
+quando se tornasse uma mulher adulta; e como ela conservaria, em seus
+anos mais maduros, o coração simples e amoroso de sua infância; e como
+ela reuniria ao seu redor suas próprias criancinhas e deixaria os olhos
+delas arregalados e brilhantes com muitas histórias estranhas, talvez
+até mesmo com o sonho do Reino da Maravilha de muito tempo atrás; e como
+ela sentiria suas tristezas singelas e encontraria prazer em suas
+singelas alegrias, lembrando-se de sua própria vida de criança e
+daqueles dias felizes de verão.
