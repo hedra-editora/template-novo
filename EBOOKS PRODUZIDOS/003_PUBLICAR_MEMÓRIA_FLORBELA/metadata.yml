@@ -1,0 +1,17 @@
+---
+title: Memória
+author: Florbela Espanca
+rights: hedra
+lang: pt-BR
+edition: Segunda Edição
+mainlang: portuguese
+otherlang: english
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

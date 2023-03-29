@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Florbela Espanca" />
+  <title>Memória</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    /*
+     * Custom CSS file. Override it as you like.
+     *
+     * Credits to @killercup (https://gist.github.com/killercup); Extracted from this Gist:
+     *   https://gist.github.com/killercup/5917178
+     */
+
+    html {
+        font-size: 100%;
+        overflow-y: scroll;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    }
+
+    body {
+        color: #444;
+        font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+        font-size: 12px;
+        line-height: 1.7;
+        padding: 1em;
+        margin: auto;
+        max-width: 42em;
+        background: #fefefe;
+    }
+
+    .subtitulo 
+    {
+    font-size: 1.3em;
+    text-align: left;}
+
+    .epigrafe
+    {font-size: 0.9em;
+    font-style: italic;
+    text-align: right; }
+
+    .entrada 
+    {
+    font-size: 1em; 
+    text-align: right; 
+    font-style: italic;
+    font-weight: bold;
+    color: #111;
+    line-height: 125%;
+    margin-top: 2em;
+    }
+
+
+    a {
+        color: #0645ad;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: #0b0080;
+    }
+
+    a:hover {
+        color: #06e;
+    }
+
+    a:active {
+        color: #faa700;
+    }
+
+    a:focus {
+        outline: thin dotted;
+    }
+
+    *::-moz-selection {
+        background: rgba(255, 255, 0, 0.3);
+        color: #000;
+    }
+
+    *::selection {
+        background: rgba(255, 255, 0, 0.3);
+        color: #000;
+    }
+
+    a::-moz-selection {
+        background: rgba(255, 255, 0, 0.3);
+        color: #0645ad;
+    }
+
+    a::selection {
+        background: rgba(255, 255, 0, 0.3);
+        color: #0645ad;
+    }
+
+    p {
+        margin: 1em 0;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #111;
+        line-height: 125%;
+        margin-top: 2em;
+        font-weight: normal;
+    }
+
+    h4,
+    h5,
+    h6 {
+        font-weight: bold;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+
+    h3 {
+        font-size: 1.3em;
+    }
+
+    h4 {
+        font-size: 1.2em;
+    }
+
+    h5 {
+        font-size: 1.1em;
+    }
+
+    h6 {
+        font-size: 1em;
+    }
+
+    blockquote {
+        color: #666666;
+        margin: 0;
+        padding-left: 3em;
+        border-left: 0.5em #EEE solid;
+    }
+
+    hr {
+        display: block;
+        height: 2px;
+        border: 0;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #eee;
+        margin: 1em 0;
+        padding: 0;
+    }
+
+    pre,
+    code,
+    kbd,
+    samp {
+        color: #000;
+        font-family: monospace, monospace;
+        _font-family: 'courier new', monospace;
+        font-size: 0.98em;
+    }
+
+    pre {
+        white-space: pre;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+    b,
+    strong {
+        font-weight: bold;
+    }
+
+    dfn {
+        font-style: italic;
+    }
+
+    ins {
+        background: #ff9;
+        color: #000;
+        text-decoration: none;
+    }
+
+    mark {
+        background: #ff0;
+        color: #000;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    sub,
+    sup {
+        font-size: 67.5%;
+        line-height: 0;
+        position: relative;
+        vertical-align: baseline;
+    }
+
+    sup {
+        top: -0.4em;
+    }
+
+    sub {
+        bottom: -0.25em;
+    }
+
+    ul,
+    ol {
+        margin: 1em 0;
+        padding: 0 0 0 2em;
+    }
+
+    li p:last-child {
+        margin-bottom: 0;
+    }
+
+    ul ul,
+    ol ol {
+        margin: .3em 0;
+    }
+
+    dl {
+        margin-bottom: 1em;
+    }
+
+    dt {
+        font-weight: bold;
+        margin-bottom: .8em;
+    }
+
+    dd {
+        margin: 0 0 .8em 2em;
+    }
+
+    dd:last-child {
+        margin-bottom: 0;
+    }
+
+    img {
+        border: 0;
+        -ms-interpolation-mode: bicubic;
+        vertical-align: middle;
+    }
+
+    figure {
+        display: block;
+        text-align: center;
+        margin: 1em 0;
+    }
+
+    figure img {
+        border: none;
+        margin: 0 auto;
+    }
+
+    figcaption {
+        font-size: 0.8em;
+        font-style: italic;
+        margin: 0 0 .8em;
+    }
+
+    table {
+        margin-bottom: 2em;
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-spacing: 0;
+        border-collapse: collapse;
+    }
+
+    table th {
+        padding: .2em 1em;
+        background-color: #eee;
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+    }
+
+    table td {
+        padding: .2em 1em;
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+        vertical-align: top;
+    }
+
+    .author {
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+    @media only screen and (min-width: 480px) {
+        body {
+            font-size: 14px;
+        }
+    }
+
+    @media only screen and (min-width: 768px) {
+        body {
+            font-size: 16px;
+        }
+    }
+
+    @media print {
+        * {
+            background: transparent !important;
+            color: black !important;
+            filter: none !important;
+            -ms-filter: none !important;
+        }
+        body {
+            font-size: 12pt;
+            max-width: 100%;
+        }
+        a,
+        a:visited {
+            text-decoration: underline;
+        }
+        hr {
+            height: 1px;
+            border: 0;
+            border-bottom: 1px solid black;
+        }
+        a[href]:after {
+            content: " (" attr(href) ")";
+        }
+        abbr[title]:after {
+            content: " (" attr(title) ")";
+        }
+        .ir a:after,
+        a[href^="javascript:"]:after,
+        a[href^="#"]:after {
+            content: "";
+        }
+        pre,
+        blockquote {
+            border: 1px solid #999;
+            padding-right: 1em;
+            page-break-inside: avoid;
+        }
+        tr,
+        img {
+            page-break-inside: avoid;
+        }
+        img {
+            max-width: 100% !important;
+        }
+        @page :left {
+            margin: 15mm 20mm 15mm 10mm;
+        }
+        @page :right {
+            margin: 15mm 10mm 15mm 20mm;
+        }
+        p,
+        h2,
+        h3 {
+            orphans: 3;
+            widows: 3;
+        }
+        h2,
+        h3 {
+            page-break-after: avoid;
+        }
+    }  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Memória</h1>
+<p class="author">Florbela Espanca</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#introdução">Introdução</a>
+<ul>
+<li><a href="#o-professor-italiano">O professor italiano</a></li>
+<li><a href="#diário-como-gênero-literário">Diário como gênero literário</a></li>
+<li><a href="#esboço-de-autobiografia">Esboço de autobiografia</a></li>
+</ul></li>
+<li><a href="#nota-à-edição">Nota à edição</a></li>
+<li><a href="#diário-1930">Diário (1930)</a>
+<ul>
+<li><a href="#janeiro">Janeiro</a></li>
+<li><a href="#fevereiro">Fevereiro</a></li>
+<li><a href="#março">Março</a></li>
+<li><a href="#abril">Abril</a></li>
+<li><a href="#maio">Maio</a></li>
+<li><a href="#julho">Julho</a></li>
+<li><a href="#agosto">Agosto</a></li>
+<li><a href="#setembro">Setembro</a></li>
+<li><a href="#outubro">Outubro</a></li>
+<li><a href="#novembro">Novembro</a></li>
+<li><a href="#dezembro">Dezembro</a></li>
+</ul></li>
+<li><a href="#aforismos">Aforismos</a></li>
+</ul>
+</nav>
+<h1 class="unnumbered" id="introdução">Introdução</h1>
+<p>O <em>Diário</em> de Florbela Espanca, tão parco, tão pausado, tão descontinuado e enigmático, transcorre num único ano — o da sua morte, em 1930 — e se compõe de 32 fragmentos. Tem início em 11 de janeiro e se encerra em 2 de dezembro, portanto, na véspera de seu suicídio ocorrido no dia 8 — data de comemoração de Nossa Senhora da Conceição, de quem Florbela herdara um de seus primeiros nomes. Sua frequência ao <em>Diário</em> ostenta uma média de quase três comparecimentos mensais. Mas essa conta engana.</p>
+<p>De início, Florbela se aplica em redigi-lo. É capaz de escrever cinco peças seguidas e mais quatro sucessivas — e isso só em janeiro! Vê-se que se entusiasma com a perspectiva da tal tarefa que se impõe, ou que dela tem mesmo extrema necessidade.</p>
+<p>Em fevereiro, também se empenha na escrita e se expande — são oito fragmentos, embora dispersos. Em março e em abril, quase ali não comparece, a não ser por duas aparições a cada um dos meses. Em maio, apenas uma. Em junho, nenhuma. Em julho e em agosto, uma por mês. Em setembro, apenas três retornos. Em outubro, uma visita — e mercê de uma constatação acachapante. Em novembro, são quatro outras frequentações, quase telegráficas. E, em dezembro, apenas uma, e decisiva, pois que Florbela descobre que não há “nem gestos” e “nem palavras novas”! Tudo está gasto! Sua existência é um malogro! E ela já se encontra em estado de inauguração de uma <em>outra</em> vida.</p>
+<p>O <em>Diário</em> se enceta em Matosinhos, quando a poetisa<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> era casada com o médico Mário Lage e vivia com ele na casa dos sogros, com os quais pouco se entendia. Ou melhor: para os quais parecia compor uma figura bizarra e inquietante.</p>
+<p>De um lado, porque tinha o hábito de passeios noturnos solitários, a ponto de o marido temer que tal imprudência o obrigasse, um dia, a correr às pressas às Urgências para resgatá-la. De outro, porque Florbela era muito imprevisível e desarmante para a mentalidade burguesa e ortodoxa dos sogros.</p>
+<p>A poetisa era conhecida, em Matosinhos, como a “Espanca-o-Lage”, e essa piada em torno do sobrenome do casal não devia ser por inteira gratuita, uma vez que há relatos de que, aparentemente, o marido a mimava um tanto. A informação foi colhida por Agustina Bessa-Luís, que também nos narra um incidente muito curioso.</p>
+<p>Altas horas de uma noite insone de muito calor, Florbela, segura de que a família se encontrava adormecida a contento, resolve se despir, para obter, deitada em cima da mesa da sala de jantar, algum refrigério. E eis senão quando, por um imprevisto qualquer, a sogra se põe de pé e topa, inadvertidamente, com aquele monumento alvíssimo esparramado sobre a mesa que, além de assustá-la, há de escandalizá-la para sempre.</p>
+<p>A surpreendente visão noturna era, pois, aquela mulher com quem a sogra haveria de dividir, mais tarde, um lugar no mausoléu da família Lages, no Cemitério de Sendim. A mesma criatura a não evitar que, num 17 de maio de 1964, o esquife da insigne senhora despencasse sobre o seu, abrindo-se despudoradamente — quem sabe se num gesto de consentida e tardia vingança… Ou vice-versa! Visto que a sogra teria imensos motivos para aplacar os ditos desacatos provocados em vida por sua nora, e tivesse se arremessado de propósito sobre o ataúde da outra, só para retardar os trabalhos de exumação do corpo de Florbela que, aliás, se encontrava — para estranheza total! — a cerca de seis metros de profundidade!</p>
+<p>O que ocorreu quando os restos mortais da poetisa iriam ser transladados de Matosinhos para Vila Viçosa, atrasando todo o programa projetado para a exumação de seu corpo e postergando, por consequência, o cortejo funerário do Porto para o Alentejo.</p>
+<p>E não é só esse o toque irreal do desenterramento de Florbela! O doutor Mário Lage, consultado pelos “amigos” da poetisa, acede-lhes que escolham entre os restos mortais da sua esposa alguns <em>souvenirs</em>, que levarão consigo para casa como “relíquias” sagradas! Nada mais indigno e mais miserável que esse festim “magnânimo”, esse execrável banquete antropofágico de última hora!</p>
+<p>Pois bem. Florbela ocupava, nessa casa da rua Primeiro de Dezembro número 552, em Matosinhos, Porto, uma mansarda onde se instalou e montou o seu escritório. Era ali que trabalhava e recebia as suas conhecidas para o chá e conversações.</p>
+<p>Foi nesse lugar que Aurora Jardim teria sido advertida, pela amiga, acerca do frasco de Veronal — a medicação que usaria para morrer. E foi ali, no leito desse quarto-gabinete, em que ela reunira a sua biblioteca, seus objetos estimados e se postava para descansar na preferida <em>chaise-longue</em> — foi, enfim, nesse refúgio que ela seria encontrada morta naquela insólita comemoração de seu aniversário de 36 anos.</p>
+<h2 class="unnumbered" id="o-professor-italiano">O professor italiano</h2>
+<div class="epigraph">
+<p>Trago às costas o peso de uma floresta inteira, sem saber porquê nem para quê, e caminho sem saber donde vim nem para onde vou.</p>
+<p><span class="smallcaps">florbela para guido battelli</span>,<br />
+<em>11 de novembro de 1930</em></p>
+</div>
+<p>Creio que a completa ausência de escrita diarística, em junho, se explica por Florbela se achar de viagem a Lisboa. Não que para lá não tenha levado o seu <em>Diário</em>, como se verá. Ao contrário, ele está na sua bagagem, pois que, transportando-se em seguida para o Alentejo, de lá registrará nele impressões.</p>
+<p>É em Lisboa que ela recebe, pela primeira vez, uma comunicação de Guido Battelli, que a procura por intermédio de Maria Amélia Teixeira, diretora do <em>Portugal feminino</em>, revista em que a poetisa colaborava. O Professor Italiano, sediado na Universidade de Coimbra, está lhe enviando, sem nunca ter-se comunicado antes com ela, alguns dos poemas que dela vertera para o italiano — o que a surpreende sobremaneira. Assim, tal correspondência começa a ocorrer a partir de 14 de junho.</p>
+<p>A frequência com que ambos se carteiam pode ser a responsável pelo pouco apego que Florbela passa a dedicar ao seu <em>Diário</em> nessa época.</p>
+<p>São conhecidas 24 cartas dela para ele que, principiando agora, se encerrarão na sua morte. Assim, a suspeita que tenho é de que a função do <em>Diário</em> <em>se desloca</em> um tanto para a expressão dessa nova amizade, visto que Battelli passa a cumprir, por algum tempo, justamente o papel do “leitor” que ela previra no início do seu <em>Diário</em> — aquele capaz de compreendê-la!</p>
+<p>Florbela dispõe, em Battelli, de um novo interlocutor, de feição quase ideal, uma vez que a conhece apenas pela sua obra — pela sua quintessência! — e que, por isso mesmo, muito a admira. E tanto é assim que ele consegue o prodígio de transpô-la para outra língua que Florbela tanto preza e tem como ilustre: o italiano! E ela, que sonha com a posteridade — mas que nunca fará qualquer esforço para tal, porque se sente aviltada se vier a ceder às leis do mercado (como não cansa de insistir na sua correspondência geral) —, se vê repentinamente, e por um golpe de mágica, lida por outros olhos que não os nativos, os quais, aliás, não lhe prestam atenção alguma.</p>
+<p>Através de Battelli, ela também está prestes a ser reconhecida pela elite intelectual italiana de que o professor tanto se ufana de frequentar. E tudo isso acrescido de o milagre não ter sido produzido pelo concurso de nenhuma mediação externa, por nenhuma influência de quem quer que seja, por nenhum rebaixamento de sua parte, nem mercê de alguma concessão — a não ser por seu próprio mérito!</p>
+<p>A Florbela, a quem Battelli se dirige e de quem traduz os versos, lhe é completamente desconhecida, e caiu no seu gosto por puro acaso, através do <em>Livro de mágoas</em>, emprestado a ele por António Batoque, advogado que o professor conhecera em Pombal e antigo condiscípulo da poetisa no Liceu de Évora.</p>
+<p>Esses transcursos a deixam muito orgulhosa e esperançosa, sobretudo porque trazem, embutidos, um precioso aceno: a promessa de impressão do seu <em>Charneca em flor</em> que, pronto e na gaveta, se acha impossibilitado de comparecer aos leitores pela falta de quem possa arcar com as despesas da edição.</p>
+<p>Assim, quando Battelli a isso se propõe, persistindo também em traduzir suas peças e em fazer a ponte entre ela e os poetas italianos de seu conhecimento, a animação de Florbela começa a transbordar, e ela se empenha nos arranjos que deve ultimar para ver a sua obra publicada o mais rápido possível.</p>
+<p>É em Lisboa, onde se encontrava em junho, que ela recebera a primeira carta de Battelli. Da capital, ela parte para Évora — para a rua João de Deus, 28, endereço que fornece ao pretendente a amigo —, onde permanecerá até o final de julho, muito embora tivesse previsto o retorno a Matosinhos para o dia 10 desse mês, tendo como interregno uma rápida passagem a Sintra ou ao Estoril.</p>
+<p>O apagamento de sua presença junto ao <em>Diário</em> não se deve, pois, à hipótese de ela ter esquecido o valioso caderno-companheiro em Matosinhos. Porque em Évora, para onde se dirige, Florbela volta a frequentar o seu <em>Diário</em>, mas apenas no dia 16 de julho e, ainda assim, utilizando poucas linhas.</p>
+<p>Em seguida, seu retorno a Matosinhos não parece ter sido auspicioso, uma vez que, em princípio de agosto, ela procura o caderno apenas para fazer uma pergunta dolorosa sobre o seu isolamento. Fato que, aliás, ela havia ressaltado logo no início de sua correspondência com Battelli, ainda de Lisboa, quando referia a sua “triste qualidade de inadaptável”, que se tornava “cada vez mais forte” dentro dela; a sua “incapacidade perante a vida prática”; o seu “horror à publicidade, à glória a toques de tambor, aos editores, críticos, jornalistas etc. etc.”.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>De Évora, de onde lhe enviará cinco longas cartas, ela ressalta de novo a sua recusa em “mendigar favores, como vejo fazer em volta de mim com uma sem-cerimónia, uma falta de dignidade, e altivez de que eu seria absolutamente incapaz”.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>A ausência da escrita íntima durante o mês de agosto também se explica porque a sua querida amiga Lena chegara à sua casa em Matosinhos antes do dia 15. Ela aí se hospeda com os dois filhos pequenos, José Pedro e Maria Luísa, a Mily.</p>
+<p>Helena é casada com Alfredo, concunhado da mais velha e amada amiga de Florbela, Milburges Ferreira Teixeira, a Buja. E a família alentejana — a “tropa fandanga”, como Florbela gosta de gracejar em carta a Alfredo — vai permanecer <em>chez elle</em> até meados do dia 15 de outubro. E há nesse postergamento uma explicação.</p>
+<p>Primeiro porque, entre 10 e 25 de setembro, Battelli a visita em Matosinhos, onde por fim os correspondentes se conhecem pessoalmente, e quando ela se fará acompanhar dos amigos do Alentejo para frequentar o toldo da praia e os programas que envolvem os interesses do professor. E depois porque, logo após a partida do Italiano — que não retorna diretamente para Coimbra, onde é professor convidado, mas para uma “choupana minhota”, que é como fica mencionada sua estada no Minho —, falece-lhe o sogro, que já vinha adoentado há tempos.</p>
+<p>Este estaria com demência e se tornara muito inconveniente nos derradeiros anos. E Florbela, que pretendia viajar com “a malta” para o Alentejo, tem de providenciar, de imediato e antes de partir, o “negregado luto”, pois que não dispõe de vestimentas apropriadas.</p>
+<p>É provável que assim procedeu por já estar preparando com aplicação o livro acertado com Battelli, pois que a carta que lhe endereçara, em 28 de outubro, demonstra tais arranjos. Quanto mais não fosse, a permanência dele em Matosinhos, durante aqueles dias de setembro, deve ter incluído uma discussão definitiva sobre a produção do volume. E Florbela está dando termo aos preparativos para lhe endereçar o <em>Charneca em flor</em> já pronto para a edição.</p>
+<p>Nas cartas de outubro, explica que suprimiu alguns dos sonetos — e a crer em tais declarações, quem sabe sejam alguns daqueles publicados postumamente por Battelli com o título de <em>Reliquiae</em>. Florbela assegura que lhe envia apenas aquilo que “me agrada absolutamente e o livro ainda assim fica bastante grande, fica bem”.</p>
+<p>Ao mesmo tempo, os embaraços concernentes à sua saúde também apoiam a hipótese da desistência da viagem, decisão de última hora, porque ela há de, em início de novembro, apaziguar o pai acerca de sua “má saúde crónica” — muito embora o que revele seja de fato preocupante!</p>
+<p>Ora, há ainda outra hipótese. Pois consta ter sido em outubro que ela conheceu o advogado Ângelo César, com banca no Porto, por quem se apaixonou segundo o testemunho de Aurora Jardim que, aliás, tornara-se sua confidente. E segundo as fofocas maldizentes de Amélia Vilar — poetisa que, posteriormente, há de referir esse fato com muito azedume e uma indisfarçável dor de cotovelo!<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> De fato.</p>
+<p>Os herdeiros do advogado possuem um soneto de Florbela, sem título, que começa com o verso “Trazes-me em tuas mãos de vitorioso”. E, no espólio de Mário Lage, doado aos “Amigos de Vila Viçosa”, encontram-se outros dois, dessa mesma linhagem, ambos sem título, e que começam com os versos “À tua porta há um pinheiro manso” e “Há nos teus olhos de dominador”, ostentando ambos a data de outubro de 1930.</p>
+<p>Daí que, a meu ver, o <em>Diário</em> tivesse <em>se deslocado</em>, de novo, para outras páginas — para outras paragens.</p>
+<p>Da correspondência conhecida, é possível que o <em>Diário</em> estivesse dividindo a sua natureza com certos trechos das cartas em que ela se apresenta a Battelli e, ao mesmo tempo, com os poemas que ela produz durante essa fase. Porque, como já adiantei, as cartas para o professor trazem confidências sobre a sua maneira de ser, suas perspectivas de vida, suas apreciações etc. — matéria que circula de início no <em>Diário</em>.</p>
+<p>Transcrevo aqui um dos referidos sonetos que, a meu ver, refletem a fase de transfiguração que Florbela esperava conhecer por meio de seu derradeiro amor. Para eles converge, pois, a função precípua do <em>Diário</em>, daí que o caderno-companheiro de nossa poetisa esteja, por esse tempo, quase mudo.</p>
+<p>Eis o poema em pauta, que oferece, segundo creio, a mesma tonalidade dos outros citados:</p>
+<blockquote>
+<p>Há nos teus olhos de dominador,<br />
+No teu perfil altivo de romano,<br />
+No teu riso de graça e de esplendor<br />
+Um misterioso ideal divino e humano.</p>
+<p>Cruz de Cristo sangrando sobre o pano<br />
+Das velas altas, lá vai, sobre o fragor<br />
+Dum mar sereno, cristalino e plano<br />
+A tua barca de conquistador!</p>
+<p>Eu quero ir contigo a esses distantes<br />
+Reinos! Deixa-me erguer as brancas velas,<br />
+Ser um dos teus audazes navegantes!</p>
+<p>Meus olhos cegos são dois poços fundos…<br />
+— Conta-me o céu! Ensina-me as estrelas!<br />
+Mostra-me a estrada dos teus Novos Mundos!<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+</blockquote>
+<p>Tal “conquistador” de “Novos Mundos”, antigo mito da raça portuguesa, se aparenta aqui com o líder, com o “dominador”, com o comandante capaz de singrar esses “distantes/ Reinos”. Nomeia-se assim o navegante, de cuja companhia a emissora do poema não pode abdicar. É com ele que ela aspira embarcar para o Desconhecido, aprender a ler as estrelas, a bússola do mundo, perscrutar o céu.</p>
+<p>A “Cruz de Cristo”, emblema da cristandade e das antigas Cruzadas, se derrama em sangue pelas altas “velas brancas” que, para o caso, é ela quem pretende erguer para esse tipo específico de navegação. De modo que a metáfora da viagem e dos descobrimentos que ela acarreta não deixa de acenar para o ato físico do amor e para o defloramento da tripulante acumpliciada e aventureira — portanto, ainda virgem desse tipo de afeição.</p>
+<p>E imaginar, diante da presença dessas novas composições, que pouco tempo antes, em 15 de agosto, Florbela declarava ao seu amigo Alfredo que</p>
+<blockquote>
+<p>A respeito de versos nunca mais fiz nada. Estou uma malandra!…</p>
+</blockquote>
+<p>Fato que, logo no próximo dia 28 de agosto, será desmentido em carta a Battelli, provando que a sua fecundidade retorna e volta a se manifestar a partir de então. Porque, nessa referida missiva, Florbela declara ao professor:</p>
+<blockquote>
+<p>Tenho feito versos, muitos versos, nunca diz tanto nem tão bons, talvez. Mando-lhe o último, feito ontem, durante uma teimosa insónia que apenas cedeu a grama e meia de “Veronal”.</p>
+</blockquote>
+<p>Já se vê que o aparecimento de um interlocutor desse nível, subitamente caído em sua vida, deve tê-la entusiasmado o suficiente para abortar nela o marasmo e o tédio que, é de se crer, haviam tomado posse da poetisa, sobrevindos da angústia impensável pela perda do irmão em 6 de junho de 1927 e do fracasso em publicar tanto o livro consagrado ao irmão Apeles, <em>As máscaras do destino</em>, como o outro livro de contos, <em>O dominó preto</em>, e o alentado volume de poemas <em>Charneca em flor</em>. O recurso de continuar a traduzir romances do francês ou do espanhol já não era o bastante para preencher o enorme vazio de tais frustrações.</p>
+<p>O fato é que, em outubro, fica selada a feitura desses poemas e o retorno da abundância inspiratória da nossa diarista, muito embora já em novembro, numa altura em que não é possível precisar, uma carta enviada à amiga Aurélia Borges demonstra o malogro de algumas dessas aspirações (amorosa, profissional, íntima?). Uma escrita que, a meu ver, também <em>substitui</em> a presença ao <em>Diário</em>. Trata-se desta dolorosa confissão:</p>
+<blockquote>
+<p>Estou cansada, cada vez mais incompreendida e insatisfeita comigo, com a vida e com os outros. Diz-me, por que não nasci igual aos outros, sem dúvidas, sem desejos de impossível? E é isto que me traz sempre desvairada, <em>incompatível</em> com a vida que toda a gente vive…</p>
+</blockquote>
+<p>Esse perfil insistente de dessemelhante, de diferenciada, é ao mesmo tempo o seu emblema e a sua maldição. E essa temática atravessa também o seu <em>Diário</em> com aplicação.</p>
+<p>A partir do final de outubro, durante novembro e até sua morte no início de dezembro, Florbela está, portanto — a crer nas cartas para Battelli —, muito ocupada com os afazeres da edição do livro, trocando várias missivas com o professor e um tanto inquieta com a antecipação súbita da partida dele para a Itália, devido a uma disputa de cátedra com Eugénio de Castro.</p>
+<p>Ao mesmo tempo, sua vida cotidiana parece seguir com certa normalidade, uma vez que ela escreve ao pai e ao afilhado e primo, o saudoso Túlio Espanca, sempre solícita, sempre pronta a suprir as necessidades por que passa a família alentejana.</p>
+<p>Porém, entre suas frequências de novembro ao <em>Diário</em>, é possível constatar uma, em especial, em que o dilema sobre <em>a maneira</em> de morrer transparece claramente.</p>
+<p>Florbela se pergunta: “A morte definitiva ou a morte transfiguradora?”. E se remete, de imediato, ao terceto final de seu poema intitulado “A um moribundo”, que participaria do <em>Charneca em flor</em> em preparação.</p>
+<p>Transcrevo todo o poema para que o leitor conheça o contexto da extração que ela faz dele — do <em>transporte</em> deste para o interior de seu <em>Diário</em>:</p>
+<blockquote>
+<p>Não tenhas medo, não! Tranquilamente,<br />
+Como adormece a noite pelo Outono,<br />
+Fecha os teus olhos, simples, docemente,<br />
+Como, à tarde, uma pomba que tem sono…</p>
+<p>A cabeça reclina levemente<br />
+E os braços deixa-os ir ao abandono,<br />
+Como tombam, arfando, ao sol poente,<br />
+As asas de uma pomba que tem sono…</p>
+<p>O que há depois? Depois?… O azul dos céus?<br />
+Um outro mundo? O eterno nada? Deus?<br />
+Um abismo? Um castigo? Uma guarida?</p>
+<p>Que importa? Que te importa, ó moribundo?<br />
+— Seja lá o que for, será melhor que o mundo!<br />
+Tudo será melhor do que esta vida!…</p>
+</blockquote>
+<p>O poema e a citação do seu derradeiro terceto, entre aspas no <em>Diário</em>, ostentam, a meu ver, um desassossego de quem se encontra num impasse absoluto. Se comete ou não o suicídio ou, na melhor das hipóteses, se permite ou não que a Morte tome conta de si.</p>
+<p>Trata-se de alguém que tem uma doença terminal — um “moribundo”<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> — e que não escapará da fatalidade. No entanto, a indagação com que Florbela introduz o terceto final no <em>Diário</em> — “a morte transfiguradora ou a morte definitiva?” — mostra bem que há nela uma dificuldade de escolha pairando sobre esse embaraço intransponível, e do qual não se pode livrar.</p>
+<p>Ao mesmo tempo, repare o leitor como o soneto se impõe como uma espécie de aconselhamento ao “moribundo”, que se encontra nesse apuro mortal, discutindo a questão, e pendendo para a passividade que pode ser a melhor resolução para o caso. Dormir, entregar-se, relaxar, descansar, reclinar, abandonar-se. Tudo feito com leveza e com doçura, sem receio — e a imagem da “pomba” voa sobre os dois quartetos, como um aceno de paz e de tranquilização permanente. Porque o que virá depois, que é sempre um grande enigma irresoluto — Deus, abismo, guarida, castigo, outro mundo, o eterno nada —, será sem dúvida preferível àquilo que o moribundo possui agora.<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<p>Vejo este soneto como uma certidão antecipada de suicídio, que, em Florbela, parece ser larvário, visto que semeado desde o seu nascimento! Aliás, vejo-o como uma declaração de princípios, como a cartografia de indução ao ato do suicídio ou, melhor, como um documento de autoconvencimento para a preparação da própria morte.</p>
+<p>E espanta que toda essa fermentação interna tão significativa se ponha subjacente e quase imperceptível diante da vida em voz alta. Porque, entre o <em>Diário</em> e os poemas, abre-se e expande-se um entendimento de segredos, de privacidades não compactuadas com ninguém mais. Ao contrário, na vida normal Florbela demonstra até uma euforia, pondo em prática o plano de edição do <em>Charneca em flor</em>, como temos visto, e cumprindo os compromissos familiares e de amizade — como ocorre com a carta a José Emídio Amaro de 5 de julho de 1930, em que lhe solicita a assinatura do <em>Portugal Feminino</em>.</p>
+<p>Ela mandara copiar à máquina os poemas que devia enviar a Battelli, com receio de botar os originais no correio e perdê-los. Entretanto, açodada, cede por fim em despachar assim mesmo, em autógrafos, os que restavam por datilografar, temerosa de não dar tempo a Battelli de providenciar todos os quesitos da edição antes de sua imprevista partida para a Itália.</p>
+<p>Florbela vai decidindo quais escolher, ordenando os sonetos — que evoluem de 50 para 52 —, resolvendo sobre os tipos de caracteres que prefere, a capa, as indicações para a quarta capa, a vinheta, as correções das provas etc. etc.</p>
+<p>Na penúltima carta a Battelli, em 30 de novembro, ela se declara muito satisfeita com as provas revisadas e que</p>
+<blockquote>
+<p>O resto está magnífico e dá-me uma bela impressão. Estou tão contente! Ainda pode sair antes do Natal, não pode? Era conveniente para a venda.<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
+</blockquote>
+<p>E a derradeira carta ao professor, que data de 5 de dezembro, trata apenas da correção da parte das provas que ainda ficara pendente, indicando pormenorizadamente as emendas uma a uma.</p>
+<p>E a derradeira anotação no <em>Diário</em> — aquela tenebrosamente amarga! — coincide justo com a data da carta que Florbela escreve para Lena, que, surpreendentemente, tem um tom mui diverso, muito feliz com a solução que arquitetou para obter a amiga por perto, porque pretende que não lhe será negado o que solicita ali.</p>
+<p>Em 2 de dezembro, portanto, Florbela dá como certa a proposta que faz para a amiga vir passar o aniversário em sua companhia, trazendo Mily e deixando Zé Pedro com o pai Alfredo. A passagem, o dinheiro para carregador e táxi, enfim, todos os detalhes da viagem resultam do presente de aniversário que ela pleiteou junto ao marido. E a poetisa se antecipa, avisando à Lena que já está a lhe enviar o montante para que tudo ocorra muito bem e o mais rapidamente possível.</p>
+<p>Florbela também esclarece que tenciona regressar ao sul no dia 22 de dezembro, com Lena e Mily, para passar o Natal na casa deles e, depois, seguir para a Charneca — muito certamente para a casa do pai. Encarece a Alfredo (pois que a carta se estende a este, já que precisa do assentimento do amigo!) que acate a execução do plano, visto que “há muito tempo que me não sinto tão feliz”. Mas, simultaneamente, não esquece de chantagear um tanto, declarando que está “doente, e a minha irmãzinha faz-me falta”. Que ela venha logo porque na segunda é o seu aniversário e, no domingo, graceja, “temos que arranjar os <em>salões</em>”.</p>
+<p>Florbela providenciara uma carta endereçada à amiga, em que pedia para ser coberta de flores e para que fossem inseridos, no seu caixão mortuário, os pequenos fragmentos do hidroavião que Apeles pilotava quando faleceu — as únicas lembranças que restaram do corpo desaparecido de seu único irmão.</p>
+<p>Também destinava uma carta ao marido e às amigas, entre as quais Aurélia Borges.</p>
+<p>Na véspera, tentara encontrar, por telefone e a todo custo, a poetisa Fernanda de Castro, com quem estivera há uma semana num chá do <em>Portugal Feminino</em> — mas debalde, em vão. Em suas memórias, ela relata tal fato curioso, sem nunca ter-se dado conta da razão que teria impulsionado Florbela ao gesto.</p>
+<p>Fernanda narra que Florbela passara o dia da véspera de sua morte à procura desta. Que ligara duas vezes para a sua casa; que “falou para a Bertrand e para a Portugália”.<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a> E que o recado era sempre o mesmo:</p>
+<blockquote>
+<p>Digam à Fernanda de Castro que tenho a maior urgência em falar-lhe.</p>
+</blockquote>
+<p>Florbela a mencionara, dez anos antes, numa carta ao amigo e colega de universidade Américo Durão, escrita em Vila Viçosa em 5 de janeiro de 1920, pois supunha então que ele estivesse se situando como pretendente de Fernanda — tendo, talvez, se enganado a respeito. Não muito, porque Fernanda narra que Durão de fato a pedira em casamento e que ela lhe respondera: “A que propósito?…” — o suficiente para que ele deixasse de lhe falar desde então.</p>
+<p>Em <em>Ao fim da memória</em>, Fernanda declara ainda que</p>
+<blockquote>
+<p>A alma de Florbela, torturada, insatisfeita, <em>persegue-me</em> como o perfume de certas flores murchas, esquecidas entre as folhas dum livro.</p>
+<p>Mal a conheci em vida e agora, depois de morta, Florbela <em>anda comigo</em>, acompanha-me, conta-me do outro mundo uma longa história triste que eu procuro reconstituir palavra a palavra, verso a verso, ia quase a dizer pétala a pétala.</p>
+</blockquote>
+<p>Depois de se indagar pelo motivo do suicídio da poetisa e de citar versos dela, Fernanda conclui que</p>
+<blockquote>
+<p>Suponho que obedeceu <em>à tentação do infinito</em>. Florbela morreu porque não soube pôr de acordo o seu corpo, o seu espírito e a sua alma. Florbela era feita de três magníficas peças que nunca acertaram. Chamava-se Florbela — e tinha versos geniais; nasceu e morreu na província — e nenhuma fronteira detinha as suas asas; tinha uns olhos castanhos banais — e um olhar estranho, extremamente doloroso; não soube viver sem quebrar algumas correntes, algemas, preconceitos, mas não teve coragem bastante, para os quebrar a todos.</p>
+</blockquote>
+<p>O marido de Fernanda de Castro era, pois, aquele António Ferro que dirigira o número nunca havido da <em>Orpheu</em>, visto que os subsídios foram suspensos pelo pai do Mário de Sá-Carneiro, que custeava a revista. Ferro também é quem depois faria parte da banca examinadora do prêmio que não seria atribuído ao <em>Mensagem</em> de Fernando Pessoa. E também foi aquele que, mais tarde, durante o Estado Novo, tornou-se ministro de Salazar.</p>
+<p>Também seria ele o jornalista que, no editorial do <em>Diário de Notícias</em> de Lisboa, em 24 de fevereiro de 1931, dedicou à Florbela morta um espantoso texto intitulado: “Uma grande poetisa portuguesa”. Sua chamada deu início à campanha de angariamento de fundos para erguer um busto para a poetisa no Jardim Público de Évora — muito embora Ferro tenha desembarcado desse pleito quando é cooptado de vez pelo salazarismo.</p>
+<p>Tal derradeiro gesto de Florbela é um dos muitos mistérios que envolvem vários protagonismos seus. Há uma coincidência curiosa na história: ninguém se lembrou, por enquanto, que Fernanda de Castro fazia aniversário no mesmo dia que Florbela, embora mais nova seis anos que a alentejana. Talvez a data explique, de alguma maneira, a procura de Florbela pela camarada…</p>
+<p>Outro dos enigmas, a meu ver, diz respeito a esta verificação. Quem lê a derradeira das conhecidas cartas escritas por ela — justo aquela a Battelli, de 5 de dezembro, cerca de dois dias antes da data fatal — jamais poderá supor que a sua signatária estivesse prestes a falecer!</p>
+<blockquote>
+<p>A si devo ainda o prazer que tive ontem quando recebi a carta e a fotografia. Que mais terei eu ainda a agradecer-lhe?</p>
+<p>Cumprimentos afectuosos</p>
+<p>e mil saudades da</p>
+<p><em>Bela</em></p>
+</blockquote>
+<h2 id="diário-como-gênero-literário">Diário como gênero literário</h2>
+<p>Por enquanto, não fiz mais que fornecer a constelação florbeliana do ano de 1930, a fim de que o leitor possa se movimentar mais a contento, para melhor se infiltrar no <em>Diário</em>, nas suas lacunas, nos seus interstícios, nos seus espraiamentos por outros gêneros, nas suas dobraduras e imprevistos.</p>
+<p>E, já agora, vale a pena nos debruçarmos sobre tais cogitações da escritora ucraniana da segunda metade do século <span class="smallcaps">xix</span>, porque, além de Marie Bashkirtseff (1858–1884) ser uma referência para a Florbela diarista — uma interlocutora que ela chega mesmo a citar —, é também sobre as reflexões dessa mulher precocemente desaparecida aos 24 anos de idade que podemos tentar dimensionar o gênero literário que, no nosso caso, está em questão — o <em>diário</em>.</p>
+<p>Se levarmos em conta, com Maurice Blanchot, que qualquer obra pede a seu autor um “enorme sacrifício” — o de se tornar “ninguém”, apenas e tão-somente “um lugar vazio e animado onde ressoa o apelo da obra” —, observaremos que a reflexão de Bashkirtseff se faz plenamente plausível.</p>
+<p>Se toda obra busca a sua originalidade, ou seja, aquilo que não é familiar, aquilo que, em princípio, é único e nunca foi cogitado, nem visto, nem sentido e nem ouvido, é porque exige, <em>a priori</em>, o apagamento de seu autor.<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>Nas citações transcritas de Marie, nos damos conta de que aquela que escreve não é a mesma que é descrita: quem escreve é um “espectador impassível do primeiro”, diz ela. Ou seja: aquela que apreende a “outra” é a analista que nada tem a ver com o seu “eu” profundo. É como (e a imagem é bem apropriada!) se aquela fosse um Gulliver observando os seus liliputianos: seus sentimentos, emoções e procedimentos que, no entanto, pertencem àquela que não é mais o sujeito da enunciação, mas sim o seu objeto.</p>
+<p>Porque quem escreve se vê possuído de outros tantos sentimentos, emoções etc., que não pertenciam à pessoa descrita (embora sejam a mesma), pois que ocorrem ao enunciador no momento da redação — e não no momento em que eram usufruídos pelo narrador enquanto os vivia como personagem. Trata-se do fenômeno que a <em>nouvelle critique</em> chamava de distância entre o “discurso” e a “narrativa”, entre quem escreve e quem atua, sendo que, no diário, quem escreve é também quem atua, mas em outro nível.<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a></p>
+<p>O que se passa, então, é que quando se registra no diário o próprio “eu”, a matéria que o compõe é de natureza tão fluida e fugaz, tão desconcertante e paradoxal, que mal se sustém. Pois que esta decorre da apreensão daquilo que sente quem realiza o ato de escrever e do que realizou quem está sendo observado enquanto era apanhado pela escrita de quem o registrava. O discurso do “eu” impassível (e narrador) acaba por alicerçar (aparentemente) em definitivo o “eu” paciente, constituindo-o por atributos, cujo grau de “veracidade” é impossível determinar. Claro que não quero discutir aqui a questão do verossímil, do ficcional e do factual. Passemos por alto, por enquanto.</p>
+<p>É bom elucidar, igualmente, que o estado da “carta” se aproxima ao do “diário”, visto que ele também ostenta a hibridez da epistolografia, pois o gênero diarístico se perfaz de maneira semelhante à situação da carta jogada à posteridade, ao bilhete dentro de uma garrafa arremessada ao mar.</p>
+<p>Assim, aquele “escritor presente”, “imediato” e “quase físico” que Michel Foucault surpreende na “correspondência”, é a imagem do eu “ausente” de Blanchot, ou seja, a presença controvertida do observado (do ausente-presente pela escrita de si mesmo), na voz daquele “eu” que flutua “sobre todas as grandes misérias”, como diz Marie.</p>
+<p>Maneira de manifestar a si mesmo e aos outros,<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a> o signatário do diário (ou da epistolografia) é, ao mesmo tempo — para desembocarmos em Jacques Derrida —, o autor de uma mensagem (primeiro evento básico!) que não existe enquanto não encontrar o seu destinatário.<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a> Todavia, a cada vez que esse complexo e autodisputante expedidor topa com um novo leitor, o destino da mensagem se mobiliza, o que quer dizer: a mensagem não estaciona. Ao contrário, ela continua circulando, imparável, e esse é o seu estado “natural”, o de ser sempre precária, pois que é movediça e errante — a depender do destinatário que encontra.</p>
+<p>É por isso que uma “carta” <em>nunca</em> acaba de chegar: ela está sempre em trânsito, não para nunca. Ela circula, peregrina — ela… erra!</p>
+<p>A carta efetua, pois, um trajeto próprio e prolongado, que aporta, provisória e eventualmente, apenas a cada momento que alguém a detém, visto que, nesse estágio, ela se deixa passar por um princípio de seleção, que inclui a grade, o crivo, enfim, a economia da triagem. Donde se conclui que sua natureza é intersubjetiva.</p>
+<p>A mensagem padece, pois, desse <em>desvio</em>. Ela sofre os efeitos da indireção: seu estado “normal” é o de se encontrar sempre à deriva. É como se a mensagem fosse depositada numa <em>posta restante</em>, no aguardo daquele que viria um dia desencavá-la de lá, extraí-la para a decifrar. A mensagem — para me aproveitar das concepções florberlianas — seria uma “Bela Adormecida” à espera de seu "‘Prince Charmant’’, daquele que a despertaria — o seu leitor.</p>
+<p>Derrida designa, portanto, a carta — e, para o nosso caso, o diário — como sendo um objeto <em>en souffrance</em> — eu diria, um objeto em estado de “purgatório”.</p>
+<p>Segundo Lacan, na “correspondência” há um modo de interrelação que <em>transcende</em> o seu ofício de portar e transmitir uma mensagem, visto que a carta, mesmo tendo cumprido o seu fito, ainda continua passível de circulação.<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
+<p>Folhas volantes, escritas ao vento, garrafas jogadas ao mar. As missivas, como sugere Lacan, não pertencem a ninguém: são letras de câmbio em branco que aguardam serem, a cada vez, preenchidas.</p>
+<p>É preciso ressaltar, pois, que a escrita em primeira pessoa cria — para além de uma desinteligência simultânea entre o emissor e o seu destinatário, enfim, para além desse evento comum a toda arte — um outro campo de confronto, um atrito entre um “eu” e um “ele”. Tal como a carta, há no diário uma autoria pessoal e intransferível e outra ficcional e não identificável. Enfim, há ali uma fala bivocal, de maneira que ambas se digladiam pela (ou então disfarçam a) autoria no interior da mensagem.</p>
+<p>Portanto, diferentes vertentes entram em cizânia nesse estágio, de modo que os “correios” — esse trânsito entre o escrevente (já interiormente dividido e em confronto) e a mensagem, que busca o seu destinatário (também fragmentado em virtude da leitura sempre arbitrária que dela providenciará) — autorizam toda a espécie de falsificações, ficções, anonimatos, ressonâncias, relevos, entrechoques, enlaces arbitrários etc.</p>
+<p>Tal aspecto diarístico, de natureza tão ambígua, propiciou à Natália Correia, por exemplo, conceber a Florbela que escreve o <em>Diário</em> como aquela que se encontra num camarim, diante do espelho, em que se representa como uma atriz de cinema mudo.</p>
+<p>Devidamente maquiada e indumentada para proceder ao seu último ato, como uma “diva” — a do simbolizante feminino —, ela tomaria o <em>Diário</em> num gesto de teatralidade e exibicionismo. No entanto, seria como uma “virgem”, como uma sacerdotisa do eterno feminino, que ela ganharia a sua originalidade, pois que é essa a sua maneira de seduzir o Absoluto.</p>
+<p>Tal leitura é extremamente sagaz porque, além do mais, abarca toda a obra de nossa poetisa. Mas apareceu apenas em 1981, quando o <em>Diário</em> de Florbela foi publicado pela primeira vez — em Lisboa, pela Livraria Bertrand.</p>
+<p>Veja o leitor que o <em>Diário</em> permaneceu durante 51 anos na posta restante! E é a leitura de Natália Correia a inaugural que, aliás, há de criar uma linhagem hermenêutica que atravessa os tempos desde então, e que é verdadeiramente antológica.</p>
+<h2 id="esboço-de-autobiografia">Esboço de autobiografia</h2>
+<div class="epigraph">
+<p>Diz à Henriqueta que continuo <em>à espera do Anjo que grita</em> sem que até hoje o ouvisse gritar.</p>
+<p><span class="smallcaps">florbela para o pai</span>,<br />
+<em>25 de agosto de 1930</em></p>
+</div>
+<p>E a Florbela que, a meu ver, se apresenta nesse caderno não é diversa da que temos conhecido através de seus escritos. É a eterna interrogadora de si, da existência e, sobretudo, da sua singularidade: da sua propensão para a dor e para a insatisfação, da sua desafinação interior — seu paradoxo.<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a> É a que, como nos poemas, conversa consigo mesma como interlocutora, ou com o amado, ou com a natureza, os seres inanimados, o mundo animal, enfim, com um cúmplice que, neste caso, se apresenta como o aguardado e futuro leitor, o decifrador da esfinge em que Florbela se materializa, por fim, enquanto um ser solitário e imperscrutável.</p>
+<p>O fato decisivo — e que está no horizonte do caderno — é, no entanto, a iminência da morte, pressentida a todo o momento, mais insistentemente que na sua obra. O olhar vasculha os arredores da memória. O presente importa pouco, mas é vaticinador, já que se pontua enquanto adivinhas situadas como estímulos para a continuidade do caminho que já parece estar fanando.</p>
+<p>Para além de algumas ilhas de prazer melancólico — os colegas da faculdade, o passeio pela Boavista, a nostalgia de um filho que nunca houve, a imagem da primavera, o ingênuo pai de sessenta anos, a ausência marcante de um <em>prince charmant</em>, as recordações da adolescência, os reparos a Luís (muito provavelmente Luís Cabral, pianista, por quem se apaixonara em 1928) —, a sombra amorosa de Apeles habita a cela do claustro em que a irmã se recolhe para reencontrá-lo.</p>
+<p>Uma espécie de testamento também vai se delineando: Florbela esboça a sua autobiografia. Detesta a prestidigitação, os truques, a covardia; entende que o ódio e o ciúme são instrumentos para medíocres; tem horror à mentira; aprecia a fortaleza de espírito, o seu orgulho e amor-próprio; é indiferente às glórias mundanas; tem a alma perenemente incompleta; entende o amor como dádiva e troca; e ela busca, sobretudo, o sentido da vida.</p>
+<p>A sua inteligência seria a responsável por sua infelicidade (porque a felicidade consiste na simplificação!); a sua vida é insignificante, um desperdício, um malogro; sente-se um farrapo; concebe a loucura como uma maneira de entendimento da existência ou de se evadir dela; compreende a morte como aquilo que transcende, que transfigura, que é renascimento.</p>
+<p>Recostada sobre a sua <em>chaise-longue</em>, tendo ao seu lado o cão, cujos olhos interroga e perscruta — o seu guardião dos portais para o Eterno —, Florbela vai se despedindo da vida, ao mesmo tempo em que trabalha para a sua posteridade. Suas parcas forças de doente crônica se conjugam para os acertos com os olhos postos na publicação da sua derradeira obra.</p>
+<p>E parece que, na medida em que se certifica de que isso de fato ocorrerá, ela pode, então, dispensar a sua existência fugaz e se consagrar ao sono eterno — levando consigo, simbolicamente, o corpo insepulto do irmão para lhe dar acolhimento condigno.</p>
+<p>O caderno em que deposita todo esse fardo (ficcional?) é um objeto delicado e mimoso, encapado com seda lilás-arroxeada adamascada — algo escolhido a dedo para uma função assim tão nobre e fatal.</p>
+<p>De maneira que, já agora, o seu <em>Diário</em>, em estado perpétuo de <em>lettre en souffrance</em>, continua seu percurso errático de folhas “em sofrimento”, de páginas “em sofrência”, no aguardo do seu leitor ideal — daquele que ouça, afinal, o tão aguardado “grito do Anjo”. Aquele será, sempre, o destinatário da vez.</p>
+<p>Afinal, “a ironia” não é, como diz Florbela num aforismo, “a expressão mais perfeita do pensamento”?</p>
+<p><strong>Morada do Rio, 27 de abril de 2022.</strong></p>
+<h1 id="nota-à-edição">Nota à edição</h1>
+<p>O exemplar manuscrito do <em>Diário</em> de Florbela Espanca pertence ao espólio da autora do Grupo Amigos de Vila Viçosa.<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a> Segundo Ana Luísa Vilela e Fabio Mario da Silva, possui uma capa dura, forrada de seda adamascada roxa, com algumas manchas na capa e contracapa, com folhas de papel pautado que ostentam a marca de água “Almaço Extra”.<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a> Estão manuscritas por Florbela as catorze primeiras páginas, escritas frente e verso, com entradas relativas a vários dias de cada mês de 1930, exceto junho. É a partir do original que se segue a transcrição da presente edição.</p>
+<p>Já a transcrição dos aforismos <a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a> florbelianos foi feita a partir de uma folha preservada no espólio da <em>Coleção Florbela Espanca</em> , da Biblioteca Nacional de Portugal, e apresenta onze aforismos não datados.</p>
+<h1 id="diário-1930">Diário (1930)</h1>
+<h2 id="janeiro">Janeiro</h2>
+<p class="entrada">
+11 de janeiro
+</p>
+<p>Para mim? Para ti? Para ninguém. Quero atirar para aqui, negligentemente, sem pretensões de estilo, sem análises filosóficas, o que os ouvidos dos outros não recolhem: reflexões, impressões, ideias, maneiras de ver, de sentir — todo o meu espírito paradoxal, talvez frívolo, talvez profundo.</p>
+<p>Foram-se, há muito, os vinte anos, a época das análises, das complicadas dissecações interiores. Compreendi por fim que nada compreendi, que mesmo nada poderia ter compreendido de mim. Restam-me os outros… talvez por eles possa chegar às infinitas possibilidades do meu ser misterioso, intangível, secreto.</p>
+<p>Nas horas que se desagregam, que desfio entre os meus dedos parados, sou a que sabe sempre que horas são, que dia é, o que faz hoje, amanhã, depois. Não sinto deslisar o tempo através de mim, sou eu que deslizo através dele e sinto-me passar com a consciência nítida dos minutos que passam e dos que se vão seguir. Como compreender a amargura desta amargura? Onde paras tu, ó Imprevisto, que vestes de cor-de-rosa tantas vidas? Deus malicioso e frívolo que tão lindos mantos teces sobre os ombros das mulheres que vivem? Para mim és um fantoche, ora amável ora rabugento, de que eu conheço todos os fios, de quem eu sei de cor todas as contorções. “Attendre sans espérer” poderia ser a minha divisa, a divisa do meu tédio que ainda se dá ao prazer de fazer frases. Não tenho nenhum intuito especial ao escrever estas linhas, não visto nenhum objetivo, não tenho em vista nenhum fim. Quando morrer, é possível que alguém, ao ler estes descosidos monólogos, leia o que sente sem o saber dizer, que essa coisa tão rara neste mundo — uma alma — se debruce com um pouco de piedade, um pouco de compreensão, em silêncio, sobre o que eu fui ou o que julguei ser. E realize o que eu não pude: <em>conhecer-me</em>.</p>
+<p class="entrada">
+12 de janeiro
+</p>
+<p>Viver não é parar: é continuamente renascer. As cinzas não aquecem; as águas estagnadas cheiram mal. Bela! Bela!, não vale recordar o passado! O que tu foste, só tu o sabes: uma corajosa rapariga, sempre sincera para consigo mesma.</p>
+<p>E consola-te que esse pouco já é alguma coisa. Lembra-te que detestas os truques e os prestidigitadores. Não há na tua vida um só ato covarde, pois não? Então que mais queres num mundo em que toda a gente o é… mais ou menos? Honesta sem preconceitos, amorosa sem lúxuria, casta sem formalidades, reta sem princípios e sempre viva, exaltadamente viva, miraculosamente viva, a palpitar de seiva quente como as flores selvagens da tua bárbara charneca!</p>
+<p class="entrada">
+13 de janeiro
+</p>
+<p>Os olhos do meu cão enternecem-me. Em que rosto humano, num outro mundo, vi eu já estes olhos de veludo doirado, de cantos ligeiramente macerados, com este mesmo olhar pueril e grave, entre interrogativo e ansioso?</p>
+<p class="entrada">
+14 de janeiro
+</p>
+<p>A minha modesta “chaise” faz-me lembrar — “excusez du peu…” — o Estoril em julho: azul do mar, pássaros esquisitos todos asas, gerânios vermelhos em grandes umbelas floridas. Passo nela o melhor do meu tempo. Acendo um cigarro… e o fumo, dum cinzento azulado, eleva-se, quase a direito, até ao teto, todo pintalgado duma bizarra folhagem roxa, e de exóticas rosas em dois tons de alaranjado, flores de papel inventadas por crianças para divertir bonecas. E a minha “rêverie” eleva-se com o fumo, adelgaça-se, espraia-se, espiritualiza-se. E o meu olhar acaricia, de passagem, o vulto do meu irmão: o meu amigo morto; demora-se, encantado, nas folhas das minhas jarras, agora: andorinhas todas brancas, lírios roxos feitos de finos crepes “georgette”, camélias vestidas de duras sedas pálidas. A chuva, lá fora, trauteia baixinho a sua clara e doce cantiga de inverno, a sua eterna melodia simples que embala e apazigua. Sinto-me só. Quantas coisas lindas e tristes eu diria agora a Alguém que não existe!</p>
+<p class="entrada">
+15 de janeiro
+</p>
+<p>Como me lembra hoje o jardim da Faculdade! A minha recordação veste-o de roxo de todas as suas violetas, nesta evocação dum passado há tanto tempo perdido! Maria Albertina, Tarroso, Regado, Camélier, Fontes, tantas, tantas sombras! Tantos mortos já! Jardim por onde ecoaram tantos gritos, tantos risos, tantas “blagues”, todo o viço e o frêmito das nossas irrequietas mocidades, por onde vogaram, confiantes e exaltados, todos os sonhos das nossas almas que ainda acreditavam na glória, na riqueza, na vida e em maravilhosos destinos de lenda! Não gostaria de o tornar a ver; já não é o meu jardim, já não é o nosso jardim; as violetas já não são as nossas violetas, e aquela árvore grande que parecia debruçar-se a ouvir-nos, meus amigos vivos, meus amigos mortos, já decerto nos não conheceria…</p>
+<p class="entrada">
+21 de janeiro
+</p>
+<p>É um encanto agora, quase todos os dias renovado, o meu passeio pela Boavista. Como as árvores se enfeitam, espreitando a primavera! Polvilham-se de oiro as mimosas, ao crepúsculo, riem, num riso diabólico, as peônias, vestem as magnólias os seus vestidos de baile: brancos, rosados, cor de lilás… saias compridas quase a roçar o chão. Para aquela, pequenina, toda empertigada, em bicos dos pés, no seu tapete de veludo, é talvez, este inverno, o seu vestido de baile. Tão nova ainda! Uma rapariguinha de quinze anos. E que nome terá aquela senhora tão alta, toda de roxo, que me diz sempre adeus, quando passo, em lindos gestos comovidos? E a outra, mais adiante, de lenço cor-de-rosa, amarrado à cabeça airosa, como uma alentejana? Eu que tenho esgotado todas as sensações artísticas, sentimentais, intelectuais, todas as emoções que a minha poderosa imaginação de criaturinha fantástica e estranha tem sabido bordar no tecido incolor da minha vida medíocre, não esgotei ainda, graças aos deuses, o arrepio de prazer, o estremecimento de entusiasmo, este “élan” quase divino, para tudo o que é belo, grande e puro: flor a abrir ou tinta de crepúsculo, raminho de árvore, ou gota de chuva, cores, linhas, perfumes, asas, todas as belas coisas que me consolam de resto. Serei eu apenas uma panteísta?</p>
+<p class="entrada">
+22 de janeiro
+</p>
+<p>Faço às vezes o gesto de quem segura um filho ao colo. Um filho, um filho de carne e osso, não me interessaria talvez, agora… mas sorrio a este que é apenas amor nos meus braços.</p>
+<p class="entrada">
+23 de janeiro
+</p>
+<p>Endiabrada Bela! Estranha abelha que dos mais doces cálices só sabes extrair fel! “Para que quer esta criatura a inteligência, se não há meio de ser feliz?” dizia, dantes, meu pai, indignado. Ó ingénuo pai de 60 anos, quando é que tu viste servir a inteligência para tornar feliz alguém? Quando, ó ingénuo pai de 60 anos?… Só se pode ser feliz simplificando, simplificando sempre, arrancando, diminuindo, esmagando, reduzindo; e a inteligência cria em volta de nós um mar imenso de ondas, de espumas, de destroços, no meio do qual somos depois o náufrago que se revolta, que se debate em vão, que não quer desaparecer sem estreitar de encontro ao peito qualquer coisa que anda longe: raio de sol ou reflexo de estrelas. E todos os astros moram lá no alto, ó ingénuo pai de 60 anos!</p>
+<p class="entrada">
+24 de janeiro
+</p>
+<p>O <em>Diário</em> de Maria Bashkirtseff é qualquer coisa de profundamente triste, de tragicamente humano. Só não compreendo naquela grande alma o medo da morte. O espectro da morte, a ideia da morte, apavora-a, espanta-a, indigna-a. É a sua única fraqueza. “Il faudra donc mourir, misérable”. “Mourir? J’en ai très peur… Et je ne veux pas”. “Je veux vivre, moi, quand même et malgré tout…” “Mon corps pleure et crie mais quelque chose qui est au-dessus de moi, se réjouit de vivre quand même…” Mas que imensa alma! Queria o amor, queria a glória, o poder, a riqueza, queria a felicidade, queria tudo. E morreu com pouco mais de vinte anos gritando até ao fim que não queria morrer. Como não compreendeu ela que o único remate possível à cúpula do seu maravilhoso palácio de quimeras, de ambições, de amor, de glória, poderia apenas ser realizado por essas linhas serenas, puríssimas, indecifráveis que só a morte sabe esculpir? Os seus vinte anos não chegaram a compreender o alto e supremo símbolo das mãos que se cruzam, vazias dessa maré de sonhos que a vida, em amargo fluxo e refluxo, leva e traz constantemente. Princezinha exilada, porque não soubeste tu murmurar, encolhendo os ombros, o teu doce e sereno “Nitchevo” de eslava?…</p>
+<h2 id="fevereiro">Fevereiro</h2>
+<p class="entrada">
+3 de fevereiro
+</p>
+<p>Chuva, vento, dores, tristeza… e sempre a Florbela, a Florbela, a Florbela!! Gostaria de endoidecer: Carlos Magno ou Semíramis, perseguidora ou perseguida, a chorar ou a rir, <em>Eu</em> seria outra, outra, outra! Não saberia sequer que os meus sonhos eram sonhos: o mundo estaria todo povoado de verdades. Os meus exércitos seriam meus, as minhas pedras preciosas seriam minhas; cóleras, pavores, lágrimas, gargalhadas, tudo isso seria realmente meu. E uma gota de água seria um astro, uma espiguinha de erva, uma seara e um ramo de árvore, uma floresta. Ser doido é a única forma de <em>possuir</em> e a maneira de ser alguma coisa de firme neste mundo.</p>
+<p class="entrada">
+4 de fevereiro
+</p>
+<p>Ó Bela imbecil, <em>trouxa</em>, como tu dizias, irmão querido. Trouxa… trouxa de farrapos, miseravelmente esfarrapados. Dentro, há talvez oiro e pedrarias, o vestido de Cendrillon, a coroa de rosas de Titânia, a esmeralda de Nero, a lâmpada de Aladim, a taça do rei de Thule… Quem sabe, se ainda ninguém a desatou?…</p>
+<p class="entrada">
+6 de fevereiro
+</p>
+<p>A minha vida! Que “gâchis”! Se eu nem mesmo sei o que quero!</p>
+<p class="entrada">
+16 de fevereiro
+</p>
+<p>Que personagem irritante o deste romance idiota <em>La Ville du Sourire</em>! — “Je me demande vingt fois, um soir, si je me coucherai à neuf heures ou si je courrai au dancing et je balance encore, à onze heures, entre un pyjama posé sur le lit et un smoking posé sur la chaise…”. E gaba-se este pastel de que as mulheres o perseguiam!… Um homem sem vontade, sem energia, sem coragem, nunca pode ser verdadeiramente amado. Ah, ser homem, e um belo impossível trancar-me um caminho por onde eu quisesse passar!</p>
+<p class="entrada">
+19 de fevereiro
+</p>
+<p>Que me importa a estima dos outros se eu tenho a minha? Que me importa a mediocridade do mundo se <em>Eu</em> sou <em>Eu</em>? Que importa o desalento da vida se há a morte? Com tantas riquezas por que sentir-me pobre? E os meus versos e a minha alma, e os meus sonhos, e os montes e as rosas e a canção dos sapos nas suas ervas húmidas e a minha charneca alentejana e os olivais vestidos de “Gata Borralheira” e o assombro dos crepúsculos e o murmúrio das noites… então isto não é nada? Napoleão de saias que impérios desejas? Que mundos queres conquistar? Estás, decididamente, atacada de delírio de grandezas!…</p>
+<p class="entrada">
+22 de fevereiro
+</p>
+<p>O olhar dum bicho comove-me mais profundamente que um olhar humano. Há lá dentro uma alma que quer falar e não pode, princesa encantada por qualquer fada má. Num grande esforço de compreensão, debruço-me, mergulho os meus olhos nos olhos do meu cão: tu que queres? E os olhos respondem-me e eu não entendo… Ah, ter quatro patas e compreender a súplica humilde, a angustiosa ansiedade daquele olhar! Afinal… de que tendes vós orgulho, ó gentes?…</p>
+<p class="entrada">
+23 de fevereiro
+</p>
+<p>A vida tem a incoerência dum sonho. E quem sabe se realmente estaremos a dormir e a sonhar e acabaremos por despertar um dia? Será a esse despertar que os católicos chamam Deus?</p>
+<p class="entrada">
+28 de fevereiro
+</p>
+<p>Estou tão magrita! A lâmina vai escorrendo a bainha, a pouco e pouco, mas implacavelmente, com segurança. Devo ter por alma um diamante ou uma labareda e sinto nela a beleza inquietante e misteriosa das obras incompletas ou mutiladas.</p>
+<h2 id="março">Março</h2>
+<p class="entrada">
+13 de março
+</p>
+<p>O Luís tem no íntimo, embora o não confesse, um grande orgulho por não ser capaz de amar doidamente uma mulher. Como é que, sendo ele tão inteligente, não compreende esta verdade tão simples: que aquele que não tem nada para dar é que é pobre? Assim, nas suas aventuras sentimentais, dá, em troca de pedras preciosas, dinheiro falso e… como cada um dá o que tem, elas dão sempre pedras preciosas e ele continua a dar dinheiro falso. E, quando chegar a morte, terá ignorado dois dos maiores prazeres da vida: o prazer de possuir pedras preciosas e o prazer de as dar.</p>
+<p class="entrada">
+16 de março
+</p>
+<p>Imagino-me, em certos momentos, uma princesinha, sobre um terraço, sentada num tapete. Em volta … tanta coisa! Bichos, flores, bonecos … brinquedos. Às vezes a princesinha aborrece-se de brincar e fica, horas e horas, esquecida, a cismar num outro mundo onde houvesse brinquedos maiores, mais belos e mais sólidos.</p>
+<h2 id="abril">Abril</h2>
+<p class="entrada">
+20 de abril
+</p>
+<p>Ponho-me, às vezes, a olhar para o espelho e a examinar-me, feição por feição: os olhos, a boca, o modelado da fronte, a curva das pálpebras, a linha da face… E esta amálgama grosseira e feia, grotesca e miserável, saberia fazer versos? Ah, não! Existe outra coisa… mas o quê? Afinal, para que pensar? Viver é não saber que se vive. Procurar o sentido da vida, sem mesmo saber se algum sentido tem, é tarefa de poetas e de neurastênicos. Só uma visão de conjuntos pode aproximar-se de verdade. Examinar em detalhe é criar novos detalhes. Por debaixo da cor está o desenho firme e só se encontra o que se não procura. Porque me não esqueço eu de viver … para viver?</p>
+<p class="entrada">
+28 de abril
+</p>
+<p>Não tenho forças, não tenho energia, não tenho coragem para nada. Sinto-me afundar. Sou o ramo de salgueiro que se inclina e diz que sim a todos os ventos.</p>
+<h2 id="maio">Maio</h2>
+<p class="entrada">
+2 de maio
+</p>
+<p><em>La Monnaie de Singe</em>, de Delarue-Mardrus, encantou-me, positivamente; sem ser, de maneira nenhuma, uma obra-prima é um livro adorável. À parte a sua estrutura um pouco frágil, os seus exageros, o seu tom um pouco forçado de demonstração, é realmente qualquer coisa de bom. A sua “petite fille toute en or” longínqua como um ídolo, é um magnífico pretexto para magníficas páginas cheias de coração e de graça. “La jalousie et la haine sont des formes de l’hommage. C’est un encens amer, mais le plus précieux des encens, celui que les médiocres ne connaîtront jamais”. Como é verdade! Este livro tem para mim o valor de me ter debruçado sobre ele como se me tivesse debruçado sobre a minha alma de rapariga. Lembro-me dela ter sido, dantes, um pouco, a alma corajosa e bravia, terna e inquieta duma “petite fille toute en or”. E, também a mim, foi sempre em “monnaie de singe” que a esmola da ternura me foi dada…</p>
+<h2 id="julho">Julho</h2>
+<p class="entrada">
+16 de julho
+</p>
+<p>Até hoje, todas as minhas cartas de amor não são mais que a realização da minha necessidade de fazer frases. Se o “Prince Charmant” vier, que lhe direi eu de novo, de sincero, de verdadeiramente sentido? Tão pobres somos que as mesmas palavras nos servem para exprimir a mentira e a verdade!</p>
+<h2 id="agosto">Agosto</h2>
+<p class="entrada">
+2 de agosto
+</p>
+<p>Está escrito que hei de ser sempre a mesma eterna isolada… Por quê?</p>
+<h2 id="setembro">Setembro</h2>
+<p class="entrada">
+1 de setembro
+</p>
+<p>A águia, será uma águia a valer ou simplesmente um milhafre?</p>
+<p class="entrada">
+6 de setembro
+</p>
+<p>Tenho pela mentira um horror quase físico. Sinto-a à distância e agora… neste mesmo momento… sinto-a vaguear, asquerosa e suja, em volta da minha alma que vibra no orgulho de ser pura. Se os outros me não conhecem, eu conheço-me, e tenho orgulho, um incomensurável orgulho em mim!</p>
+<h2 id="outubro">Outubro</h2>
+<p class="entrada">
+8 de outubro
+</p>
+<p>Era simplesmente um milhafre… Guardar-me intacta, como um cristal transparente, para quê? Mas não imitemos Jeremias… só na alma é que a lama se não apaga; aquela com que nos salpicam, sai com água limpa.</p>
+<h2 id="novembro">Novembro</h2>
+<p class="entrada">
+15 de novembro
+</p>
+<p>Não, não e não!</p>
+<p class="entrada">
+20 de novembro
+</p>
+<p>A morte definitiva ou a morte transfiguradora? Mas que importa o que está para além?</p>
+<p>"Seja o que for, será melhor que o mundo!</p>
+<p>Tudo será melhor do que esta vida!"</p>
+<p class="entrada">
+24 de novembro
+</p>
+<p>Há uma serenidade consciente da sua força na linha firme daquele perfil. As mãos têm raça e nobreza; o sorriso, a ironia e bondade; os olhos… não se examinam: deslumbram. Deve ter vivido dez vidas numa só vida. Há sonhos mortos, como violetas esmagadas, na pele fria e macerada das pálpebras. Que rastos deixarão na minha vida aqueles passos, silenciosos e seguros, que sabem o caminho, todos os caminhos da terra?</p>
+<p class="entrada">
+29 de novembro
+</p>
+<p>“La tendresse humaine ne peut s’exprimer que par un seul geste: celui d’ouvrir et de refermer les bras.”</p>
+<h2 id="dezembro">Dezembro</h2>
+<p class="entrada">
+2 de dezembro
+</p>
+<p>E não haver gestos novos nem palavras novas!</p>
+<h1 id="aforismos">Aforismos</h1>
+<p>{#section .unnumbered}</p>
+<h6 id="section">1</h6>
+<p>Quando algum morre, dizem: os vivos ficam-se a rir! Apesar do riso, são vivos que eu lamento.</p>
+<h6 id="section-1">2</h6>
+<p>Um livro é uma vaidade! Que importa ao mundo a cor da nossa imaginação, e as formas do nosso pensamento?!</p>
+<h6 id="section-2">3</h6>
+<p>Prefiro o animal ao homem, o instinto ao raciocínio; o instinto dá-nos o bruto, o raciocínio o canalha!</p>
+<h6 id="section-3">4</h6>
+<p>A vida é sempre a mesma para todos: rede de ilusões e desenganos. O quadro é único, a moldura é que é diferente!</p>
+<h6 id="section-4">5</h6>
+<p>Sentir é muito, compreender é melhor.</p>
+<h6 id="section-5">6</h6>
+<p>É pensando nos homens que eu perdoo ao tigre as garras que dilaceram.</p>
+<h6 id="section-6">7</h6>
+<p>Há bocas sorridentes que gritam para dentro d’alma o uivo dos chacais nos matagais desertos.</p>
+<h6 id="section-7">8</h6>
+<p>Se penetrássemos o sentido da vida seríamos menos miseráveis.</p>
+<h6 id="section-8">9</h6>
+<p>Na estrada da vida os caminhantes passam de olhos vendados. Onde vamos?</p>
+<h6 id="section-9">10</h6>
+<p>Lutar pela felicidade não vale a pena: somos todos de antemão os vencidos.</p>
+<h6 id="section-10">11</h6>
+<p>A ironia é a expressão mais perfeita do pensamento.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1" role="doc-endnote"><p>Uma problemática que vem desde as primeiras críticas sobre Florbela é a do uso do vocábulo “poeta” como forma de qualificá-la. Há certo medo de referi-la como “poetisa”, fato percebido desde os anos 30, numa recensão de António Ferro a Florbela. Em oposição ao desprestígio dado ao vocábulo “poetisa”, Natália Correia, no prefácio do <em>Diário do último ano</em>, discorda: “A teatralidade de Florbela é a interpretação genial deste mistério feminino que se desgarra na gesticulação dramática da poetisa. Sim, chamar-lhe-ei poetisa. A homenagem que distingue o génio poético feminino com o prémio de lhe masculinizar o estro ultraja uma poesia que quer feminizar o mundo com a magia da sua claridade lunar”. Ver “Prefácio – A Diva”, em <span class="smallcaps">espanca</span>, Florbela, <em>Diário do último ano</em>, Lisboa, Bertrand, 1981, p. 11. Natália Correia refere-se ao fato de ser ultrajante masculinizar a referência a Florbela como “poeta”. Usa-se o substantivo feminino como uma forma de valorizar a escrita de Florbela, tal como a postura crítica de Natália Correia.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>Carta de 18 de junho de 1930.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p>Carta de 27 de junho de 1930.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4" role="doc-endnote"><p><span class="smallcaps">vilar</span>, Amélia. <em>O drama de Florbela Espanca</em>. Porto: Costa Carregal, 1947. Conferência realizada no Orfeão do Porto, na noite de 5 de dezembro de 1946.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5" role="doc-endnote"><p>Cito-o a partir da minha edição de <em>Poemas. Florbela Espanca.</em> São Paulo: Editora Martins Fontes, 1996, p. 324.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6" role="doc-endnote"><p>Numa carta a Battelli de 5 de julho de 1930, ela revela que seu “estado de espírito [está] desejoso da transformação universal pela morte”. Noutra, de 3 de agosto de 1930, que “eu sou um canceroso: podem as várias morfinas aliviar-me, curar-me nunca. Estou doente, tenho os nervos destrambelhados”.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7" role="doc-endnote"><p>Faço um ligeiro excurso para explicar ao leitor que a figura da “guarida” é muito cara à imagética florbeliana. No seu primeiro poema, quando tinha ainda nove anos incompletos, ela escreve uma peça intitulada “A vida e a morte”, no qual trata a “morte” como a “guarida” oferecida à vida! E lembro também que nos seus derradeiros poemas sobre a morte, ela sempre lhe aparece como protetora, benfazeja, consoladora das dores, como aquela que oferece o regaço.<a href="#fnref7" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8" role="doc-endnote"><p>Vale aqui uma chamada. Battelli faz conhecer, depois da morte da amiga, apenas trechos de suas cartas para ele, mas muito deturpadas ou fora de contexto, segundo as suas conveniências contingenciais. Os originais, que ele depositou na Biblioteca Pública de Évora para serem abertos dez anos depois, demonstram bem outras versões dos trechos divulgados.<a href="#fnref8" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9" role="doc-endnote"><p><span class="smallcaps">castro</span>, Fernanda de. <em>Ao fim da memória</em>. Volume <span class="smallcaps">ii</span>, 1939–1987. Lisboa: Editorial Verbo, 1988, p. 89–96.<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10" role="doc-endnote"><p><span class="smallcaps">blanchot</span>, Maurice. <em>O livro por vir</em>. Trad. Leyla Perrone-Moisés. São Paulo: Martins Fontes, 2013, p. 31. Ou, como diz o mesmo autor, em <em>O espaço literário</em> (Rio de Janeiro: Rocco, 1987, p. 17–19), “Esse ‘ele’ sou eu convertido em ninguém, outrem que se torna o outro, e que, do lugar onde estou, não possa mais dirigir-se a mim e que aquele que se me dirige não diga ‘Eu’, e não seja ele mesmo”.<a href="#fnref10" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11" role="doc-endnote"><p>Remeto o leitor para as discussões que efetuo a respeito no meu <em>O narrador ensimesmado</em>. São Paulo: Ática, 1979.<a href="#fnref11" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12" role="doc-endnote"><p><span class="smallcaps">foucault</span>, Michel. “A escrita de si”. Em ____. <em>O que é um autor?</em> Lisboa: Passagens, 1983, p. 9.<a href="#fnref12" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13" role="doc-endnote"><p><span class="smallcaps">derrida</span>, Jacques. <em>O cartão-postal. De Sócrates a Freud e além</em>. Trad. Ana Valéria Lessa e Simone Perelson. Rio de Janeiro: Civilização Brasileira, 2007, p. 12.<a href="#fnref13" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14" role="doc-endnote"><p><span class="smallcaps">lacan</span>, Jacques. “O seminário sobre A Carta Roubada”. Em <em>Escritos</em>. Trad. Inês Osaki-Depré. São Paulo: Perspectiva, 1966, p. 17–67. “Se pudéssemos dizer que uma carta cumpriu seu destino após ter preenchido sua função, a cerimônia de devolver as cartas seria menos admitida para servir de clausura na extinção dos fogos das festas do amor” (p. 33).<a href="#fnref14" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15" role="doc-endnote"><p>É o que Isa Severino diz sobre as páginas do <em>Diário</em>: “O eu diarístico oscila, assim, entre um eu poderoso, magnânimo, ciente das suas potencialidades, um eu herói, e um eu amesquinhado, digamos, humano. De modo que, tal como uma protagonista de uma narrativa ou drama, Florbela surge envolta em ambiguidade, possuindo características humanas, densidade psicológica, social e importantes valores, como a própria reconhece”. Ver “A construção da <em>persona</em> do <em>Diário</em> de Florbela”. Em <span class="smallcaps">espanca</span>, Florbela. <em>Diário/ O dominó preto</em>. Organização, notas e fixação do texto de Fabio Mario da Silva. Estudos introdutórios de Fabio Mario da Silva e Isa Severino. Lisboa: Edições Esgotadas, 2019, p. 37–54.<a href="#fnref15" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16" role="doc-endnote"><p>Cota <span class="smallcaps">e</span>1/ 30, 1930.<a href="#fnref16" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17" role="doc-endnote"><p><span class="smallcaps">vilela</span>, Ana Luísa; <span class="smallcaps">silva</span>, Fabio Mario da. <em>Florbela Espanca: o espólio de um mito</em>. Disponível online.<a href="#fnref17" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn18" role="doc-endnote"><p>Rui Guedes publica os fragmentos em <em>Acerca de Florbela</em>, com o título “Pensamentos” (1986, p. 91–92). Já na obra <em>Esparsos de Florbela Espanca</em> , Fabio Mario da Silva e Henrique Marques Samyn os intitulam de “Aforismos”. Ver Lisboa/ Viseu: Edições Esgotadas, 2022.<a href="#fnref18" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+</body>
+</html>
