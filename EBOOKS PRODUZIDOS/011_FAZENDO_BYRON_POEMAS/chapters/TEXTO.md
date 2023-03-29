@@ -1,0 +1,6202 @@
+She walks in beauty {#she-walks-in-beauty .unnumbered}
+===================
+
+
+<br> She walks in beauty, like the night
+<br> Of
+cloudless climes and starry skies;
+<br> And all that's best of
+dark and bright
+<br> Meet in her aspect and her
+eyes:
+<br> Thus mellowed to that tender light
+<br> Which
+heaven to gaudy day denies.
+<br>
+
+
+<br> One shade the more, one ray the less,
+<br> Had
+half impaired the nameless grace
+<br> Which waves in every raven
+tress,
+<br> Or softly lightens o'er her face;
+<br> Where
+thoughts serenely sweet express,
+<br> How pure, how dear their
+dwelling-place.
+<br>
+
+
+<br> And on that cheek, and o'er that brow,
+<br> So
+soft, so calm, yet eloquent,
+<br> The smiles that win, the tints
+that glow,
+<br> But tell of days in goodness spent,
+<br>
+A mind at peace with all below,
+<br> A heart whose love is
+innocent!
+<br>
+
+Ela caminha em formosura[^1]
+============================
+
+
+<br> Ela caminha em formosura, noite que anda
+<br> Num
+céu sem nuvens e de estrelas palpitante,
+<br> E o que é melhor
+em treva ou resplendor
+<br> Se encontra em seu olhar e em seu
+semblante;
+<br> Ela amadureceu à luz tão branda
+<br> Que
+o Céu denega ao dia em seu fulgor.
+<br>
+
+
+<br> Uma sombra de mais, um raio que faltasse,
+<br>
+Teriam diminuído a graça indefinível
+<br> Que em suas tranças
+cor de corvo ondeia
+<br> Ou meigamente lhe ilumina a
+face;
+<br> Nessas feições revela, qualquer doce
+ideia,
+<br> Como é puro seu lar, como é aprazível.
+<br>
+
+
+<br> Na fronte e rosto cheio de serenidade,
+<br> Tão
+suave, porém tão eloquente,
+<br> O sorriso que vence e a tez que
+se enrubesce
+<br> Dizem apenas de um passado de
+bondade:
+<br> De uma alma cuja paz com todos
+transparece,
+<br> De um coração de amor sempre
+inocente.
+<br>
+
+The Isles of Greece, the Isles of Greece! {#the-isles-of-greece-the-isles-of-greece .unnumbered}
+=========================================
+
+
+<br> The isles of Greece, the isles of Greece!
+<br>
+Where burning Sappho loved and sung,
+<br> Where grew the arts of
+war and peace,
+<br> Where Delos rose, and Phœbus
+sprung!
+<br> Eternal summer gilds them yet,
+<br> But
+all, except their sun, is set.
+<br>
+
+
+<br> The Scian and the Teian muse,
+<br> The hero's
+harp, the lover's lute,
+<br> Have found the fame your shores
+refuse;
+<br> Their place of birth alone is mute
+<br> To
+sounds which echo further west
+<br> Than your sires' 'Islands of
+the Blest.'
+<br>
+
+As ilhas da Grécia, as ilhas da Grécia![^2]
+===========================================
+
+
+<br> As ilhas da Grécia, as ilhas da Grécia!
+<br> Onde
+a ardente Safo amou e cantou,
+<br> Onde a arte da guerra e a da
+paz cresceram,
+<br> 
+<br> Um eterno verão as doura
+ainda,
+<br> Mas tudo, exceto o sol, já descambou.
+<br>
+
+
+<br> ,
+<br> A harpa do herói, o alaúde do
+amante,
+<br> A fama acharam que não dão agora;
+<br> A
+pátria deles muda está, perante
+<br> ,
+<br> Para ecoar
+no oeste mais distante.
+<br>
+
+
+<br> The mountains look on Marathon ---
+<br> And
+Marathon looks on the sea;
+<br> And musing there an hour
+alone,
+<br> I dreamed that Greece might still be
+free;
+<br> For standing on the Persians' grave,
+<br> I
+could not deem myself a slave.
+<br>
+
+
+<br> A king sate on the rocky brow
+<br> Which looks
+o'er sea-born Salamis;
+<br> And ships, by thousands, lay
+below,
+<br> And men in nations; --- all were his!
+<br>
+He counted them at break of day ---
+<br> And when the sun set
+where were they?
+<br>
+
+
+<br> And where are they? and where art thou,
+<br> My
+country? On thy voiceless shore
+<br> The heroic lay is tuneless
+now ---
+<br> The heroic bosom beats no more!
+<br> And
+must thy lyre, so long divine,
+<br> Degenerate into hands like
+mine?
+<br>
+
+
+<br> 'Tis something, in the dearth of fame,
+<br> Though
+linked among a fettered race,
+<br> To feel at least a patriot's
+shame,
+<br> Even as I sing, suffuse my face;
+<br> For
+what is left the poet here?
+<br> For Greeks a blush --- for
+Greece a tear.
+<br>
+
+
+<br> As montanhas contemplam Maratona
+<br> E Maratona
+olha para o mar;
+<br> E sonhei, uma hora lá
+sozinho,
+<br> Que livre a Grécia poderia estar;
+<br>
+Pois de pé sobre o túmulo dos persas,
+<br> Escravo eu não podia
+me julgar.
+<br>
+
+
+<br> Um rei sentou-se na rochosa borda
+<br>
+;
+<br> Naus, aos milhares, viam-se lá embaixo,
+<br> E
+nações, que eram dele, iam lutar!
+<br> Ele contou-as ao nascer
+do dia,
+<br> 
+<br>
+
+
+<br> E onde estão eles? Minha pátria, onde
+<br> Estás?
+Em tuas praias já sem voz
+<br> O canto heroico não ressoa
+agora
+<br> E já não bate o peito dos heróis!
+<br> Tanto
+tempo divina, deve a lira
+<br> Em mãos como estas decair
+após?
+<br>
+
+
+<br> Na carência da fama, é alguma coisa,
+<br> Preso
+embora entre raça agrilhoada,
+<br> Sentir que uma vergonha
+patriótica,
+<br> Mesmo se eu canto, em minha face
+brada;
+<br> Pois que deixou o poeta aqui? Aos
+gregos
+<br> Rubor, à Grécia a lágrima sagrada.
+<br>
+
+
+<br> Must *we* but weep o'er days more blest?
+<br> Must
+*we* but blush? --- Our fathers bled.
+<br> Earth! render back
+from out thy breast
+<br> A remnant of our Spartan
+dead!
+<br> Of the three hundred grant but three,
+<br> To
+make a new Thermopylae!
+<br>
+
+
+<br> What, silent still? and silent all?
+<br> Ah! no;
+--- the voices of the dead
+<br> Sound like a distant torrent's
+fall,
+<br> And answer, 'Let one living head,
+<br> But
+one arise, --- we come, we come!'
+<br> 'Tis but the living who
+are dumb.
+<br>
+
+
+<br> In vain --- in vain: strike other chords;
+<br>
+Fill high the cup with Samian wine!
+<br> Leave battles to the
+Turkish hordes,
+<br> And shed the blood of Scio's
+vine!
+<br> Hark! rising to the ignoble call ---
+<br> How
+answers each bold Bacchanal!
+<br>
+
+
+<br> You have the Pyrrhic dance as yet;
+<br> Where is
+the Pyrrhic phalanx gone?
+<br> Of two such lessons, why
+forget
+<br> The nobler and the manlier one?
+<br> You
+have the letters Cadmus gave ---
+<br> Think ye he meant them for
+a slave?
+<br>
+
+
+<br> Só devemos chorar os belos dias?
+<br> Chorar? ---
+Deram seu sangue os nossos pais.
+<br> Terra! devolve de teu seio
+uns poucos
+<br> Dos espartanos mortos --- uns, não
+mais!
+<br> ,
+<br> Dá-nos três dos trezentos
+imortais!
+<br>
+
+
+<br> Que? Calados ainda? Todos, todos? 
+<br> Não! As
+vozes dos mortos eis a soar
+<br> Como queda longínqua de
+torrente,
+<br> E respondem: "Estamos a chegar!
+<br> Que
+uma só fronte viva se subleve!"
+<br> Só os vivos não se atrevem
+a falar.
+<br>
+
+
+<br> Em vão, em vão: feri vós outras cordas;
+<br> Com
+vinho sâmio coroai a taça!
+<br> Deixai as pugnas para as hostes
+turcas,
+<br> De Quios vertei o sangue, o da
+vinhaça!
+<br> Ouvi! erguendo-se ao chamado ignóbil,
+<br>
+Como responde a bacanal que grassa!
+<br>
+
+
+<br> ,
+<br> Por que a falange pírrica está
+ausente?
+<br> Por que, dos dois legados, esquecer
+<br> O
+que é mais nobre e másculo somente?
+<br> ,
+<br>
+Queria-as ele para escrava gente?
+<br>
+
+
+<br> Fill high the bowl with Samian wine!
+<br> We will
+not think of themes like these!
+<br> It made Anacreon's song
+divine:
+<br> He served --- but served Polycrates
+<br> A
+tyrant; but our masters then
+<br> Were still, at least, our
+countrymen.
+<br>
+
+
+<br> The tyrant of the Chersonese
+<br> Was freedom's
+best and bravest friend;
+<br> *That* tyrant was
+Miltiades!
+<br> Oh! that the present hour would
+lend
+<br> Another despot of the kind!
+<br> Such chains
+as his were sure to bind.
+<br>
+
+
+<br> Fill high the bowl with Samian wine!
+<br> On
+Suli's rock, and Parga's shore,
+<br> Exists the remnant of a
+line
+<br> Such as the Doric mothers bore;
+<br> And
+there, perhaps, some seed is sown.
+<br> There Heracleidan blood
+might own.
+<br>
+
+
+<br> Trust not for freedom to the Franks ---
+<br> They
+have a king who buys and sells:
+<br> In native swords, and
+native ranks,
+<br> The only hope of courage dwells:
+<br>
+But Turkish force, and Latin fraud,
+<br> Would break your
+shield, however broad.
+<br>
+
+
+<br> Com vinho sâmio coroai a taça!
+<br> Não nos
+empolga assunto miliciano!
+<br> O vinho fez cantar
+Anacreonte,
+<br> Que serviu a Polícrates, tirano;
+<br>
+Mas então cada amo nosso ainda
+<br> Era patrício --- não um
+otomano.
+<br>
+
+
+<br> 
+<br> Mais bravo era e o melhor da
+liberdade;
+<br> Era Milcíades esse tirano!
+<br> Oh, que
+nos emprestasse, a nossa idade,
+<br> Um outro déspota da mesma
+espécie!
+<br> Os seus laços ligavam de verdade!
+<br>
+
+
+<br> Com vinho sâmio coroai a taça!
+<br> Existe o resto
+de uma estirpe grada,
+<br> De Suli a Parga no rochedo e
+praia,
+<br> Como a que por mães dórias foi gerada;
+<br>
+.
+<br> Lá, talvez, a semente está semeada.
+<br>
+
+
+<br> Para ser livres não confieis nos francos
+<br> ---
+Têm como rei alguém que compra e vende;
+<br> De nativas espadas
+e fileiras
+<br> A só esperança de coragem pende:
+<br>
+Com a força turca essa latina fraude
+<br> Romper-vos-ia o escudo
+que defende.
+<br>
+
+
+<br> Fill high the bowl with Samian wine!
+<br> Our
+virgins dance beneath the shade ---
+<br> I see their glorious
+black eyes shine;
+<br> But gazing on each glowing
+maid,
+<br> My own the burning tear-drop laves,
+<br> To
+think such breasts must suckle slaves.
+<br>
+
+
+<br> Place me on Sunium's marbled steep,
+<br> Where
+nothing, save the waves and I,
+<br> May hear our mutual murmurs
+sweep;
+<br> There, swan-like, let me sing and die:
+<br>
+A land of slaves shall ne'er be mine ---
+<br> Dash down yon cup
+of Samian wine!
+<br>
+
+
+<br> Com vinho sâmio coroai a taça!
+<br> Virgens dançam
+à sombra --- reluzentes
+<br> Eu vejo os seus gloriosos olhos
+negros;
+<br> Mas olhando essas moças resplendentes,
+<br>
+Se penso que hão de amamentar escravos,
+<br> Banham-me a vista
+lágrimas candentes.
+<br>
+
+
+<br> Ao promontório, a Súnio, conduzi-me,
+<br> Onde eu
+somente, mais a onda que passa,
+<br> Possamos escutar nossos
+murmúrios:
+<br> ;
+<br> Terra de escravos nunca será
+minha:
+<br> --- Do vinho sâmio jogai fora a taça!
+<br>
+
+To Thomas Moore {#to-thomas-moore .unnumbered}
+===============
+
+My boat is on the shore,
+<br> And my bark is on the
+sea;
+<br> But, before I go, Tom Moore,
+<br> Here's a
+double health to thee!
+<br>
+
+Here's a sigh to those who love me,
+<br> And a smile to those
+who hate;
+<br> And, whatever sky's above me,
+<br> Here's
+a heart for every fate.
+<br>
+
+Though the ocean roar around me,
+<br> Yet it still shall bear me
+on;
+<br> Though a desert should surround me,
+<br> It
+hath springs that may be won.
+<br>
+
+Were't the last drop in the well,
+<br> As I gasped upon the
+brink,
+<br> Ere my fainting spirit fell,
+<br> 'Tis to
+thee that I would drink.
+<br>
+
+With that water, as this wine,
+<br> The libation I would
+pour
+<br> Should be --- peace with thine and mine,
+<br>
+And a health to thee, Tom Moore.
+<br>
+
+A Thomas Moore[^3]
+==================
+
+Está na praia o meu bote,
+<br> Meu navio está no
+mar:
+<br> Mas antes que eu vá, Tom Moore,
+<br> Quero em
+dobro te brindar!
+<br>
+
+Eis um suspiro aos que me amam,
+<br> Aos que odeiam, um
+sorriso;
+<br> Qualquer o céu que me cubra,
+<br> Enfrento
+o que for preciso.
+<br>
+
+Ruja o oceano em torno a mim,
+<br> Em suas águas
+irei;
+<br> Um deserto me rodeie,
+<br> Nele a fontes
+chegarei.
+<br>
+
+Só uma gota no meu poço,
+<br> E eu nas bordas a
+ofegar:
+<br> Antes de ir-se o meu espírito,
+<br> A ti é
+que a vou tomar.
+<br>
+
+Com esta água e com este vinho,
+<br> A libação que eu
+verter
+<br> Será --- paz aos teus e aos meus
+<br> E a
+ti, Tom Moore, vou beber.
+<br>
+
+The Destruction of Sennacherib {#the-destruction-of-sennacherib .unnumbered}
+==============================
+
+The Assyrian came down like the wolf on the fold,
+<br> And his
+cohorts were gleaming in purple and gold;
+<br> And the sheen of
+their spears was like stars on the sea,
+<br> When the blue wave
+rolls nightly on deep Galilee.
+<br>
+
+Like the leaves of the forest when summer is green,
+<br> That
+host with their banners at sunset were seen;
+<br> Like the
+leaves of the forest when autumn hath blown,
+<br> That host on
+the morrow lay withered and strown.
+<br>
+
+For the Angel of Death spread his wings on the blast,
+<br> And
+breathed in the face of the foe as he passed;
+<br> And the eyes
+of the sleepers waxed deadly and chill,
+<br>
+And their hearts but once heaved, and for ever grew still!
+<br>
+
+And there lay the steed with his nostril all wide,
+<br> But
+through it there rolled not the breath of his pride;
+<br> And
+the foam of his gasping lay white on the turf,
+<br> And cold as
+the spray of the rock-beating surf.
+<br>
+
+And there lay the rider distorted and pale,
+<br> With the dew on
+his brow, and the rust on his mail:
+<br> And the tents were all
+silent, the banners alone,
+<br> The lances unlifted, the trumpet
+unblown.
+<br>
+
+A destruição de Senaqueribe[^4]
+===============================
+
+Tendo ouro e tendo púrpura a brilhar em suas cortes,
+<br>
+Desceram os assírios --- lobo em busca do redil:
+<br> Luziam
+suas lanças como estrelas pelo mar
+<br> Quando na Galileia, à
+noite, rola a onda anil.
+<br>
+
+Como as folhas no bosque quando o estio reverdeja,
+<br> Com
+bandeiras, ao pôr-do-sol, o exército surgia;
+<br> Como as folhas
+no bosque quando o outono se adianta,
+<br> Um dia após, sem viço
+e esparso, o exército jazia.
+<br>
+
+Pois os Anjos da morte as asas na rajada abriram;
+<br> No rosto
+do inimigo, perpassando, eles sopraram;
+<br> E os olhos dos
+dormidos se apagaram, regelados,
+<br> E, após arfar uma só vez,
+os corações pararam.
+<br>
+
+Lá jazia o corcel, jazia, ventas dilatadas,
+<br> Porém por elas
+não passava o alento de seu brio;
+<br> Branca na grama a espuma
+via-se de seu ofego,
+<br> Fria tal como a onda ao borrifar no
+penedio.
+<br>
+
+E lá jazia o cavaleiro contorcido e pálido,
+<br> Tendo orvalho
+na fronte, e com a armadura enferrujada;
+<br> E as tendas
+silenciosas, e as bandeiras já largadas,
+<br> As lanças não
+erguidas, a trombeta não tocada.
+<br>
+
+And the widows of Ashur are loud in their wail,
+<br> And the
+idols are broke in the temple of Baal;
+<br> And the might of the
+Gentile, unsmote by the sword,
+<br> Hath melted like snow in the
+glance of the Lord!
+<br>
+
+E os ídolos quebraram-se nos templos de Baal,
+<br> E as viúvas
+de Assur em prantos erguem seu clamor,
+<br> E o poder do infiel,
+sem que o tocasse a espada ao menos,
+<br> Qual neve derreteu-se
+ao pôr-lhe os olhos o Senhor!
+<br>
+
+So, We'll Go no More A-roving {#so-well-go-no-more-a-roving .unnumbered}
+=============================
+
+
+<br> So, we'll go no more a-roving
+<br> So late into
+the night,
+<br> Though the heart be still as
+loving,
+<br> And the moon be still as bright.
+<br>
+
+
+<br> For the sword outwears its sheath,
+<br> And the
+soul wears out the breast,
+<br> And the heart must pause to
+breathe,
+<br> And love itself have rest.
+<br>
+
+
+<br> Though the night was made for loving,
+<br> And the
+day returns too soon,
+<br> Yet we'll go no more
+a-roving
+<br> By the light of the moon.
+<br>
+
+Assim não mais iremos vaguear[^5]
+=================================
+
+
+<br> Tarde assim dentro da noite
+<br> Não mais iremos
+vaguear,
+<br> Embora o coração inda ame tanto
+<br> E a
+lua continue a fulgurar.
+<br>
+
+
+<br> Pois mais do que a bainha dura a espada
+<br> E a
+alma gasta o peito
+<br> E o coração faz pausa para
+respirar
+<br> E o amor para descansar.
+<br>
+
+
+<br> Embora o dia volte muito cedo
+<br> E a noite fosse
+feita para amar,
+<br> Não mais iremos vaguear
+<br> Ao
+luar.
+<br>
+
+Fare Thee Well {#fare-thee-well .unnumbered}
+==============
+
+Fare thee well! and if for ever,
+<br> Still for ever, fare thee
+well:
+<br> Even though unforgiving, never
+<br> 'Gainst
+thee shall my heart rebel.
+<br>
+
+Would that breast were bared before thee
+<br> Where thy head so
+oft hath lain,
+<br> While that placid sleep came o'er
+thee
+<br> Which thou ne'er canst know again:
+<br>
+
+Would that breast, by thee glanced over,
+<br> Every inmost
+thought could show!
+<br> Then thou wouldst at last
+discover
+<br> 'Twas not well to spurn it so.
+<br>
+
+Though the world for this commend thee ---
+<br> Though it smile
+upon the blow,
+<br> Even its praises must offend
+thee,
+<br> Founded on another's woe:
+<br>
+
+Adeus[^6]
+=========
+
+Adeus! e para sempre embora,
+<br> Que seja para nunca
+mais.
+<br> Sei teu rancor --- mas contra ti
+<br> Não me
+rebelarei jamais.
+<br>
+
+Visses nu meu peito, onde a fronte
+<br> Tu descansavas
+mansamente
+<br> E te tomava um calmo sono
+<br> Que
+perderás completamente:
+<br>
+
+Que cada fundo pensamento
+<br> No coração pudesses
+ver!
+<br> Que estava mal deixá-lo assim
+<br> Por fim
+virias a saber.
+<br>
+
+Louve-te o mundo por teu ato,
+<br> Sorria ele ante a ação
+feia:
+<br> Esse louvor deve ofender-te,
+<br> Pois
+funda-se na dor alheia.
+<br>
+
+Though my many faults defaced me,
+<br> Could no other arm be
+found,
+<br> Than the one which once embraced me,
+<br> To
+inflict a cureless wound?
+<br>
+
+Yet, oh yet, thyself deceive not;
+<br> Love may sink by slow
+decay,
+<br> But by sudden wrench, believe not
+<br>
+Hearts can thus be torn away:
+<br>
+
+Still thine own its life retaineth ---
+<br> Still must mine,
+though bleeding, beat;
+<br> And the undying thought which
+paineth
+<br> Is --- that we no more may meet.
+<br>
+
+These are words of deeper sorrow
+<br> Than the wail above the
+dead;
+<br> Both shall live, but every morrow
+<br> Wake
+us from a widowed bed.
+<br>
+
+And when thou would solace gather,
+<br> When our child's first
+accents flow,
+<br> Wilt thou teach her to say
+'Father!'
+<br> Though his care she must forego?
+<br>
+
+When her little hands shall press thee,
+<br> When her lip to
+thine is pressed,
+<br> Think of him whose prayer shall bless
+thee,
+<br> Think of him thy love *had* blessed!
+<br>
+
+Should her lineaments resemble
+<br> Those thou never more may'st
+see,
+<br> Then thy heart will softly tremble
+<br> With a
+pulse yet true to me.
+<br>
+
+Desfigurassem-me defeitos:
+<br> Mão não havia menos
+dura
+<br> Que a de quem antes me abraçava
+<br> Que me
+ferisse assim sem cura?
+<br>
+
+Não te iludas contudo: o amor
+<br> Pode afundar-se
+devagar;
+<br> Porém não pode corações
+<br> Um golpe
+súbito apartar.
+<br>
+
+O teu retém a sua vida,
+<br> E o meu, também, bata
+sangrando;
+<br> E a eterna ideia que me aflige
+<br> É
+que nos vermos não tem quando.
+<br>
+
+Digo palavras de tristeza
+<br> Maior que os mortos
+lastimar;
+<br> Hão de as manhãs, pois viveremos,
+<br> De
+um leito viúvo despertar.
+<br>
+
+E ao achares consolo, quando
+<br> A nossa filha
+balbuciar,
+<br> Ensiná-la-ás a dizer Pai!,
+<br> Se o meu
+desvelo vai faltar?
+<br>
+
+Quando as mãozinhas te apertarem
+<br> E ela teu lábio houver
+beijado,
+<br> Pensa em mim, que te bendirei!
+<br> Teu
+amor ter-me-ia abençoado.
+<br>
+
+Se parecerem os seus traços
+<br> Com os de quem podes não mais
+ver,
+<br> Teu coração pulsará suave,
+<br> E fiel a mim
+há de tremer.
+<br>
+
+All my faults perchance thou knowest,
+<br> All my madness none
+can know;
+<br> All my hopes, where'er thou goest,
+<br>
+Wither, yet with *thee* they go.
+<br>
+
+Every feeling hath been shaken;
+<br> Pride, which not a world
+could bow,
+<br> Bows to thee --- by thee forsaken,
+<br>
+Even my soul forsakes me now:
+<br>
+
+But 'tis done --- all words are idle ---
+<br> Words from me are
+vainer still;
+<br> But the thoughts we cannot
+bridle
+<br> Force their way without the will.
+<br>
+
+Fare thee well! thus disunited,
+<br> Torn from every nearer
+tie,
+<br> Seared in heart, and lone, and blighted,
+<br>
+More than this I scarce can die.
+<br>
+
+Talvez conheças minhas faltas,
+<br> Minha loucura ninguém
+sabe;
+<br> Minha esperança, aonde tu vás,
+<br> Murcha,
+mas vai, que ela em ti cabe.
+<br>
+
+Abalou-se o que sinto; o orgulho,
+<br> Que o mundo não pôde
+curvar,
+<br> Curvou-se a ti: se a abandonaste,
+<br>
+Minha alma vejo-a a me deixar.
+<br>
+
+Tudo acabou --- é vão falar ---,
+<br> Mais vão ainda o que eu
+disser;
+<br> Mas forçam rumo os pensamentos
+<br> Que não
+podemos empecer.
+<br>
+
+Adeus! assim de ti afastado,
+<br> Cada laço estreito a
+perder,
+<br> O coração só e murcho e seco,
+<br> Mais que
+isto mal posso morrer.
+<br>
+
+Waterloo {#waterloo .unnumbered}
+========
+
+
+<br> Stop! --- for thy tread is on an Empire's
+dust!
+<br> An Earthquake's spoil is sepulchred
+below!
+<br> Is the spot mark'd with no colossal
+bust?
+<br> Nor column trophied for triumphal show?
+<br>
+None; but the moral's truth tells simpler so,
+<br> As the ground
+was before, thus let it be; ---
+<br> How that red rain hath made
+the harvest grow!
+<br> And is this all the world has gain'd by
+thee,
+<br> Thou first and last of fields! king-making
+Victory?
+<br>
+
+
+<br> And Harold stands upon this place of skulls, 
+<br>
+The grave of France, the deadly Waterloo!
+<br> How in an hour
+the power which gave annuls
+<br> Its gifts, transferring fame as
+fleeting too!
+<br> In 'pride of place' here last the eagle
+flew,
+<br> Then tore with bloody talon the rent
+plain,
+<br> Pierced by the shaft of banded nations
+through;
+<br> Ambition's life and labours all were
+vain;
+<br> He wears the shatter'd links of the world's broken
+chain.
+<br>
+
+Waterloo[^7]
+============
+
+
+<br> Detém na poeira de um Império essas passadas!
+<br>
+Ruínas de um terremoto aqui estão sepultadas! 
+<br> Não orna
+este lugar um busto colossal? 
+<br> Nem troféus nem colunas em
+visão triunfal?
+<br> Não, contudo moral mais simples aqui
+aflora:
+<br> Como o solo era antes, seja assim agora!
+
+<br> Como com a chuva rubra vicejou a messe! 
+<br>
+Fizeste que contigo o mundo isto obtivesse,
+<br> Primeiro campo
+de batalha e terminal!
+<br>
+
+
+<br> Haroldo está de pé --- que de ossos no
+local!---
+<br> No sepulcro da França, Waterloo
+mortal!
+<br> Como teus dons anulas, tu, poder que
+dás,
+<br> Como transferes uma fama tão fugaz!
+<br>
+
+<br> E feriu, garra em sangue, a terra lacerada, 
+<br>
+Pela flecha da união dos povos traspassada; 
+<br> Todo o
+trabalho da ambição foi infecundo: 
+<br> Leva os anéis partidos
+dos grilhões do mundo.
+<br>
+
+
+<br> Fit retribution! Gaul may champ the bit 
+<br> And
+foam in fetters; --- but is Earth more free?
+<br> Did nations
+combat to make *One* submit;
+<br> Or league to teach all kings
+true sovereignty? 
+<br> What! shall reviving Thraldom again be
+
+<br> The patch'd-up idol of enlighten'd days?
+<br>
+Shall we, who struck the Lion down, shall we
+<br> Pay the Wolf
+homage? proffering lowly gaze
+<br> And servile knees to thrones?
+No; *prove* before ye praise!
+<br>
+
+
+<br> If not, o'er one fallen despot boast no more!
+<br>
+In vain fair cheeks were furrow'd with hot tears
+<br> For
+Europe's flowers long rooted up before
+<br> The trampler of her
+vineyards; in vain years
+<br> Of death, depopulation, bondage,
+fears,
+<br> Have all been borne, and broken by the
+accord
+<br> Of roused-up millions; all that most
+endears
+<br> Glory, is when the myrtle wreathes a
+sword
+<br> Such as Harmodius drew on Athens' tyrant
+lord.
+<br>
+
+
+<br> Pode a Gália morder --- é justo --- o freio a
+fundo
+<br> E em ferros escumar: está mais livre o mundo?
+
+<br> Lutaram as nações para vergar só *um*? 
+<br> Ou
+ensinar os reis a preexceler na ação?
+<br> Quê! a Escravidão
+ressuscitada será algum
+<br> Ídolo tosco de dias de
+ilustração?
+<br> Devemos render preito ao Lobo, nós que o
+Leão
+<br> Derrubamos? Perante o trono olhos baixar,
+
+<br> Dobrar os joelhos? Não, *provai* para exaltar!
+<br>
+
+
+<br> Senão, que um déspota caiu não clameis tanto!
+<br>
+Em vão em belos rostos derramou-se pranto
+<br> Por tanta flor da
+Europa, que viu arrancada
+<br> O que pisava as vinhas; épocas em
+vão
+<br> De fim, despovoamento, servidão e horror
+<br>
+Foram sofridas, mas quebrou-as a união
+<br> De milhões que se
+ergueram; o que faz amada
+<br> A glória, é quando o mirto vem
+coroar a espada,
+<br> .
+<br>
+
+To Inez {#to-inez .unnumbered}
+=======
+
+
+<br> Nay, smile not at my sullen brow;
+<br> Alas! I
+cannot smile again:
+<br> Yet Heaven avert that ever
+thou
+<br> Shouldst weep, and haply weep in vain.
+<br>
+
+
+<br> And dost thou ask what secret woe
+<br> I bear,
+corroding joy and youth?
+<br> And wilt thou vainly seek to
+know
+<br> A pang, ev'n thou must fail to soothe?
+<br>
+
+
+<br> It is not love, it is not hate,
+<br> Nor low
+Ambition's honours lost,
+<br> That bids me loathe my present
+state,
+<br> And fly from all I prized the most:
+<br>
+
+
+<br> It is that weariness which springs
+<br> From all I
+meet, or hear, or see:
+<br> To me no pleasure Beauty
+brings;
+<br> Thine eyes have scarce a charm for me.
+<br>
+
+A Inês[^8]
+==========
+
+
+<br> Não me sorrias à sombria fronte,
+<br> Ai! sorrir
+eu não posso novamente:
+<br> Que o céu afaste o que tu
+chorarias
+<br> E em vão talvez chorasses,
+tão-somente.
+<br>
+
+
+<br> E perguntas que dor trago secreta,
+<br> A roer
+minha alegria e juventude?
+<br> E em vão procuras conhecer-me a
+angústia
+<br> Que nem tu tornarias menos rude?
+<br>
+
+
+<br> Não é o amor, não é nem mesmo o ódio,
+<br> Nem de
+baixa ambição honras perdidas,
+<br> Que me fazem opor-me ao meu
+estado
+<br> E evadir-me das coisas mais queridas.
+<br>
+
+
+<br> De tudo o que eu encontro, escuto, ou vejo,
+<br> É
+esse tédio que deriva, e quanto! 
+<br> Não, a Beleza não me dá
+prazer, 
+<br> Teus olhos para mim mal têm encanto.
+<br>
+
+
+<br> It is that settled, ceaseless gloom
+<br> The
+fabled Hebrew wanderer bore;
+<br> That will not look beyond the
+tomb,
+<br> But cannot hope for rest before.
+<br>
+
+
+<br> What Exile from himself can flee?
+<br> To zones
+though more and more remote,
+<br> Still, still pursues, where'er
+I be,
+<br> The blight of life --- the demon Thought.
+<br>
+
+
+<br> Yet others rapt in pleasure seem,
+<br> And taste
+of all that I forsake;
+<br> Oh! may they still of transport
+dream,
+<br> And ne'er, at least like me, awake!
+<br>
+
+
+<br> Through many a clime 'tis mine to go,
+<br> With
+many a retrospection curst;
+<br> And all my solace is to
+know,
+<br> Whate'er betides, I've known the worst.
+<br>
+
+
+<br> What is the worst? Nay, do not ask ---
+<br> In
+pity from the search forbear:
+<br> Smile on --- nor venture to
+unmask
+<br> Man's heart, and view the Hell that's
+there.
+<br>
+
+
+<br> Esta tristeza imóvel e sem fim 
+<br> É a do judeu
+errante e fabuloso 
+<br> Que não verá além da sepultura
+
+<br> E em vida não terá nenhum repouso.
+<br>
+
+
+<br> Que exilado --- de si pode fugir? 
+<br> Mesmo nas
+zonas mais e mais distantes,
+<br> Sempre me caça a praga da
+existência, 
+<br> O Pensamento, que é um demônio,
+antes.
+<br>
+
+
+<br> Mas os outros parecem transportar-se 
+<br> De
+prazer e, o que eu deixo, apreciar; 
+<br> Possam sempre sonhar
+com esses arroubos 
+<br> E como acordo nunca
+despertar!
+<br>
+
+
+<br> Por muitos climas o meu fado é ir-me,
+<br> Ir-me
+com um recordar amaldiçoado; 
+<br> Meu consolo é saber que
+ocorra embora 
+<br> O que ocorrer, o pior já me foi
+dado.
+<br>
+
+
+<br> Qual foi esse pior? Não me perguntes, 
+<br> Não
+pesquises por que é que me consterno!
+<br> Sorri! não sofras
+risco em desvendar 
+<br> O coração de um homem: dentro é o
+Inferno.
+<br>
+
+Maid of Athens, Ere We Part {#maid-of-athens-ere-we-part .unnumbered}
+===========================
+
+
+<br> Maid of Athens, ere we part,
+<br> Give, oh, give
+back my heart!
+<br> Or, since that has left my
+breast,
+<br> Keep it now, and take the rest!
+<br> Hear
+my vow before I go,
+<br> *Ζωή μου, σᾶς ἀγαπῶ.*
+<br>
+
+By those tresses unconfined,
+<br> Wooed by each Aegean
+wind;
+<br> By those lids whose jetty fringe
+<br> Kiss
+thy soft cheeks' blooming tinge;
+<br> By those wild eyes like
+the roe,
+<br> *Ζωή μου, σᾶς ἀγαπῶ.*
+<br>
+
+By that lip I long to taste; 
+<br> By that zone-encircled
+waist;
+<br> By all the token-flowers that tell
+<br> What
+words can never speak so well;
+<br> By love's alternate joy and
+woe,
+<br> *Ζωή μου, σᾶς ἀγαπῶ.*
+<br>
+
+Maid of Athens! I am gone: 
+<br> Think of me, sweet! when
+alone.
+<br> Though I fly to Istambol, 
+<br> Athens holds
+my heart and soul:
+<br> Can I cease to love thee?
+No!
+<br> *Ζωή μου, σᾶς ἀγαπῶ.*
+<br>
+
+Moça de Atenas, antes da separação[^9]
+======================================
+
+
+<br> Moça de Atenas, antes da separação
+<br> Dá-me de
+volta o coração! 
+<br> Ou, pois deixou meu peito, lesto,
+
+<br> Conserva-o tu, e toma o resto! 
+<br> Antes que eu
+parta, a minha jura escuta-a só,
+<br> *Ζωή μου, σᾶς
+ἀγαπῶ.*
+<br>
+
+Por essas tranças desatadas,
+<br> Do vento egeu tão cortejadas,
+
+<br> Por essas pálpebras --- sua franja de negror
+<br>
+Beija-te as faces cor de flor ---,
+<br> Por teus olhos ariscos
+como a cabra só,
+<br> *Ζωή μου, σᾶς ἀγαπῶ.*
+<br>
+
+Por esses lábios --- quero-os fruir ---,
+<br> Por esse peito que
+uma faixa está a cingir,
+<br> Pelas flores que vêm
+falar
+<br> O que a voz não pode igualar, 
+<br> Pela
+alegria e dor que o amor alterna, e só,
+<br> *Ζωή μου, σᾶς
+ἀγαπῶ.*
+<br>
+
+Moça de Atenas, já parti, ó minha vida!
+<br> Sozinha, pensa em
+mim, querida!
+<br> Embora eu vá para Istambul,
+<br>
+Atenas prende-me a alma ao sul.
+<br> Posso deixar de amar-te?
+Nem uma hora só! 
+<br> *Ζωή μου, σᾶς ἀγαπῶ.*
+<br>
+
+Oh! Snatched Away in Beauty's Bloom {#oh-snatched-away-in-beautys-bloom .unnumbered}
+===================================
+
+Oh! snatched away in beauty's bloom,
+<br> On thee shall press no
+ponderous tomb;
+<br> But on thy turf shall roses
+rear
+<br> Their leaves, the earliest of the year;
+<br>
+And the wild cypress wave in tender gloom:
+<br>
+
+And oft by yon blue gushing stream
+<br> Shall Sorrow lean her
+drooping head,
+<br> And feed deep thought with many a
+dream,
+<br> And lingering pause and lightly tread;
+<br>
+Fond wretch! as if her step disturbed the dead!
+<br>
+
+Away! we know that tears are vain,
+<br> That death nor heeds nor
+hears distress:
+<br> Will this unteach us to
+complain?
+<br> Or make one mourner weep the less?
+<br>
+And thou --- who tell'st me to forget,
+<br> Thy looks are wan,
+thine eyes are wet.
+<br>
+
+Oh! Na flor da beleza arrebatada[^10]
+=====================================
+
+Oh! na flor da beleza arrebatada,
+<br> Não há de te oprimir
+tumba pesada;
+<br> Em tua relva as rosas criarão
+<br>
+Pétalas, as primeiras que virão,
+<br> E oscilará o cipreste em
+branda escuridão.
+<br>
+
+E junto da água a fluir azul da fonte 
+<br> Inclinará a Tristeza
+a langue fronte 
+<br> E as cismas nutrirá de sonho ardente;
+
+<br> Pausará lenta, e andará suavemente, 
+<br> Como se
+com seus passos, pobre ente!
+<br> Os mortos perturbasse, mesmo
+levemente!
+<br>
+
+Basta! sabemos nós que o pranto é vão,
+<br> Que a morte, à nossa
+dor, não dá atenção.
+<br> Isso fará esquecer-nos de
+prantear?
+<br> Ou que choremos menos fará então?
+<br> E
+tu, que dizes para eu me olvidar,
+<br> Teu rosto acha-se pálido,
+úmido esse olhar.
+<br>
+
+On This Day I CompleteMy Thirty-sixth Year {#on-this-day-i-completemy-thirty-sixth-year .unnumbered}
+==========================================
+
+[jan. 22nd, 1824]{.smallcaps}
+
+*Missolonghi*
+
+'Tis time this heart should be unmoved,
+<br> Since others it
+hath ceased to move:
+<br> Yet, though I cannot be beloved,
+
+<br> Still let me love!
+<br>
+
+My days are in the yellow leaf;
+<br> The flowers and fruits of
+love are gone;
+<br> The worm, the canker, and the
+grief
+<br> Are mine alone!
+<br>
+
+The fire that on my bosom preys
+<br> Is lone as some volcanic
+isle;
+<br> No torch is kindled at its blaze ---
+<br> A
+funeral pile.
+<br>
+
+The hope, the fear, the jealous care,
+<br> The exalted portion
+of the pain
+<br> And power of love, cannot share,
+<br>
+But wear the chain.
+<br>
+
+Neste dia eu completotrinta e seis anos[^11]
+============================================
+
+[22 de janeiro de 1824]{.smallcaps}
+
+*Missolonghi*
+
+Meu coração já é tempo de não comover-se, 
+<br> Pois outros já
+cessei de emocionar; 
+<br> Mas, embora eu não possa ser amado,
+
+<br> Que possa ainda amar!
+<br>
+
+Do amor foram-se as flores, mais os frutos;
+<br> De folha
+amarelada os dias meus estão;
+<br> O verme, a praga e a
+dor
+<br> Meus somente é que são!
+<br>
+
+A chama que em meu peito faz despojos 
+<br> Como ilha de vulcão
+é solitária; 
+<br> Nenhuma tocha é acesa no seu fogo
+
+<br> --- De pira funerária!
+<br>
+
+Medo, e esperança, e inquietação do ciúme, a augusta
+<br> Porção
+da mágoa e do poder do amor 
+<br> Não podem compartir, mas
+carregar 
+<br> Dos ferros o rigor.
+<br>
+
+But 'tis not *thus* --- and 'tis not *here* ---
+<br> Such
+thoughts should shake my soul, nor *now*
+<br> Where glory decks
+the hero's bier,
+<br> Or binds his brow.
+<br>
+
+The sword, the banner, and the field,
+<br> Glory and Greece,
+around me see!
+<br> The Spartan, borne upon his
+shield,
+<br> Was not more free.
+<br>
+
+Awake! (not Greece --- she *is* awake!)
+<br> Awake, my spirit!
+Think through *whom*
+<br> Thy life-blood tracks its parent lake,
+
+<br> And then strike home!
+<br>
+
+Tread those reviving passions down,
+<br> Unworthy manhood! ---
+unto thee
+<br> Indifferent should the smile or frown
+
+<br> Of beauty be.
+<br>
+
+If thou regret'st thy youth, *why live*?
+<br> The land of
+honourable death
+<br> Is here: --- up to the field, and
+give
+<br> Away thy breath!
+<br>
+
+Seek out --- less often sought than found ---
+<br> A soldier's
+grave, for thee the best;
+<br> Then look around, and choose thy
+ground,
+<br> And take thy rest.
+<br>
+
+Mas não é *assim* --- e não é *aqui*, nem mesmo *agora*
+<br> Que
+essas ideias deveriam me agitar,
+<br> Quando a glória recobre o
+féretro do herói
+<br> Ou vem-lhe a fronte ornar.
+<br>
+
+Bandeira, e espada, e campo de batalha, 
+<br> A glória e a
+Grécia, vede-os em redor de mim!
+<br> O espartano, levado sobre
+o escudo,
+<br> Não era livre assim.
+<br>
+
+Desperta! --- Não a Grécia, ei-la desperta! ---
+<br> Mas meu
+espírito! Pensa através de *quem*
+<br> O teu sangue vital busca
+o paterno lago, 
+<br> E então golpeia bem!
+<br>
+
+Pisa aquelas paixões que ressuscitam,
+<br> Indigna humanidade!
+--- para ti
+<br> Iguais seriam o sorriso ou a
+carranca
+<br> Da beleza em si.
+<br>
+
+*Por que viver,* se carpes tua mocidade? 
+<br> Da morte honrosa
+a terra aqui está 
+<br> --- Ergue-te para o campo de
+batalha,
+<br> E esvai o alento já!
+<br>
+
+Busca --- menos buscada do que achada
+<br> E para ti a melhor
+--- a tumba do soldado;
+<br> Olha depois em torno, escolhe o
+solo teu, 
+<br> E dorme descansado.
+<br>
+
+Sun of the Sleepless! {#sun-of-the-sleepless .unnumbered}
+=====================
+
+Sun of the sleepless! melancholy star!
+<br> Whose tearful beam
+glows tremulously far,
+<br> That show'st the darkness thou canst
+not dispel,
+<br> How like art thou to joy remember'd
+well!
+<br>
+
+So gleams the past, the light of other days,
+<br> Which shines,
+but warms not with its powerless rays;
+<br> A night-beam Sorrow
+watcheth to behold, 
+<br> Distinct, but distant --- clear ---
+but, oh how cold!
+<br>
+
+Sol dos insones[^12]
+====================
+
+Sol dos insones! Ó astro de melancolia! 
+<br> Arde teu raio em
+pranto, longe a tremular,
+<br> E expões a treva que não podes
+dissipar: 
+<br> Que semelhante és à lembrança da
+alegria!
+<br>
+
+Assim raia o passado, a luz de tanto dia,
+<br> Que brilha sem
+com raios fracos aquecer;
+<br> Noturna, uma tristeza vela para
+ver, 
+<br> Distinta mas distante --- clara --- mas que
+fria!
+<br>
+
+Written after Swimmingfrom Sestos to Abydos {#written-after-swimmingfrom-sestos-to-abydos .unnumbered}
+===========================================
+
+If, in the month of dark December,
+<br> Leander, who was nightly
+wont
+<br> (What maid will not the tale remember?)
+<br>
+To cross thy stream, broad Hellespont!
+<br>
+
+If, when the wintry tempest roared,
+<br> He sped to Hero,
+nothing loth,
+<br> And thus of old thy curent
+poured,
+<br> Fair Venus! how I pity both!
+<br>
+
+For *me*, degenerate modern wretch,
+<br> Though in the genial
+month of May,
+<br> My dripping limbs I faintly
+stretch,
+<br> And think I've done a feat today.
+<br>
+
+But since he crossed the rapid tide,
+<br> According to the
+doubtful story,
+<br> To woo, --- and --- Lord knows what
+beside.
+<br> And swam for Love, as I for Glory;
+<br>
+
+'Twere hard to say who fared the best:
+<br> Sad mortals! thus
+the Gods still plague you!
+<br> He lost his labour, I my
+jest;
+<br> For he was drowned, and I've the ague.
+<br>
+
+Escritos após nadar de Sestos a Abidos[^13]
+===========================================
+
+Se, pelo mês sombrio de dezembro,
+<br> (Que moça não se lembrará
+desse reconto?)
+<br> Leandro, que toda noite desejava
+
+<br> Tuas águas cruzar, largo Helesponto!
+<br>
+
+Se ao bramir da procela em pleno inverno
+<br> Leandro buscava
+Hero, com contentamento, 
+<br> E assim em tuas vagas se
+apressava, 
+<br> Bela Vênus! como ambos eu lamento!
+<br>
+
+Pois eu, degênere e infeliz moderno,
+<br> Embora seja maio, à
+amenidão propenso,
+<br> Movo débil meus membros encharcados:
+
+<br> Hoje cumpri uma façanha, eu penso.
+<br>
+
+Já que ele atravessou a maré rápida,
+<br> Do modo como o conta a
+duvidosa história,
+<br> Para um namoro --- e sabe Deus que
+mais,
+<br> E nadou por amor --- e eu pela glória,
+<br>
+
+Duro é dizer quem se saiu melhor:
+<br> Assim os deuses, ó
+mortais, punindo vão!
+<br> Ele perdeu o esforço, eu a graçola:
+
+<br> Ele afogou-se, ataca-me a sezão.
+<br>
+
+Sonnet on Chillon {#sonnet-on-chillon .unnumbered}
+=================
+
+Eternal Spirit of the chainless Mind!
+<br> Brightest in
+dungeons, Liberty! thou art;
+<br> For there thy habitation is
+the heart ---
+<br> The heart which love of thee alone can
+bind;
+<br> And when thy sons to fetters are consigned
+---
+<br> To fetters, and the damp vault's dayless
+gloom,
+<br> Their country conquers with their
+martyrdom,
+<br> And Freedom's fame finds wings on every
+wind.
+<br> Chillon! thy prison is a holy place,
+<br> And
+thy sad floor an altar --- for 'twas trod,
+<br> Until his very
+steps have left a trace
+<br> Worn, as if thy cold pavement were
+a sod,
+<br> By Bonnivard! --- May none those marks
+efface!
+<br> For they appeal from tyranny to God.
+<br>
+
+Soneto sobre Chillon
+====================
+
+Eterno Espírito da insubjugável Mente! 
+<br> No calabouço
+brilhas mais, ó Liberdade, 
+<br> Pois lá no coração habitas de
+verdade, 
+<br> No coração que prende o teu amor
+somente.
+<br>
+
+Quando teus filhos são entregues à corrente
+<br> E ao perpétuo
+negror de úmida cavidade,
+<br> A pátria vence com o martírio da
+hombridade,
+<br> E a fama de ser livre ao vento se ala,
+ardente!
+<br>
+
+Chillon! tua prisão é um lugar sagrado
+<br> E altar teu triste
+chão, pois ele foi pisado
+<br> --- Até gastar-se com o vestígio
+de seu passo,
+<br>
+
+Qual se fosse de terra o piso nesse espaço ---
+<br>
+,
+<br> Pois apelam da tirania para Deus!
+<br>
+
+And Thou Art Dead, as Young as Fair {#and-thou-art-dead-as-young-as-fair .unnumbered}
+===================================
+
+*Heu, quanto minus est cum reliquis versari quam tui
+meminisse!*
+<br>
+
+
+<br> As aught of mortal birth;
+<br> And form so soft,
+and charms so rare,
+<br> Too soon returned to
+Earth!
+<br> Though Earth received them in her bed,
+<br>
+And o'er the spot the crowd may tread
+<br> In carelessness or
+mirth,
+<br> There is an eye which could not brook
+<br> A
+moment on that grave to look.
+<br>
+
+I will not ask where thou liest low, 
+<br> Nor gaze upon the
+spot;
+<br> There flowers or weeds at will may grow,
+<br>
+So I behold them not:
+<br> It is enough for me to
+prove
+<br> That what I loved, and long must love,
+<br>
+Like common earth can rot;
+<br> To me there needs no stone to
+tell,
+<br> 'Tis Nothing that I loved so well.
+<br>
+
+E morreste tão jovem e formosa[^14]
+===================================
+
+*Heu, quanto minus est cum reliquis versari quam tui
+meminisse!*
+<br>
+
+
+<br> Tal como tudo que nasceu mortal;
+<br> Tão suave em
+formas, e em primores tão preciosa
+<br> Cedo tornaste à terra
+maternal! 
+<br> Possa a terra guardar-te no seu
+leito
+<br> E a multidão nele pisar, de jeito 
+<br>
+Descuidoso ou jovial, 
+<br> Não poderei eu suportar
+<br>
+Um momento sequer o teu sepulcro olhar.
+<br>
+
+Onde jazes não buscarei saber,
+<br> Nem sobre o teu jazigo a
+vista baixarei;
+<br> Nele flores ou ervas poderão crescer,
+
+<br> Que não as olharei; 
+<br> Bastante para mim é
+perceber
+<br> Que a amada --- e longamente a devo amar
+---
+<br> Como terra comum vai terminar:
+<br> Não preciso
+de pedra que me persuada
+<br> Que aquela que eu amava tanto não
+é nada.
+<br>
+
+Yet did I love thee to the last
+<br> As fervently as
+thou,
+<br> Who didst not change through all the
+past,
+<br> And canst not alter now.
+<br> The love where
+Death has set his seal,
+<br> Nor age can chill, nor rival steal,
+
+<br> Nor falsehood disavow:
+<br> And, what were worse,
+thou canst not see
+<br> Or wrong, or change, or fault in
+me.
+<br>
+
+The better days of life were ours;
+<br> The worst can be but
+mine:
+<br> The sun that cheers, the storm that
+lowers,
+<br> Shall never more be thine.
+<br> The silence
+of that dreamless sleep
+<br> I envy now too much to
+weep;
+<br> Nor need I to repine
+<br> That all those
+charms have passed away;
+<br> I might have watched through long
+decay.
+<br>
+
+The flower in ripened bloom unmatched 
+<br> Must fall the
+earliest prey;
+<br> Though by no hand untimely
+snatched,
+<br> The leaves must drop away:
+<br> And yet
+it were a greater grief
+<br> To watch it withering, leaf by
+leaf,
+<br> Than see it plucked today;
+<br> Since earthly
+eye but ill can bear
+<br> To trace the change to foul from
+fair.
+<br>
+
+Contudo amei-te, até tudo acabado,
+<br> E como tu
+fervidamente;
+<br> Jamais mudaste ao longo do
+passado
+<br> E não podes mudar na hora presente.
+<br> O
+amor no qual a morte põe seu selo
+<br> Não pode esfriá-lo a
+idade, nem rival havê-lo,
+<br> Nem perfídia o
+desmente.
+<br> E, o que seria pior, não podes ver
+assim
+<br> Erro, mudança ou falta em mim.
+<br>
+
+Foram nossos os dias bons da vida;
+<br> Podem os piores ser
+somente meus;
+<br> O sol que alegra, a tempestade que
+intimida,
+<br> Nunca mais serão teus.
+<br> O silêncio
+sem sonhos desse teu dormir,
+<br> Ora o invejo demais para
+carpir;
+<br> Nem preciso chorar que tenham dito
+adeus
+<br> Os teus encantos florescentes:
+<br> Melhor
+assim que vê-los sempre decadentes.
+<br>
+
+Sem par em sua plena formosura, a flor
+<br> Deve tombar como
+primeira presa;
+<br> As pétalas cairão em seu
+primor,
+<br> Mesmo que mão nenhuma colha essa
+beleza,
+<br> E embora fosse maior dor
+<br> Ver cada
+pétala de flor fanada
+<br> Que vê-la hoje, súbito,
+apanhada,
+<br> Uma vez que suporta mal, o humano
+olhar,
+<br> Ver o belo no feio se mudar.
+<br>
+
+I know not if I could have borne 
+<br> To see thy beauties
+fade;
+<br> The night that followed such a morn
+<br> Had
+worn a deeper shade:
+<br> Thy day without a cloud hath
+passed,
+<br> And thou wert lovely to the last;
+<br>
+Extinguished, not decayed;
+<br> As stars that shoot along the
+sky
+<br> Shine brightest as they fall from high.
+<br>
+
+As once I wept, if I could weep,
+<br> My tears might well be
+shed,
+<br> To think I was not near to keep
+<br> One
+vigil o'er thy bed;
+<br> To gaze, how fondly! on thy
+face,
+<br> To fold thee in a faint embrace,
+<br> Uphold
+thy drooping head;
+<br> And show that love, however
+vain,
+<br> Nor thou nor I can feel again.
+<br>
+
+Yet how much less it were to gain,
+<br> Though thou hast left me
+free,
+<br> The loveliest things that still remain,
+<br>
+Than thus remember thee!
+<br> The all of thine that cannot
+die
+<br> Through dark and dread Eternity
+<br> Returns
+again to me,
+<br> And more thy buried love endears
+<br>
+Than aught, except its living years.
+<br>
+
+Eu não sei se teria suportado
+<br> Ver a tua beleza se
+murchar:
+<br> Mostrou um tom de treva mais fechado
+<br>
+A noite que seguiu essa manhã sem par.
+<br> O teu dia sem nuvem
+se passou assim 
+<br> E foste encantadora até o fim:
+
+<br> Extinta, sem porém se degradar 
+<br> Como a
+estrela, que o céu riscando,
+<br> Resplende mais quando
+tombando.
+<br>
+
+Pudesse ora eu chorar, como chorei outrora,
+<br> Bem vertido
+seria o pranto meu,
+<br> Pois não estava eu perto nessa
+hora
+<br> Para manter vigília sobre o leito teu;
+<br>
+Para teu rosto ternamente olhar, 
+<br> Para num leve abraço te
+estreitar;
+<br> Para a fronte inclinada te apoiar, sim,
+eu,
+<br> Para mostrar-te amor, embora inutilmente, 
+<br>
+Pois não podemos tê-lo novamente.
+<br>
+
+Embora livre me hajas tu deixado, 
+<br> Como seria menos
+alcançar
+<br> Tudo o que seja encantador de ser
+notado,
+<br> Bem menos do que assim te recordar!
+<br>
+Tudo de ti que é imperecível
+<br> Na Eternidade tão sombria, tão
+terrível,
+<br> Eis para mim a retornar,
+<br> E vale mais
+que tudo o teu sepulto amor,
+<br> Tirando os anos que viveu em
+seu dulçor.
+<br>
+
+Bright Be the Place of Thy Soul {#bright-be-the-place-of-thy-soul .unnumbered}
+===============================
+
+Bright be the place of thy soul!
+<br> No lovelier spirit than
+thine
+<br> E'er burst from its mortal control,
+<br> In
+the orbs of the blessed to shine.
+<br>
+
+On earth thou wert all but divine,
+<br> As thy soul shall
+immortally be;
+<br> And our sorrow may cease to
+repine,
+<br> When we know that thy God is with thee.
+<br>
+
+Light be the turf of thy tomb!
+<br> May its verdure like
+emeralds be:
+<br> There should not be the shadow of
+gloom
+<br> In aught that reminds us of thee.
+<br>
+
+Young flowers and an evergreen tree
+<br> May spring from the
+spot of thy rest:
+<br> But nor cypress nor yew let us
+see;
+<br> For why should we mourn for the blest?
+<br>
+
+Brilhante seja o pouso de tua alma[^15]
+=======================================
+
+Brilhante seja o pouso de tua alma! 
+<br> Espírito nenhum mais
+atraente 
+<br> Rompeu jamais o invólucro mortal
+<br>
+Para esplender na esfera transcendente.
+<br>
+
+Em vida quase que eras tu divina, 
+<br> E tua alma imortalmente
+o deve ser;
+<br> Se, sabemos, teu Deus está contigo,
+
+<br> Deixe nossa tristeza de sofrer.
+<br>
+
+Leve seja o gramado em teu sepulcro! 
+<br> Fulgure de esmeraldas
+a folhagem! 
+<br> Não caia sombra de melancolia 
+<br>
+Sobre o que nos evoque tua imagem.
+<br>
+
+Árvore sempre verde, mais botões, 
+<br> Desse teu chão
+vejamo-los brotados;
+<br> Mas não vejamos teixo nem cipreste:
+
+<br> Por que chorar os bem-aventurados?
+<br>
+
+The ocean {#the-ocean .unnumbered}
+=========
+
+
+<br> Roll on, thou deep and dark blue Ocean ---
+roll!
+<br> Ten thousand fleets sweep over thee in vain;
+
+<br> Man marks the earth with ruin --- his control
+
+<br> Stops with the shore; upon the watery plain 
+<br>
+The wrecks are all thy deed, nor doth remain 
+<br> A shadow of
+man's ravage, save his own, 
+<br> When, for a moment, like a
+drop of rain, 
+<br> He sinks into thy depths with bubbling
+groan,
+<br> Without a grave, unknell'd, uncoffin'd, and
+unknown.
+<br>
+
+
+<br> His steps are not upon thy paths, --- thy fields
+
+<br> Are not a spoil for him, --- thou dost arise 
+<br>
+And shake him from thee; the vile strength he wields
+<br> For
+earth's destruction thou dost all depise, 
+<br> Spurning him
+from thy bosom to the skies, 
+<br> And send'st him, shivering in
+thy playful spray
+<br> And howling, to his Gods, where haply
+lies 
+<br> His petty hope in some near port or bay,
+
+<br> And dashest him again to earth: --- there let him
+lay.
+<br>
+
+O oceano[^16]
+=============
+
+
+<br> Rola, Oceano profundo e azul sombrio, rola! 
+<br>
+Caminham dez mil frotas sobre ti, em vão; 
+<br> de ruínas o
+homem marca a terra, mas se evola
+<br> na praia o seu domínio.
+Na úmida extensão 
+<br> só tu causas naufrágios; não, da
+destruição
+<br> feita pelo homem sombra alguma se mantém,
+
+<br> exceto se, gota de chuva, ele também 
+<br> se
+afunda a borbulhar com seu gemido, 
+<br> sem féretro, sem
+túmulo, desconhecido.
+<br>
+
+
+<br> Do passo do homem não há traço em teus caminhos,
+
+<br> nem são presa teus campos. Ergues-te e o
+sacodes
+<br> de ti; desprezas os poderes tão mesquinhos
+
+<br> que usa para assolar a terra, já que podes 
+<br>
+de teu seio atirá-lo aos céus; assim o lanças
+<br> tremendo e
+uivando em teus borrifos escarninhos 
+<br> rumo a seus deuses
+--- nos quais firma as esperanças
+<br> de achar um porto ou
+angra próxima, talvez ---
+<br> e o devolves à terra: --- jaza
+aí, de vez.
+<br>
+
+
+<br> The armaments which thunderstrike the walls 
+<br>
+Of rock-built cities, bidding nations quake,
+<br> And monarchs
+tremble in their capitals, 
+<br> The oak leviathans, whose huge
+ribs make 
+<br> Their clay creator the vain title take
+
+<br> Of lord of thee, and arbiter of war ---
+<br> These
+are thy toys, and, as the snowy flake,
+<br> They melt into thy
+yeast of waves, which mar 
+<br> Alike the Armada's pride or
+spoils of Trafalgar.
+<br>
+
+
+<br> Thy shores are empires, changed in all save thee
+---
+<br> Assyria, Greece, Rome, Carthage, what are they?
+
+<br> Thy waters wash'd them power while they were
+free,
+<br> And many a tyrant since; their shores obey
+
+<br> The stranger, slave, or savage; their decay 
+<br>
+Has dried up realms to deserts: --- not so thou;
+<br>
+Unchangeable, save to thy wild waves' play,
+<br> Time writes no
+wrinkle on thine azure brow:
+<br> Such as creation's dawn
+beheld, thou rollest now.
+<br>
+
+
+<br> Thou glorious mirror, where the Almighty's form
+
+<br> Glasses itself in tempests; in all time, ---
+<br>
+Calm or convulsed, in breeze, or gale, or storm,
+<br> Icing the
+pole, or in the torrid clime 
+<br> Dark-heaving --- boundless,
+endless, and sublime,
+<br> The image of eternity, the throne
+
+<br> Of the Invisible; even from out thy slime
+<br> The
+monsters of the deep are made; each zone
+<br> Obeys thee; thou
+goest forth, dread, fathomless, alone.
+<br>
+
+
+<br> Os armamentos que fulminam as muralhas 
+<br> das
+cidades de pedra --- e tremem as nações 
+<br> ante eles, como os
+reis em suas capitais ---,
+<br> os leviatãs de roble, cujas
+proporções 
+<br> levam o seu criador de barro a se
+apontar
+<br> como Senhor do Oceano e árbitro das
+batalhas,
+<br> fundem-se todos nessas ondas tão fatais
+
+<br> para a orgulhosa Armada ou para Trafalgar.
+<br>
+
+
+<br> Tuas bordas são reinos, mas o tempo os traga:
+
+<br> Grécia, Roma, Cartago, Assíria, onde é que
+estão?
+<br> Quando outrora eram livres tu as devastavas,
+
+<br> e tiranos copiaram-te, a partir de então; 
+<br>
+manda o estrangeiro em praias rudes ou escravas;
+<br> reinos
+secaram-se em desertos, nesse espaço, 
+<br> mas tu não mudas,
+salvo no florear da vaga; 
+<br> em tua fronte azul o tempo não
+põe traço; 
+<br> como és agora, viu-te a aurora da
+criação.
+<br>
+
+
+<br> Tu, espelho glorioso, onde no temporal 
+<br>
+reflete sua imagem Deus onipotente; 
+<br> calmo ou convulso,
+quando há brisa ou vendaval, 
+<br> quer a gelar o polo, quer em
+clima ardente 
+<br> a ondear sombrio, --- tu és sublime e sem
+final,
+<br> cópia da eternidade, trono do Invisível;
+
+<br> os monstros dos abismos nascem do teu lodo;
+<br>
+todas as zonas te obedecem: porque és todo 
+<br> insondável,
+sozinho avanças, és terrível.
+<br>
+
+
+<br> And I have loved thee, Ocean! and my joy 
+<br> Of
+youthful sports was on thy breast to be
+<br> Borne, like thy
+bubbles, onward: from a boy 
+<br> I wanton'd with thy breakers
+--- they to me
+<br> Were a delight; and if the freshening sea
+
+<br> Made them a terror --- 'twas a pleasing fear,
+<br>
+For I was as it were a child of thee, 
+<br> And trusted to thy
+billows far and near,
+<br> And laid my hand upon thy mane --- as
+I do here.
+<br>
+
+
+<br> Amei-te, Oceano! Em meus folguedos juvenis 
+<br>
+ir levado em teu peito, como tua espuma, 
+<br> era um prazer;
+desde meus tempos infantis 
+<br> divertir­-me com as ondas
+dava-me alegria;
+<br> quando, porém, ao refrescar-se o mar,
+alguma
+<br> de tuas vagas de causar pavor se erguia,
+
+<br> sendo eu teu filho esse pavor me seduzia 
+<br> e
+era agradável: nessas ondas eu confiava 
+<br> e, como agora, a
+tua juba eu alisava.
+<br>
+
+Stanzas to Augusta {#stanzas-to-augusta .unnumbered}
+==================
+
+Though the day of my destiny's over,
+<br> And the star of my
+fate hath declined,
+<br> Thy soft heart refused to
+discover
+<br> The faults which so many could find;
+<br>
+Though thy soul with my grief was acquainted,
+<br> It shrunk not
+to share it with me,
+<br> And the love which my spirit hath
+painted
+<br> It never hath found but in *thee.*
+<br>
+
+Then when nature around me is smiling,
+<br> The last smile which
+answers to mine,
+<br> I do not believe it
+beguiling,
+<br> Because it reminds me of thine;
+<br> And
+when winds are at war with the ocean,
+<br> As the breasts I
+believed in with me,
+<br> If their billows excite an
+emotion,
+<br> It is that they bear me from *thee.*
+<br>
+
+Though the rock of my last hope is shivered,
+<br> And its
+fragments are sunk in the wave,
+<br> Though I feel that my soul
+is delivered
+<br> To pain --- it shall not be its
+slave.
+<br> There is many a pang to pursue me:
+<br> They
+may crush, but they shall not contemn;
+<br> They may torture,
+but shall not subdue me ---
+<br> 'Tis of *thee* that I think ---
+not of them.
+<br>
+
+Estâncias para Augusta
+======================
+
+Embora, concluído o dia de meu fado,
+<br> A estrela desta sina
+tenha declinado,
+<br> Teu brando coração se recusou a achar
+
+<br> As faltas que puderam, tantos, encontrar;
+<br>
+Embora tua alma conhecesse a minha dor, 
+<br> Não recusou comigo
+partilhá-la, e o amor
+<br> Que minha mente ideou, pintando-o
+para si,
+<br> Jamais ela o encontrou, nunca, a não ser em
+ti.
+<br>
+
+Quando sorri a natureza em torno a mim 
+<br> Esse último sorrir,
+que ao meu responde assim,
+<br> Não acredito que ele seja
+enganador, 
+<br> Porquanto me recorda o teu, em seu frescor;
+
+<br> E quando em guerra os ventos se erguem contra o
+mar,
+<br> Tal como os peitos, em que eu cria, a me atacar,
+
+<br> Se as vagas inda me despertam emoção,
+<br> É que
+afastando-­me de ti elas estão.
+<br>
+
+Embora a rocha da esperança haja estalado
+<br> E os seus pedaços
+n'água tenham-se afundado,
+<br> Embora eu sinta entregue à dor
+meu coração, 
+<br> Ele não há de dar-se a ela em servidão;
+
+<br> Muitas angústias há, tantas, a me acossar; 
+<br>
+Se podem me esmagar, não podem desprezar; 
+<br> Podem me
+torturar, não me subjugarão
+<br> --- Eu penso em ti unicamente,
+nelas não.
+<br>
+
+Though human, thou didst not deceive me,
+<br> Though woman, thou
+didst not forsake,
+<br> Though loved, thou forborest to grieve
+me,
+<br> Though slandered, thou never couldst
+shake;
+<br> Though trusted, thou didst not disclaim
+me,
+<br> Though parted, it was not to fly,
+<br> Though
+watchful, 'twas not to defame me,
+<br> Nor, mute, that the world
+might belie.
+<br>
+
+Yet I blame not the world, nor despise it,
+<br> Nor the war of
+the many with one;
+<br> If my soul was not fitted to prize
+it,
+<br> 'Twas folly not sooner to shun:
+<br> And if
+dearly that error hath cost me,
+<br> And more than I once could
+foresee,
+<br> I have found that, whatever it lost
+me,
+<br> It could not deprive me of *thee.*
+<br>
+
+From the wreck of the past, which hath perished
+<br> Thus much I
+at least may recall,
+<br> It hath taught me that what I most
+cherished
+<br> Deserved to be dearest of all:
+<br> In
+the desert a fountain is springing,
+<br> In the wide waste there
+still is a tree,
+<br> And a bird in the solitude
+singing,
+<br> Which speaks to my spirit of *thee.*
+<br>
+
+Embora humana, em tempo algum tu me enganaste,
+<br> Mulher
+embora, tu jamais me abandonaste, 
+<br> Embora amada, tu
+evitaste me afligir, 
+<br> Embora caluniada, firme em resistir,
+
+<br> Embora eu cresse em ti, tu não me repudiaste;
+<br>
+Não foi para fugir que um dia te apartaste; 
+<br> Embora atenta,
+não para me denegrir; 
+<br> Nem silenciaste para o mundo então
+mentir.
+<br>
+
+Contudo eu não censuro nem desprezo a terra
+<br> Nem, contra um,
+da multidão censuro a guerra;
+<br> Para apreciar tal coisa não
+fui eu formado, 
+<br> Foi loucura eu não ter mais cedo me
+afastado;
+<br> E se caro esse erro veio a me custar,
+
+<br> Bem mais do que algum dia eu pude suspeitar,
+<br>
+Por mais que me fizesse --- achava eu --- perder,
+<br> De ti não
+poderia nunca me tolher.
+<br>
+
+Vi o passado perecer e naufragar 
+<br> E dele eu posso ao menos
+isto recordar:
+<br> Aquilo --- ensinou-me ele --- que mais eu
+queria,
+<br> Ser o mais caro, em meio a tudo, merecia:
+
+<br> No deserto uma fonte --- eu vejo --- está
+brotando,
+<br> Uma árvore no ermo ainda frondejando,
+
+<br> E um pássaro cantando em meio à solidão
+<br>
+.
+<br>
+
+Stanzas {#stanzas .unnumbered}
+=======
+
+Oh, talk not to me of a name great in story;
+<br> The days of
+your youth are the days of our glory;
+<br> And the myrtle and
+ivy of sweet two-and-twenty
+<br> Are worth all your laurels,
+though ever so plenty.
+<br>
+
+What are garlands and crowns to the brow that is wrinkled?
+<br>
+'Tis but as a dead-flower with May-dew besprinkled. 
+<br> Then
+away with all such from the head that is hoary! 
+<br> What care
+I for the wreaths that can *only* give glory?
+<br>
+
+Oh Fame! --- if I e'er took delight in thy praises,
+<br> 'Twas
+less for the sake of thy high-sounding phrases,
+<br> Than to see
+the bright eyes of the dear one discover 
+<br> She thought that
+I was not unworthy to love her.
+<br>
+
+*There* chiefly I sought thee, *there* only I found thee;
+<br>
+Her glance was the best of the rays that surround thee; 
+<br>
+When it sparkled o'er aught that was bright in my story,
+<br> I
+knew it was love, and I felt it was glory.
+<br>
+
+Estâncias[^17]
+==============
+
+Não me faleis de grande nome ter na história;
+<br> Nossos dias
+de moço os dias são de nossa glória; 
+<br> Hera e mirto dos
+vinte e dois anos viçosos 
+<br> Valem todos os louros, mesmo se
+copiosos.
+<br>
+
+Que são guirlandas para a testa já enrugada,
+<br> Que é como
+extinta flor por maio rorejada? 
+<br> Longe com isso, pois, da
+fronte encanecida!
+<br> Não me importam coroas que *só* trazem
+glória à vida!
+<br>
+
+Fama! Se teus louvores me agradaram antes,
+<br> Foi menos por
+tuas frases tão altissonantes
+<br> Que para ver a amada expor em
+seu olhar
+<br> Que ela não me julgava desmerecedor de a
+amar.
+<br>
+
+*Lá* mais eu te busquei; *lá* só, eu te encontrei;
+<br> O melhor
+raio que te cerca, em seu olhar achei;
+<br> Quando faiscava
+sobre um quê brilhante em minha história,
+<br> Eu bem sabia que
+era o amor, sentia que era a glória.
+<br>
+
+Stanzas for Music {#stanzas-for-music .unnumbered}
+=================
+
+There be none of Beauty's daughters 
+<br> With a magic like
+thee;
+<br> And like music on the waters
+<br> Is thy
+sweet voice to me:
+<br> When, as if its sound were
+causing
+<br> The charmed ocean's pausing,
+<br> The waves
+lie still and gleaming,
+<br> And the lulled winds seem
+dreaming:
+<br>
+
+And the midnight moon is weaving
+<br> Her bright chain o'er the
+deep;
+<br> Whose breast is gently heaving, 
+<br> As an
+infant's asleep:
+<br> So the spirit bows before
+thee,
+<br> To listen and adore thee;
+<br> With a full
+but soft emotion,
+<br> Like the swell of Summer's
+ocean.
+<br>
+
+Estâncias para música[^18]
+==========================
+
+Filha não há da Formosura 
+<br> Que te iguale em magia;
+
+<br> E como sobre as águas música macia,
+<br> A tua voz
+tem para mim doçura, 
+<br> Quando, como se ao soar houvesse
+provocado
+<br> O enlevo do oceano encantado, 
+<br> As
+ondas põem-se quietas, quase sem brilhar,
+<br> E os ventos
+acalmados, como que a sonhar:
+<br>
+
+E à meia-noite a lua mostra-se a tecer
+<br> Sua corrente
+fulgurante sobre o mar, 
+<br> Cujo peito se põe suavemente a
+arfar, 
+<br> Como criança que se fez adormecer: 
+<br>
+Assim o espírito se inclina à tua frente 
+<br> Para te ouvir e
+te adorar unicamente, 
+<br> Com plena, mas suave emoção,
+
+<br> Como a vaga do oceano de verão.
+<br>
+
+Euthanasia {#euthanasia .unnumbered}
+==========
+
+When Time, or soon or late, shall bring
+<br> The dreamless sleep
+that lulls the dead,
+<br> Oblivion! may thy languid
+wing
+<br> Wave gently o'er my dying bed!
+<br>
+
+No band of friends or heirs be there,
+<br> To weep, or wish, the
+coming blow:
+<br> No maiden, with dishevelled hair,
+<br>
+To feel, or feign, decorous woe.
+<br>
+
+But silent let me sink to earth,
+<br> With no officious mourners
+near:
+<br> I would not mar one hour of mirth,
+<br> Nor
+startle friendship with a tear.
+<br>
+
+Yet Love, if Love in such an hour
+<br> Could nobly check its
+useless sighs,
+<br> Might then exert its latest
+power
+<br> In her who lives, and him who dies.
+<br>
+
+'Twere sweet, my Psyche! to the last
+<br> Thy features still
+serene to see:
+<br> Forgetful of its struggles
+past,
+<br> E'en Pain itself should smile on thee.
+<br>
+
+Eutanásia[^19]
+==============
+
+Quando o Tempo trouxer, ou cedo ou tarde, 
+<br> Esse sono sem
+sonhos para me embalar, 
+<br> Sobre meu leito de agonia possa,
+Olvido!
+<br> Tua asa langue levemente tremular.
+<br>
+
+Nem róis de amigos nem de herdeiros lá estarão,
+<br> Para
+chorar, ou desejar, o que há de vir,
+<br> Nem virgem de cabelo
+desgrenhado
+<br> Para sentir dor decorosa, ou bem
+fingir.
+<br>
+
+Sem ter por perto carpidores oficiosos, 
+<br> Deixai que a terra
+me recubra silencioso:
+<br> Que eu não tire à amizade uma só
+lágrima,
+<br> Que eu não estrague um só momento
+jubiloso.
+<br>
+
+Contudo o Amor, se o Amor em tal momento 
+<br> Seus inúteis
+soluços nobre contivesse, 
+<br> Poderia mostrar a sua força
+última 
+<br> Na que ficasse viva ou no que então
+morresse.
+<br>
+
+Seria doce até o fim, ó minha Psique!
+<br> Ver as tuas feições
+ainda serenas; 
+<br> Para ti sorriria a própria Dor,
+
+<br> Esquecida de suas idas penas.
+<br>
+
+But vain the wish --- for Beauty still
+<br> Will shrink, as
+shrinks the ebbing breath;
+<br> And women's tears, produced at
+will,
+<br> Deceive in life, unman in death.
+<br>
+
+Then lonely be my latest hour,
+<br> Without regret, without a
+groan;
+<br> For thousands Death hath ceas'd to
+lower,
+<br> And pain been transient or unknown.
+<br>
+
+'Ay, but to die, and go,' alas!
+<br> Where all have gone, and
+all must go! 
+<br> To be the nothing that I was
+<br> Ere
+born to life and living woe!
+<br>
+
+Count o'er the joys thine hours have seen,
+<br> Count o'er thy
+days from anguish free, 
+<br> And know, whatever thou hast
+been,
+<br> 'Tis something better not to be.
+<br>
+
+Mas é vão o desejo --- dado que a Beleza 
+<br> Se retrairá, ao
+esgotar-se o último alento;
+<br> E o pranto da mulher, que rola
+a bel-prazer,
+<br> Engana em vida, abate no último
+momento.
+<br>
+
+Sozinho eu fique pois em minha hora final,
+<br> Sem que mostre
+pesar, sem um gemido;
+<br> Para milhares já não franze o cenho a
+Morte,
+<br> E passageira ou ignorada a dor tem sido.
+<br>
+
+"Ah! morrer todavia e ir-se para sempre!"
+<br> Aonde todos foram
+já ou devem ir!
+<br> Ser o nada que eu era, anteriormente
+
+<br> A nascer para a vida e para a dor curtir!
+<br>
+
+As alegrias conta que tuas horas viram,
+<br> Conta os teus dias
+sem nenhum sofrer:
+<br> E sabe, não importa o que hajas sido,
+
+<br> É bem melhor não ser.
+<br>
+
+Darkness {#darkness .unnumbered}
+========
+
+I had a dream, which was not all a dream. 
+<br> The bright sun
+was extinguish'd, and the stars 
+<br> Did wander darkling in the
+eternal space, 
+<br> Rayless, and pathless, and the icy earth
+
+<br> Swung blind and blackening in the moonless
+air;
+<br> Morn came and went --- and came, and brought no
+day,
+<br> And men forgot their passions in the dread
+
+<br> Of this their desolation; and all hearts 
+<br>
+Were chill'd into a selfish prayer for light:
+<br> And they did
+live by watchfires --- and the thrones, 
+<br> The palaces of
+crowned kings --- the huts, 
+<br> The habitations of all things
+which dwell,
+<br> Were burnt for beacons; cities were
+consumed,
+<br> And men were gather'd round their blazing
+homes
+<br> To look once more into each other's face;
+
+<br> Happy were those who dwelt within the eye 
+<br> Of
+the volcanos, and their mountain-torch:
+<br> A fearful hope was
+all the world contain'd;
+<br> Forests were set on fire --- but
+hour by hour 
+<br> They fell and faded --- and the crackling
+trunks
+<br> Extinguish'd with a crash --- and all was
+black.
+<br> The brows of men by the despairing light 
+<br>
+
+Trevas[^20]
+===========
+
+Eu tive um sonho que não era em tudo um sonho. 
+<br> O sol
+esplêndido extinguira-se, e as estrelas 
+<br> Vaguejavam escuras
+pelo espaço eterno, 
+<br> Sem raios nem roteiro, e a enregelada
+terra
+<br> Girava cega e negrejante no ar sem lua; 
+<br>
+Veio e foi-se a manhã --- veio e não trouxe o dia;
+<br> E os
+homens esqueceram as paixões, no horror 
+<br> Dessa desolação; e
+os corações esfriaram 
+<br> Numa prece egoísta que implorava
+luz: 
+<br> E eles viviam ao redor do fogo; e os
+tronos,
+<br> Os palácios dos reis coroados, as cabanas,
+
+<br> As moradas, enfim, do gênero que fosse, 
+<br> Em
+chamas davam luz; cidades consumiam-se
+<br> E os homens se
+juntavam junto às casas ígneas
+<br> Para ainda uma vez olhar o
+rosto um do outro; 
+<br> Felizes quantos residiam bem à vista
+
+<br> Dos vulcões e de sua tocha montanhosa;
+<br>
+Expectativa apavorada era a do mundo; 
+<br> Queimavam-se as
+florestas --- mas de hora em hora
+<br> Tombavam, desfaziam-se
+--- e, estralando, os troncos
+<br> Findavam num estrondo --- e
+tudo era negror. 
+<br> À luz desesperante a fronte dos humanos
+
+<br>
+
+Wore an unearthly aspect, as by fits 
+<br> The flashes fell upon
+them; some lay down
+<br> And hid their eyes and wept; and some
+did rest
+<br> Their chins upon their clenched hands, and
+smiled;
+<br> And others hurried to and fro, and fed
+
+<br> Their funeral piles with fuel, and look'd up 
+<br>
+With mad disquietude on the dull sky, 
+<br> The pall of a past
+world; and then again
+<br> With curses cast them down upon the
+dust, 
+<br> And gnash'd their teeth and howl'd: the wild birds
+shriek'd 
+<br> And, terrified, did flutter on the ground,
+
+<br> And flap their useless wings; the wildest
+brutes
+<br> Came tame and tremulous; and vipers
+crawl'd
+<br> And twined themselves among the
+multitude.
+<br> Hissing, but stingless --- they were slain for
+food.
+<br> And War, which for a moment was no more,
+<br>
+Did glut himself again: --- a meal was bought
+<br> With blood,
+and each sate sullenly apart
+<br> Gorging himself in gloom: no
+love was left;
+<br> All earth was but one thought --- and that
+was death
+<br> Immediate and inglorious; and the
+pang
+<br> Of famine fed upon all entrails --- men
+<br>
+Died, and their bones were tombless as their flesh;
+<br> The
+meagre by the meagre were devour'd,
+<br> Even dogs assail'd
+their masters, all save one,
+<br> And he was faithful to a
+corse, and kept
+<br> The birds and beasts and famish'd men at
+bay,
+<br> Till hunger clung them, or the dropping
+dead
+<br> Lured their lank jaws; himself sought out no
+food,
+<br> But with a piteous and perpetual mean,
+<br>
+And a quick desolate cry, licking the hand
+<br> Which answer'd
+not with a caress --- he died.
+<br> The crowd was famish'd by
+degrees; but two
+<br> Of an enormous city did
+survive,
+<br> And they were enemies: they met beside
+<br>
+
+Tinha um aspecto não terreno, se espasmódicos
+<br> Neles batiam
+os clarões; alguns, por terra, 
+<br> Escondiam chorando os
+olhos; apoiavam 
+<br> Outros o queixo às mãos fechadas, e
+sorriam;
+<br> Muitos corriam para cá e para lá, 
+<br>
+Alimentando a pira, e a vista levantavam 
+<br> Com doida
+inquietação para o trevoso céu,
+<br> A mortalha de um mundo
+extinto; e então de novo 
+<br> Com maldições olhavam para a
+poeira, e uivavam,
+<br> Rangendo os dentes; e aves bravas davam
+gritos 
+<br> E cheias de terror voejavam junto ao solo,
+
+<br> Batendo asas inúteis; as mais rudes feras 
+<br>
+Chegavam mansas e a tremer; rojavam víboras,
+<br> E
+entrelaçavam-se por entre a multidão,
+<br> Silvando, mas sem
+presas --- e eram devoradas.
+<br> E fartava-se a Guerra que
+cessara um tempo, 
+<br> E qualquer refeição comprava-se com
+sangue; 
+<br> E cada um sentava-se isolado e torvo,
+
+<br> Empanturrando-se no escuro; o amor findara;
+<br> A
+terra era uma ideia só --- e era a de morte 
+<br> Imediata e
+inglória; e se cevava o mal 
+<br> Da fome em todas as entranhas;
+e morriam
+<br> Os homens, insepultos sua carne e ossos;
+
+<br> Os magros pelos magros eram devorados, 
+<br> Os
+cães salteavam os seus donos, exceto um,
+<br> Que se mantinha
+fiel a um corpo, e conservava
+<br> Em guarda as bestas e aves e
+os famintos homens,
+<br> Até a fome os levar, ou os que caíam
+mortos 
+<br> Atraírem seus dentes; ele não comia, 
+<br>
+Mas com um gemido comovente e longo, e um grito
+<br> Rápido e
+desolado, e relambendo a mão 
+<br> Que já não o agradava em paga
+--- ele morreu.
+<br> Finou-se a multidão de fome, aos poucos;
+dois,
+<br> Porém, de uma cidade enorme resistiram, 
+<br>
+Dois inimigos, que vieram a encontrar-se
+<br>
+
+The dying embers of an altar-place
+<br> Where had been heap'd a
+mass of holy things 
+<br> For an unholy usage; they raked
+up,
+<br> And shivering scraped with their cold skeleton
+hands
+<br> The feeble ashes, and their feeble
+breath
+<br> Blew for a little life, and made a
+flame
+<br> Which was a mockery; then they lifted up
+<br>
+Their eyes as it grew lighter, and beheld
+<br> Each other's
+aspects --- saw, and shriek'd, and died ---
+<br> Even of their
+mutual hideousness they died,
+<br> Unknowing who he was upon
+whose brow
+<br> Famine had written Fiend. The world was void,
+
+<br> The populous and the powerful was a lump,
+<br>
+Seasonless, herbless, treeless, manless, lifeless,
+<br> A lump
+of death --- a chaos of hard clay.
+<br> The rivers, lakes, and
+ocean all stood still,
+<br> And nothing stirr'd within their
+silent depths;
+<br> Ships sailorless lay rotting on the
+sea,
+<br> And their masts fell down piecemeal: as they
+dropp'd
+<br> They slept on the abyss without a surge
+---
+<br> The waves were dead; the tides were in their
+grave,
+<br> The moon, their mistress, had expired before;
+
+<br> The winds were wither'd in the stagnant air,
+<br>
+And the clouds perish'd; Darkness had no need
+<br> Of aid from
+them --- She was the Universe.
+<br>
+
+Junto às brasas agonizantes de um altar 
+<br> Onde se haviam
+empilhado coisas santas 
+<br> Para um uso profano; eles as
+revolveram 
+<br> E trêmulos rasparam, com as mãos
+esqueléticas,
+<br> As débeis cinzas, e com um débil assoprar
+
+<br> Para viver um nada, ergueram uma chama 
+<br> Que
+não passava de arremedo; então alçaram
+<br> Os olhos quando ela
+se fez mais viva, e espiaram
+<br> O rosto um do outro --- ao
+ver, gritaram e morreram 
+<br> --- Morreram de sua própria e
+mútua hediondez, 
+<br> Sem um reconhecer o outro em cuja fronte
+
+<br> Grafara a fome Diabo. O mundo se esvaziara,
+<br> O
+populoso e forte era uma informe massa, 
+<br> Sem estações nem
+árvore, erva, homem, vida,
+<br> Massa informe de morte --- um
+caos de argila dura.
+<br> Pararam lagos, rios, oceanos: nada
+
+<br> Mexia em suas profundezas silenciosas;
+<br> Sem
+marujos, no mar as naus apodreciam,
+<br> Caindo os mastros aos
+pedaços; e, ao caírem,
+<br> Dormiam nos abismos sem fazer
+mareta, 
+<br> Mortas as ondas, e as marés na
+sepultura,
+<br> Que já findara sua lua senhoril. 
+<br>
+Os ventos feneceram no ar inerte, e as nuvens
+<br> Tiveram fim;
+a Escuridão não precisava 
+<br> De seu auxílio --- as Trevas
+eram o Universo.
+<br>
+
+Stanzas for Music {#stanzas-for-music-1 .unnumbered}
+=================
+
+There's not a joy the world can give like that it takes
+away,
+<br> When the glow of early thought declines in feeling's
+dull decay;
+<br> 'Tis not on youth's smooth cheek the blush
+alone, which fades so fast,
+<br> But the tender bloom of heart
+is gone, ere youth itself be past.
+<br>
+
+Then the few whose spirits float above the wreck of
+happiness
+<br> Are driven o'er the shoals of guilt or ocean of
+excess:
+<br> The magnet of their course is gone, or only points
+in vain
+<br> The shore to which their shivered sail shall never
+stretch again.
+<br>
+
+Then the mortal coldness of the soul like death itself comes
+down;
+<br> It cannot feel for others' woes, it dare not dream
+its own;
+<br> That heavy chill has frozen o'er the fountain of
+our tears,
+<br> And though the eye may sparkle still, 'tis where
+the ice appears.
+<br>
+
+Though wit may flash from fluent lips, and mirth distract the
+breast,
+<br> Through midnight hours that yield no more their
+former hope of rest;
+<br> 'Tis but as ivy-leaves around the
+ruined turret wreath,
+<br> All green and wildly fresh without,
+but worn and grey beneath.
+<br>
+
+Oh, could I feel as I have felt, --- or be what I have
+been,
+<br> Or weep as I could once have wept, o'er many a
+vanished scene;
+<br> As springs in deserts found seem sweet, all
+brackish though they be,
+<br> So, midst the withered waste of
+life, those tears would flow to me.
+<br>
+
+Estâncias para música[^21]
+==========================
+
+Alegria não há que o mundo dê, como a que tira. 
+<br> Quando, do
+pensamento de antes, a paixão expira 
+<br> Na triste decadência
+do sentir;
+<br> Não é na jovem face apenas o rubor
+<br>
+Que esmaia rápido, porém do pensamento a flor
+<br> Vai-se antes
+de que a própria juventude possa ir.
+<br>
+
+Alguns cuja alma boia no naufrágio da ventura 
+<br> Aos escolhos
+da culpa ou mar do excesso são levados;
+<br> O ímã da rota
+foi-se, ou só e em vão aponta a obscura
+<br> Praia que nunca
+atingirão os panos lacerados.
+<br>
+
+Então, o frio mortal da alma, como a noite desce; 
+<br> Não
+sente ela a dor de outrem, nem a sua ousa sonhar;
+<br> Toda a
+fonte do pranto, o frio a veio enregelar; 
+<br> Brilham ainda os
+olhos: é o gelo que aparece.
+<br>
+
+Dos lábios flua o espírito, e a alegria o peito invada,
+<br> Na
+meia-noite já sem esperança de repouso: 
+<br> É como a hera em
+torno de uma torre já arruinada,
+<br> Verde por fora, e fresca,
+mas por baixo cinza anoso.
+<br>
+
+Pudesse eu me sentir ou ser como em horas passadas, 
+<br> Ou
+como outrora sobre cenas idas chorar tanto; 
+<br> Parecem doces
+no deserto as fontes, se salgadas:
+<br> No ermo da vida assim
+seria para mim o pranto.
+<br>
+
+Lines Inscribed upon a CupFormed From a Skull {#lines-inscribed-upon-a-cupformed-from-a-skull .unnumbered}
+=============================================
+
+Start not --- nor deem my spirit fled;
+<br> In me behold the
+only skull,
+<br> From which, unlike a living head,
+<br>
+Whatever flows is never dull.
+<br>
+
+I lived, I loved, I quaff'd, like thee:
+<br> I died: let earth
+my bones resign;
+<br> Fill up --- thou canst not injure
+me;
+<br> The worm hath fouler lips than thine.
+<br>
+
+Better to hold the sparkling grape,
+<br> Than nurse the
+earth-worm's slimy brood;
+<br> And circle in the goblet's
+shape
+<br> The drink of gods, than reptile's food.
+<br>
+
+Where once my wit, perchance, hath shone,
+<br> In aid of others'
+let me shine;
+<br> And when, alas! our brains are
+gone,
+<br> What nobler substitute than wine?
+<br>
+
+Quaff while thou canst: another race,
+<br> When thou and thine,
+like me, are sped,
+<br> May rescue thee from earth's
+embrace,
+<br> And rhyme and revel with the dead.
+<br>
+
+Versos inscritos numa taçafeita de um crânio[^22]
+=================================================
+
+Não, não te assustes; não fugiu o meu espírito;
+<br> Vê em mim
+um crânio, o único que existe,
+<br> Do qual, muito ao contrário
+de uma fronte viva, 
+<br> Tudo aquilo que flui jamais é
+triste.
+<br>
+
+Vivi, amei, bebi, tal como tu; morri: 
+<br> Que renuncie a terra
+aos ossos meus;
+<br> Enche! Não podes injuriar-me; tem o
+verme
+<br> Lábios mais repugnantes do que os teus.
+<br>
+
+Antes do que nutrir a geração dos vermes,
+<br> Melhor conter a
+uva espumejante;
+<br> Melhor é como taça distribuir o
+néctar
+<br> Dos deuses, que a ração da larva
+rastejante.
+<br>
+
+Onde outrora brilhou, talvez, minha razão,
+<br> Para ajudar os
+outros brilhe agora eu;
+<br> Substituto haverá mais nobre do que
+o vinho 
+<br> Se o nosso cérebro já se perdeu?
+<br>
+
+Bebe enquanto puderes; quando tu e os teus 
+<br> Já tiverdes
+partido, uma outra gente
+<br> Possa te redimir da terra que
+abraçar-te,
+<br> E festeje com o morto e a própria rima
+tente.
+<br>
+
+Why not? since through life's little day
+<br> Our heads such sad
+effects produce;
+<br> Redeem'd from worms and wasting
+clay,
+<br> This chance is theirs, to be of use.
+<br>
+
+E por que não? Se as frontes geram tal tristeza
+<br> Através da
+existência --- curto dia ---,
+<br> Redimidas dos vermes e da
+argila
+<br> Ao menos possam ter alguma serventia.
+<br>
+
+The Vision of Belshazzar {#the-vision-of-belshazzar .unnumbered}
+========================
+
+The King was on his throne,
+<br> The Satraps thronged the
+hall:
+<br> A thousand bright lamps shone
+<br> O'er that
+high festival.
+<br> A thousand cups of gold,
+<br> In
+Judah deemed divine ---
+<br> Jehovah's vessels hold
+<br>
+The godless Heathen's wine.
+<br>
+
+In that same hour and hall,
+<br> The fingers of a
+hand
+<br> Came forth against the wall,
+<br> And wrote as
+if on sand:
+<br> The fingers of a man; ---
+<br> A
+solitary hand
+<br> Along the letters ran,
+<br> And
+traced them like a wand.
+<br>
+
+The monarch saw, and shook,
+<br> And bade no more
+rejoice;
+<br> All bloodless waxed his look,
+<br> And
+tremulous his voice.
+<br> 'Let the men of lore
+appear,
+<br> The wisest of the earth,
+<br> And expound
+the words of fear,
+<br> Which mar our royal mirth.'
+<br>
+
+A visão de Baltasar[^23]
+========================
+
+O rei estava no trono,
+<br> Os sátrapas no salão; 
+<br>
+Mil lâmpadas, de clarão 
+<br> Enchiam o festival. 
+<br>
+Por mil vasos de Jeová,
+<br> Todos santos em Judá 
+<br>
+--- Taças de ouro sem igual ---
+<br> Fluía o vinho
+pagão.
+<br>
+
+Na mesma hora e salão 
+<br> Os dedos de estranha
+mão
+<br> Na parede se moveram, 
+<br> Como em areia
+escreveram:
+<br> Eram dedos de varão, 
+<br> Mas,
+isolada, essa mão
+<br> A parede percorreu: 
+<br> Letras,
+qual vara, escreveu.
+<br>
+
+Viu o monarca, e tremeu, 
+<br> Não mais mandou que
+festassem;
+<br> Pôs-se exangue o rosto seu, 
+<br> Sua
+voz estremeceu. 
+<br> Os homens de mais saber
+<br> Que
+venham e expliquem logo 
+<br> Essas palavras de fogo
+
+<br> Que estragam nosso prazer.
+<br>
+
+Chaldea's seers are good,
+<br> But here they have no
+skill;
+<br> And the unknown letters stood
+<br> Untold
+and awful still.
+<br> And Babel's men of age
+<br> Are
+wise and deep in lore;
+<br> But now they were not
+sage,
+<br> They saw --- but knew no more.
+<br>
+
+A captive in the land,
+<br> A stranger and a youth,
+<br>
+He heard the king's command,
+<br> He saw that writing's
+truth.
+<br> The lamps around were bright,
+<br> The
+prophecy in view;
+<br> He read it on that night ---
+<br>
+The morrow proved it true.
+<br>
+
+'Belshazzar's grave is made.
+<br> His kingdom passed
+away,
+<br> He, in the balance weighed,
+<br> Is light and
+worthless clay;
+<br> The shroud, his robe of state,
+<br>
+His canopy the stone;
+<br> The Mede is at his gate!
+<br>
+The Persian on his throne!'
+<br> Os caldeus são bons videntes,
+
+<br> Mas nisso foram inscientes; 
+<br> E as letras, não
+traduzidas, 
+<br> Seguiram desconhecidas. 
+<br> E os
+anciãos de Babel, 
+<br> Que são de extremo saber,
+<br>
+Já não tinham conhecer, 
+<br> Viam, mas sem
+compreender.
+<br>
+
+Um cativo dessa gente,
+<br> Um jovem que era
+estrangeiro,
+<br> O mando ouviu, real e urgente,
+<br> E
+o escrito achou verdadeiro.
+<br> Das lâmpadas ao
+clarão,
+<br> Bem se via a predição.
+<br> Nessa noite ele
+a explicou,
+<br> O outro dia a comprovou:
+<br>
+
+Já vai jazer Baltasar.
+<br> Seu reino já está passado;
+
+<br> Ele é, em balança pesado, 
+<br> Leve argila
+desvaliosa;
+<br> Lage, é seu dossel sem par, 
+<br>
+Mortalha, a roupa faustosa. 
+<br> Está às portas a hoste
+adversa;
+<br> No seu trono, vejo o persa!
+<br>
+
+The prophecy of Dante {#the-prophecy-of-dante .unnumbered}
+=====================
+
+The poet Many are poets who have never penned
+<br> Their
+inspiration, and perchance the best:
+<br> They felt, and loved,
+and died, but would not lend
+<br> Their thoughts to meaner beings;
+they compressed
+<br> The god within them, and rejoined the
+stars
+<br> Unlaurelled upon earth, but far more
+blessed
+<br> Than these who are degraded by the jars
+<br>
+Of passion, and their frailties linked to fame,
+<br> Conquerors
+of high renown, but full of scars.
+<br> Many are poets but without
+the name,
+<br> For what is poesy but to create
+<br> From
+overfeeling good or ill; and aim
+<br> At an external life beyond
+our fate,
+<br> And be the new Prometheus of new
+men,
+<br> Bestowing fire from heaven, and, then, too
+late,
+<br> Finding the pleasure given repaid with
+pain,
+<br> And vultures to the heart of the
+bestower,
+<br> Who, having lavished his high gift in
+vain,
+<br> Lies chained to his lone rock by the
+sea-shore?
+<br>
+
+A profecia de Dante[^24]
+========================
+
+O poeta Muitos são poetas que jamais a inspiração 
+<br> Puseram
+por escrito --- e os melhores, talvez;
+<br> Sentiram e viveram,
+mas sem concessão 
+<br> Dos pensamentos seus a nenhum ser mais
+soez;
+<br> Comprimiram o deus em seu interior 
+<br> E
+juntaram-se aos astros, sem lauréis na terra,
+<br> Mais felizes
+porém que aqueles que o estridor 
+<br> Da paixão degenera, e
+cuja fama encerra 
+<br> Suas fragilidades, os conquistadores
+
+<br> De alto renome, mas cheios de cicatrizes.
+<br>
+Muitos são poetas, mas do nome não senhores,
+<br> Pois que é a
+poesia mais do que buscar raízes
+<br> No bem ou mal ultra-emotivos
+e querer 
+<br> Uma vida exterior além de nosso fado?
+
+<br> E novo Prometeu do novo homem ser, 
+<br> Dando o
+fogo do céu e, tudo consumado,
+<br> Vendo o prazer da oferta
+pago, mas com dor,
+<br> E abutres roendo o coração do benfeitor,
+
+<br> Que, tendo dissipado dádiva sem par, 
+<br> Jaz
+encadeado num rochedo junto ao mar?
+<br>
+
+One Struggle More, and I Am Free {#one-struggle-more-and-i-am-free .unnumbered}
+================================
+
+One struggle more, and I am free
+<br> From pangs that rend my
+heart in twain;
+<br> One last long sigh to love and
+thee,
+<br> Then back to busy life again.
+<br> It suits
+me well to mingle now
+<br> With things that never pleased
+before:
+<br> Though every joy is fled below,
+<br> What
+future grief can touch me more?
+<br>
+
+Then bring me wine, the banquet bring;
+<br> Man was not formed
+to live alone:
+<br> I'll be that light, unmeaning
+thing,
+<br> That smiles with all, and weeps with
+none.
+<br> It was not thus in days more dear,
+<br> It
+never would have been, but thou
+<br> Hast fled, and left me
+lonely here;
+<br> Thou'rt nothing, --- all are nothing
+now.
+<br>
+
+In vain my lyre would lightly breathe!
+<br> The smile that
+sorrow fain would wear
+<br> But mocks the woe that lurks
+beneath,
+<br> Like roses o'er a sepulchre.
+<br> Though
+gay companions o'er the bowl
+<br> Dispel awhile the sense of
+ill;
+<br> Though pleasure fires the maddening soul,
+<br>
+The heart --- the heart is lonely still!
+<br>
+
+Mais um esforço, e livre estou depois[^25]
+==========================================
+
+Mais um esforço, e livre estou depois
+<br> Da angústia que me
+parte o coração em dois;
+<br> Um último suspiro a ti e ao teu
+amor
+<br> E à vida ativa retornar então: 
+<br> Serve-me
+agora misturar-me sem calor 
+<br> Com seres pelos quais jamais
+tive atração:
+<br> Já que toda alegria aqui eu vi fugir,
+
+<br> Que dor futura ainda pode me atingir?
+<br>
+
+Venha a mim o banquete pois, trazei-me vinho; 
+<br> O homem,
+ninguém o fez para viver sozinho: 
+<br> Serei inexpressiva e
+frívola criatura 
+<br> Que com todos sorri, porém com ninguém
+chora.
+<br> Não foi assim em dias de ventura,
+<br> Nunca
+teria sido, mas tu agora 
+<br> Te foste, e tão sozinho me
+deixaste cá;
+<br> Nada és --- tudo não é nada já.
+<br>
+
+Em vão alegre a minha lira soaria! 
+<br> O sorriso que dê a
+melancolia
+<br> Apenas escarnece a dor nele emboscada
+
+<br> --- É igual a rosas sobre sepultura.
+<br> Embora
+companheiros, taça coroada, 
+<br> Afastem por um pouco a
+sensação da desventura, 
+<br> E o prazer incendeie a alma
+demente, 
+<br> Sozinho ainda o coração se sente!
+<br>
+
+On many a lone and lovely night
+<br> It soothed to gaze upon the
+sky;
+<br> For then I deemed the heavenly light
+<br>
+Shone sweetly on thy pensive eye:
+<br> And oft I thought at
+Cynthia's noon,
+<br> When sailing o'er the Aegean
+wave,
+<br> 'Now Thyrza gazes on that moon' ---
+<br>
+Alas, it gleamed upon her grave!
+<br>
+
+When stretched on fever's sleepless bed,
+<br> And sickness
+shrunk my throbbing veins.
+<br> ''Tis comfort still,' I faintly
+said,
+<br> 'That Thyrza cannot know my pains:'
+<br> Like
+freedom to the time-worn slave ---
+<br> A boon 'tis idle then to
+give ---
+<br> Relenting Nature vainly gave
+<br> My life,
+when Thyrza ceased to live!
+<br>
+
+My Thyrza's pledge in better days,
+<br> When love and life alike
+were new!
+<br> How different now thou meet'st my
+gaze!
+<br> How tinged by time with sorrow's hue!
+<br>
+The heart that gave itself with thee
+<br> Is silent --- ah, were
+mine as still!
+<br> Though cold as e'en the dead can
+be,
+<br> It feels, it sickens with the chill.
+<br>
+
+Thou bitter pledge! thou mournful token!
+<br> Though painful,
+welcome to my breast!
+<br> Still, still, preserve that love
+unbroken,
+<br> Or break the heart to which thou'art
+pressed!
+<br> Time tempers love, but not removes,
+<br>
+More hallowed when its hope is fled:
+<br> Oh! what are thousand
+living loves
+<br> To that which cannot quit the dead?
+<br>
+
+Em muita noite solitária e fascinante
+<br> Confortava-me olhar o
+céu faiscante;
+<br> Achava eu que a luz celestial, então,
+
+<br> Brilhava doce nesse pensativo olhar 
+<br> E
+acreditava --- Cíntia no auge do clarão ---,
+<br> Quando na onda
+do Egeu a velejar:
+<br> Agora Tirza olha aquela lua
+<br>
+--- Ai, ela fulgurava sobre a tumba tua!
+<br>
+
+No leito sem dormir da febre eu me estendia
+<br> E as veias a
+pulsar a doença contraía:
+<br> Inda é um conforto --- eu me
+dizia debilmente ---
+<br> "Que não possa Tirza conhecer-me as
+dores." 
+<br> A liberdade será dada inutilmente 
+<br> Ao
+servo a quem cansou o tempo em seus rigores:
+<br> Assim a
+Natureza em vão deixou, condoída, 
+<br> Que eu continuasse vivo
+--- e Tirza já sem vida!
+<br>
+
+Penhor de minha Tirza em época melhor, 
+<br> Quando eram jovens
+nossa vida e nosso amor! 
+<br> Que diferente hoje te vê o meu
+olhar! 
+<br> Tingiu-te o tempo com as cores da
+tristura!
+<br> Como te deste, o coração que vieste a
+dar
+<br> Está silente --- ah! o meu tivesse tal
+quietura!
+<br> Embora frio como os mortos podem
+ser,
+<br> Bem que ele sente, e vem de frio a adoecer.
+<br>
+
+Amarga prenda, tu! lembrança dolorosa! 
+<br> És bem-vinda a meu
+peito, embora assim penosa!
+<br> Conserva sem cessar aquele amor
+constante, 
+<br> Oh! rompe o coração ao qual és estreitada!
+
+<br> O amor, modera-o o tempo, não o faz distante,
+
+<br> Mais santo é ele já a esperança terminada: 
+<br>
+Oh! amor múltiplo às que vivem pouca importa,
+<br> Junto ao que
+não consegue abandonar a morta.
+<br>
+
+Intensities of Blue {#intensities-of-blue .unnumbered}
+===================
+
+
+<br> Oh! ye, who make the fortunes of all books!
+<br>
+Benigh Ceruleans of the second sex!
+<br> Who advertise new poems
+by your looks,
+<br> Your 'imprimatur' will ye not
+annex?
+<br> What! must I go to the oblivious cooks,
+<br>
+Those Cornish plunderers of Parnassian wrecks?
+<br> Ah! must I
+then the only minstrel be,
+<br> Proscribed from tasting your
+Castalian tea?
+<br>
+
+
+<br> What! can I prove 'a lion' then no more?
+<br> A
+ball-room bard, a foolscap, hot-press darling?
+<br> To bear the
+compliments of man a bore,
+<br> And sigh, 'I can't get out,'
+like Yorick's starling;
+<br> Why then I'll swear, as poet Wordy
+swore,
+<br> (Because the world won't read him, always
+snarling)
+<br> That taste is gone, that fame is but a
+lottery,
+<br> Drawn by the blue-coat misses of a
+coterie.
+<br>
+
+Os graus do azul[^26]
+=====================
+
+
+<br> Vós que a sorte dos livros todos resolveis,
+<br>
+
+<br> Que anunciais os nossos poemas com o olhar, 
+<br>
+Acrescentar vosso "imprimatur" não quereis? 
+<br> Quê! Devo os
+esquecidos cucas procurar, 
+<br> Os córnicos que pilham ruínas
+imortais? 
+<br> Devo ser eu o único menestrel, que já
+
+<br> Proibistes de tomar vosso castálio chá?
+<br>
+
+
+<br> Quê! não posso mostrar-me nunca mais um "leão"?
+
+<br> Um barrete de bobo, um bardo de salão, 
+<br> Para
+aguentar os rapapés de algum pateta,
+<br> Gemer como a ave de
+Yorick, "não posso sair", 
+<br> Ou então jurarei, Wordy assim
+fez, o poeta, 
+<br> (O mundo não vai lê-lo, está sempre a
+rosnir),
+<br> Já não há gosto, e a fama é dada em loteria
+
+<br> Por moças de casaco azul em parceria.
+<br>
+
+
+<br> Oh! 'darkly, deeply, beautifully blue,'
+<br> As
+some one somewhere sings about the sky,
+<br> And I, ye learned
+ladies, say of you;
+<br> They say your stockings are so ---
+(Heaven knows why,
+<br> I have examined few pair of that
+hue);
+<br> Blue as the garters which serenely lie
+<br>
+Round the Patrician left-legs, which adorn
+<br> The festal
+midnight, and the levée morn.
+<br>
+
+
+<br> Yet some of you are most seraphic creatures
+---
+<br> But times are altered since, a rhyming
+lover,
+<br> You read my stanzas, and I read your
+features:
+<br> And --- but no matter, all those things are
+over;
+<br> Still I have no dislike to learned
+natures,
+<br> For sometimes such a world of virtues
+cover;
+<br> I knew one woman of that purple school,
+
+<br> The loveliest, chastest, best, but --- quite a
+fool.
+<br>
+
+
+<br> Humboldt, 'the first of travellers,' but not
+<br>
+The last, if late accounts be accurate, 
+<br> Invented, by some
+name I have forgot,
+<br> As well as the sublime discovery's
+date,
+<br> An airy instrument, with which he sought
+<br>
+To ascertain the atmospheric state, 
+<br> By measuring 'the
+*intensity of blue*:'
+<br> Oh, Lady Daphne! let me measure
+you!
+<br>
+
+
+<br> Oh! "Escura, forte, belamente azul" --- é o que
+
+<br> Nalgum lugar alguém cantou do firmamento, 
+<br> E
+de vós, doutas damas, coisa igual sustento;
+<br> Dizem que
+vossas meias são azuis (por quê, 
+<br> Sabe o céu, poucos pares
+vi eu dessa cor); 
+<br> Azuis tais como as jarreteiras, que ao
+dispor
+<br> Da perna esquerda dos senhores, ornarão
+
+<br> A festa à noite ou a manhã de recepção.
+<br>
+
+
+<br> Muitas de vós, como criatura, é um serafim,
+<br>
+Mas foi-se o tempo em que, de rimas amador,
+<br> Líeis minhas
+estâncias, e eu o vosso rosto: 
+<br> Mas não importa, que isso
+tudo teve fim; 
+<br> Porém de sábias naturezas não
+desgosto,
+<br> Que às vezes cobrem virtuosíssimo
+primor;
+<br> Conheci uma mulher da escola rebuscada,
+
+<br> Linda, casta, a melhor --- mas tola rematada.
+<br>
+
+
+<br> Humboldt, esse "primeiro dos viajantes", não
+<br>
+O último, se recente informe é sem senão,
+<br> Inventou, e lhe
+deu um nome que olvidei
+<br> Com a data dessa descoberta assim
+de lei,
+<br> Um aéreo instrumento, para procurar
+<br> Do
+estado da atmosfera se certificar,
+<br> Medindo os graus do
+azul, tal como ele apareça.
+<br> 
+<br>
+
+Sonnet to George the Fourth {#sonnet-to-george-the-fourth .unnumbered}
+===========================
+
+To be the father of the fatherless,
+<br> To stretch the hand
+from the throne's height, and raise
+<br> *His* offspring, who
+expired in other days
+<br> To make thy sire's sway by a kingdom
+less, ---
+<br> *This* is to be a monarch, and
+repress
+<br> Envy into unutterable praise.
+<br> Dismiss
+thy guard, and trust thee to such traits,
+<br> For who would
+lift a hand, except to bless?
+<br> Were it not easy, sir, and
+is't not sweet
+<br> To make thyself beloved? and to
+be
+<br> Omnipotent by mercy's means? for thus
+<br> Thy
+sovereignty would grow but more complete:
+<br> A despot thou, and
+yet thy people free,
+<br> And by the heart, not hand, enslaving
+us.
+<br>
+
+Soneto a George IV[^27]
+=======================
+
+Fazer-se o pai dos órfãos, estender a mão
+<br> Do alto do trono
+e erguer a prole do que um dia
+<br> Morreu para privar teu pai
+da monarquia
+<br> --- *Isto* é ser rei deveras, pôr em
+defecção
+<br>
+
+A inveja e substituí-la pela admiração.
+<br> Despede a tua
+guarda, e em tais ações confia,
+<br> Pois só para abençoar
+qualquer mão se ergueria.
+<br> Senhor, seria fácil, não é doce
+então
+<br>
+
+Fazer-se amado pelos súditos? e ser 
+<br> Onipotente pela força
+da indulgência,
+<br> Ser todo-poderoso, mas pela
+clemência?
+<br>
+
+E mais completo se faria o teu poder:
+<br> Teria o povo um
+déspota, mas sem corrente,
+<br> Escravizado pelo coração
+somente. 
+<br>
+
+Lines to Mr. Hodgson {#lines-to-mr.-hodgson .unnumbered}
+====================
+
+Huzza! Hodgson, we are going,
+<br> Our embargo's off at
+last;
+<br> Favourable breezes blowing
+<br> Bend the
+canvas o'er the mast.
+<br> From aloft the signal's
+streaming,
+<br> Hark! the farewell gun is fired;
+<br>
+Women screeching, tars blaspheming,
+<br> Tell us that our time's
+expired. 
+<br> Here's a rascal 
+<br> Come to task
+all,
+<br> Prying from the Custom-house;
+<br> Trunks
+unpacking 
+<br> Cases cracking,
+<br> Not a corner for a
+mouse
+<br> 'Scapes unsearched amid the racket,
+<br> Ere
+we sail on board the Packet.
+<br>
+
+Versos a Mr. Hodgson[^28]
+=========================
+
+Viva! Hodgson, estamos indo,
+<br> Nosso embargo afinal foi
+levantado;
+<br> Um vento afla bem-vindo,
+<br> No mastro
+o pano já está enfunado.
+<br> Lá em cima o sinal vêmo-lo
+dado,
+<br> Ouve! o canhão do adeus foi disparado.
+<br>
+Mulheres a gritar, marujos blasfemando,
+<br> Mostram que nosso
+tempo está esgotado.
+<br> Eis senão quando
+<br> Um
+maroto pela aduana enviado 
+<br> Vem para, inspecionando,
+
+<br> Chamar todos à fala:
+<br> Desfaz-se, é aberta
+muita mala;
+<br> Nem mesmo o esconderijo de algum
+rato
+<br> Escapa da revista a fio,
+<br> Em meio a tal
+espalhafato,
+<br> Antes que velejemos no navio.
+<br>
+
+Now our boatmen quit their mooring,
+<br> And all hands must ply
+the oar;
+<br> Baggage from the quay is lowering,
+<br>
+We're impatient, push from shore.
+<br> 'Have a care! that case
+holds liquor ---
+<br> Stop the boat --- I'm sick --- oh Lord!'
+
+<br> 'Sick, ma'am, damme, you'll be sicker,
+<br> Ere
+you've been an hour on board.' 
+<br> Thus are screaming
+
+<br> Men and women,
+<br> Gemmen, ladies, servants,
+Jacks;
+<br> Here entangling,
+<br> All are
+wrangling,
+<br> Stuck together close as wax. ---
+<br>
+Such the general noise and racket,
+<br> Ere we reach the Lisbon
+Packet.
+<br>
+
+Now we've reached her, lo! the Captain,
+<br> Gallant Kidd,
+commands the crew;
+<br> Passengers their berths are clapt
+in,
+<br> Some to grumble, some to spew.
+<br> 'Hey day!
+call you that a cabin?
+<br> Why 'tis hardly three feet
+square;
+<br> Not enough to stow Queen Mab in ---
+<br>
+Who the deuce can harbour there?' 
+<br> 'Who, sir? plenty
+---
+<br> Nobles twenty
+<br> Did at once my vessel fill.'
+---
+<br> 'Did they? Jesus, 
+<br> How you squeeze
+us!
+<br> Would to God they did so still:
+<br> Then I'd
+scape the heat and racket
+<br> Of the good ship, Lisbon
+Packet.'
+<br>
+
+Nossos barqueiros saem da amarração,
+<br> Todos a manejar o
+remo:
+<br> As malas já do cais descendo estão;
+<br>
+Partimos, impacientes ao extremo.
+<br> Cuidado! que essa caixa
+tem bebida.
+<br> --- Parem o bote! --- Oh Deus! --- Estou
+enjoada!
+<br> Madame, enjoada? Estará mais nauseada
+<br>
+Depois de uma hora a bordo decorrida!
+<br> Assim estão fazendo
+assuada
+<br> Mulheres e homens, cavalheiros,
+<br>
+Senhoras, criados, marinheiros;
+<br> Ali se
+confundindo,
+<br> Todos vão discutindo,
+<br> Grudados
+entre si, toda e qualquer pessoa.
+<br> Rumor geral, esta é a
+algazarra que ressoa
+<br> Até chegarmos ao Paquete de
+Lisboa.
+<br>
+
+Agora que chegamos, vede, o capitão:
+<br> Comanda o bravo Kidd
+nossa tripulação.
+<br> Os passageiros põem-se nos seus
+leitos,
+<br> Ou para resmungar ou para vomitar.
+<br>
+"Caramba! De cabine isto chamar?
+<br> Mal tem três pés
+quadrados,
+<br> Para a Rainha Mab já bem estreitos,
+<br>
+Quem diabo pode ali dar com os costados?"
+<br> "Ora, senhor!
+Pois muita gente!
+<br> Vinte nobres, certamente,
+<br>
+Encheram o navio alguma vez."
+<br> "Encheram? Por Jesus, que
+coisa linda!
+<br> Só para nós o aperto é que se
+fez!
+<br> Quisera Deus eles o enchessem inda!
+<br> Nem o
+calor nem a algazarra que ressoa 
+<br> Me veriam do bom Paquete
+de Lisboa.
+<br>
+
+Fletcher! Murray! Bob! where are you?
+<br> Stretched along the
+deck like logs ---
+<br> Bear a hand, you jolly tar,
+you!
+<br> Here's a rope's end for the dogs.
+<br>
+Hobhouse muttering fearful curses,
+<br> As the hatchway down he
+rolls,
+<br> Now his breakfast, now his verses,
+<br>
+Vomits forth --- and damns our souls.
+<br> 'Here's a stanza
+
+<br>On Braganza ---
+<br> Help!' --- A couplet?' ---
+'No, a cup 
+<br> Of warm water --- '
+<br>'What's the
+matter?'
+<br> 'Zounds! my liver's coming up;
+<br> I
+shall not survive the racket
+<br> Of this brutal Lisbon
+Packet.'
+<br>
+
+Now at length we're off for Turkey,
+<br> Lord knows when we
+shall come back!
+<br> Breezes foul and tempests
+murky
+<br> May unship us in a crack,
+<br> But, since
+life at most a jest is,
+<br> As philosophers allow,
+<br>
+Still to laugh by far the best is,
+<br> Then laugh on --- as I
+do now.
+<br> Laugh at all things,
+<br> Great and small
+things,
+<br> Sick or well, at sea or shore; 
+<br> While
+we're quaffing, 
+<br> Let's have laughing ---
+<br> Who
+the devil cares for more? 
+<br> Some good wine! and who would
+lack it,
+<br> Ev'n on board the Lisbon Packet?
+<br>
+
+Ó Fletcher! Murray! Bob! onde é que estais?
+<br> Deitados como
+toras no convés!
+<br> Ajuda aqui, marujo, dos
+joviais!
+<br> Uma ponta de cabo para os lorpas vês.
+<br>
+Hobhouse terríveis pragas vai rogando
+<br> Ao rolar escotilha
+abaixo:
+<br> Ou desjejum ou versos vomitando,
+<br>
+Condena as nossas almas a demônio e tacho.
+<br> Eis uma
+estança
+<br> Sobre Bragança.
+<br> Dai-me! Um dístico?
+Não, quero uma taça
+<br> De água quente.
+<br> "Que é que
+se passa?"
+<br> Meu fígado está subindo, gente! 
+<br>
+Morro antes da algazarra que ressoa 
+<br> Neste brutal Paquete
+de Lisboa.
+<br>
+
+Enfim vamos no mar rumo à Turquia,
+<br> Sabe Deus quando iremos
+regressar!
+<br> Ventos maus e procela a mais
+sombria
+<br> Podem fazer-nos num instante soçobrar.
+<br>
+Mas a vida é no máximo um gracejo
+<br> --- Entre os filósofos
+não há discordes ---
+<br> Rir é o melhor, havendo o
+ensejo:
+<br> Ride então qual eu rio, estai
+concordes.
+<br> Ride de todas as coisas,
+<br> Das
+grandes e pequenas coisas, 
+<br> Ou bons ou doentes, quer em
+terra, quer no mar;
+<br> Enquanto estamos a entornar,
+
+<br> Ponhamo-nos a rir. 
+<br> Quem diabo vai com mais
+se preocupar? 
+<br> --- Um vinho bom! Quem não o iria consumir,
+
+<br> Mesmo se a bordo do Paquete de Lisboa?
+<br>
+
+Epistle to Augusta {#epistle-to-augusta .unnumbered}
+==================
+
+
+<br> My sister! my sweet sister! if a name 
+<br> Dearer
+and purer were, it should be thine.
+<br> Mountains and seas
+divide us, but I claim 
+<br> No tears, but tenderness to answer
+mine: 
+<br> Go where I will, to me thou art the same
+---
+<br> A loved regret which I would not resign. 
+<br>
+There yet are two things in my destiny, ---
+<br> A world to roam
+through, and a home with thee.
+<br>
+
+
+<br> The first were nothing --- had I still the last,
+
+<br> It were the haven of my happiness; 
+<br> But other
+claims and other ties thou hast,
+<br> And mine is not the wish
+to make them less. 
+<br> A strange doom is thy father's son's,
+and past 
+<br> Recalling, as it lies beyond redress;
+
+<br> Reversed for him our grandsire's fate of yore,
+---
+<br> He had no rest at sea, nor I on shore.
+<br>
+
+Carta a Augusta[^29]
+====================
+
+
+<br> Minha irmã! Minha amada irmã! Se um nome tanto
+
+<br> Mais caro e puro houvesse, ele seria o teu. 
+<br>
+Serras e mares nos separam, porém pranto 
+<br> Não quero, e sim
+afeto que responda ao meu:
+<br> Aonde eu vá, és a mesma para
+mim, portanto 
+<br> Uma saudade amada, a qual não deixo
+eu.
+<br> Em meu destino, há duas coisas que
+realçar:
+<br> --- Um mundo para percorrer, contigo um
+lar.
+<br>
+
+
+<br> Nada seria o mundo, se eu tivesse o lar, 
+<br> Se
+ele me fosse o porto da felicidade; 
+<br> Mas outros laços tens,
+e o que reivindicar,
+<br> E para mudar isso falha-me a vontade.
+
+<br> Do filho de teu pai a sina é singular, 
+<br> E
+irrevocável, porque sem tranquilidade.
+<br> Oposto é ao do avô o
+que meu fado encerra:
+<br> .
+<br>
+
+
+<br> If my inheritance of storms hath been 
+<br> In
+other elements, and on the rocks 
+<br> Of perils, overlooked or
+unforeseen, 
+<br> I have sustained my share of worldly
+shocks,
+<br> The fault was mine; nor do I seek to screen
+
+<br> My errors with defensive paradox; 
+<br> I have
+been cunning in mine overthrow,
+<br> The careful pilot of my
+proper woe.
+<br>
+
+
+<br> Mine were my faults, and mine be their
+reward.
+<br> My whole life was a contest, since the day
+
+<br> That gave me being, gave me that which marred
+<br>
+The gift, --- a fate, or will, that walked astray;
+<br> And I at
+times have found the struggle hard, 
+<br> And thought of shaking
+off my bonds of clay: 
+<br> But now I fain would for a time
+survive,
+<br> If but to see what next can well
+arrive.
+<br>
+
+
+<br> Kingdoms and empires in my little day 
+<br> I have
+outlived, and yet I am not old; 
+<br> And when I look on this,
+the petty spray
+<br> Of my own years of trouble, which have
+rolled
+<br> Like a wild bay of breakers, melts away:
+
+<br> Something --- I know not what --- does still
+uphold
+<br> A spirit of slight patience; --- not in
+vain,
+<br> Even for its own sake, do we purchase
+pain.
+<br>
+
+
+<br> Minha herança de tempestades, se é enfrentada
+<br>
+Em outros elementos; se nos penhascais
+<br> Cheios de ameaça
+repentina ou desprezada
+<br> Minha parte aguentei de choques
+terrenais,
+<br> Foi minha a falta; nem tento esconder em
+nada
+<br> Os erros meus com os paradoxos mais parciais;
+
+<br> Eu tenho sido esperto em minha destruição, 
+<br>
+Piloto cuidadoso de última aflição.
+<br>
+
+
+<br> Minhas as faltas, seja minha a punição.
+<br> A
+vida para mim foi uma luta, desde o dia
+<br> Que me deu ser, e
+trouxe junto a frustração
+<br> Do dom --- a sina ou o querer de
+errada via;
+<br> Às vezes achei árdua a luta, e sem
+perdão,
+<br> E meus laços de argila, eu quase que os
+rompia;
+<br> Difícil me seria agora inda viver,
+<br> Não
+fosse ter em vista o que pode ocorrer.
+<br>
+
+
+<br> A reinos como a impérios, em meu dia breve 
+<br>
+Sobrevivi, e não sou velho no entretanto;
+<br> Se penso nisso,
+funde-se o borrifo leve
+<br> De meus anos difíceis, a rolarem
+tanto
+<br> Como ondas bravas, que a enseada às pedras
+leve;
+<br> Algo --- não sei o que --- sustém-me ainda,
+entanto,
+<br> Uma ligeira paciência; --- a
+aquisição
+<br> Da dor, mesmo que só por ela, nunca é em
+vão.
+<br>
+
+
+<br> Perhaps the workings of defiance stir 
+<br> Within
+me --- or perhaps a cold despair, 
+<br> Brought on when ills
+habitually recur, ---
+<br> Perhaps a kinder clime, or purer air,
+
+<br> (For even to this may change of soul refer,
+<br>
+And with light armour we may learn to bear,) 
+<br> Have taught
+me a strange quiet, which was not
+<br> The chief companion of a
+calmer lot.
+<br>
+
+
+<br> I feel almost at times as I have felt 
+<br> In
+happy childhood; trees, and flowers, and brooks, 
+<br> Which do
+remember me of where I dwelt 
+<br> Ere my young mind was
+sacrificed to books,
+<br> Come as of yore upon me, and can melt
+
+<br> My heart with recognition of their looks;
+<br> And
+even at moments I could think I see
+<br> Some living things to
+love --- but none like thee.
+<br>
+
+
+<br> Here are the Alpine landscapes which create 
+<br>
+A fund for contemplation; --- to admire 
+<br> Is a brief feeling
+of a trivial date; 
+<br> But something worthier do such scenes
+inspire:
+<br> Here to be lonely is not desolate, 
+<br>
+For much I view which I could most desire, 
+<br> And, above all,
+a lake I can behold
+<br> Lovelier, not dearer, than our own of
+old.
+<br>
+
+
+<br> Talvez dentro de mim se mova o desafio, 
+<br> Ou,
+vindo quando os males vivem a voltar,
+<br> Esteja a se agitar um
+desespero frio
+<br> --- Talvez mais doce clima, ou mais límpido
+ar 
+<br> (Das voltas da alma pode aí estar o fio, 
+<br>
+Com leve arnês é de aprendê-lo a suportar),
+<br> Me ensinaram
+quietude estranha, que não era 
+<br> De um fado mais tranquilo a
+companheira vera.
+<br>
+
+
+<br> Às vezes quase sinto como eu me sentia
+<br> Na
+infância; árvores, flores, riachos a correr,
+<br> Que me
+relembram do lugar onde eu vivia
+<br> Antes de em livros minha
+mente se perder,
+<br> Afluem sobre mim: recordo tal
+magia,
+<br> A qual meu coração bem pode comover;
+<br>
+Pus-me a pensar às vezes que diviso aqui
+<br> Criaturas para
+amar --- nenhuma igual a ti.
+<br>
+
+
+<br> As paisagens alpinas, ei-las, a criar 
+<br> Um
+fundo para contemplar-se: a admiração
+<br> É um rápido sentir,
+de duração vulgar;
+<br> Mas são de algo melhor, tais cenas,
+ocasião:
+<br> Aqui, estar só não é desconsolado
+estar;
+<br> Muito de desejável colhe-me a visão,
+<br>
+,
+<br> Mais lindo, caro não, que o nosso vem a ser.
+<br>
+
+
+<br> Oh that thou wert but with me! --- but I grow
+
+<br> The fool of my own wishes, and forget 
+<br> The
+solitude which I have vaunted so 
+<br> Has lost its praise in
+this but one regret;
+<br> There may be others which I less may
+show; ---
+<br> I am not of the plaintive mood, and yet
+
+<br> I feel an ebb in my philosophy,
+<br> And the tide
+rising in my altered eye.
+<br>
+
+
+<br> I did remind thee of our own dear Lake, 
+<br> By
+the old Hall which may be mine no more.
+<br> Leman's is fair;
+but think not I forsake
+<br> The sweet remembrance of a dearer
+shore: 
+<br> Sad havoc Time must with my memory make,
+
+<br> Ere *that* or *thou* can fade these eyes
+before;
+<br> Though, like all things which I have loved, they
+are 
+<br> Resigned for ever, or divided far.
+<br>
+
+
+<br> The world is all before me; I but ask
+<br> Of
+Nature that with which she will comply ---
+<br> It is but in her
+summer's sun to bask,
+<br> To mingle with the quiet of her sky,
+
+<br> To see her gentle face without a mask,
+<br> And
+never gaze on it with apathy. 
+<br> She was my early friend, and
+now shall be
+<br> My sister --- till I look again on
+thee.
+<br>
+
+
+<br> Se estivesses comigo! --- eu torno-me no
+entanto
+<br> O ludíbrio de meus desejos, a me esqueço
+
+<br> De que essa própria solidão que louvei tanto
+<br>
+Neste único pesar perdeu todo o seu preço, 
+<br> Pode haver ---
+mostro-o menos --- qualquer outro pranto;
+<br> --- Não sou dos
+de ânimo queixoso, mas pareço 
+<br> Minha filosofia na vazante
+aluir 
+<br> E ter no olho alterado a maré, a subir.
+<br>
+
+
+<br> Eu recordei-te nosso lago tão querido 
+<br> Junto
+à velha mansão que poderei perder.
+<br> Belo é o Leman; não
+cuides haja eu preterido
+<br> Na lembrança outras margens, ou no
+bem-querer.
+<br> Minha memória, o tempo já a terá destruído
+
+<br> Antes de *aquele*, ou *tu*, à vista me
+esvaecer,
+<br> Embora, como todos já por mim
+amados,
+<br> Estejais longe, ou para sempre
+renunciados.
+<br>
+
+
+<br> O mundo inteiro está ante mim; à natureza 
+<br> Só
+peço aquilo com que irá condescender: 
+<br> --- Dar-me um sol de
+verão que poupe da frieza,
+<br> Misturar-me com a calma de seu
+céu, e ver
+<br> Sem máscara o seu rosto cheio de
+brandeza,
+<br> Nunca fitá-lo com apatia. Vinha a
+ser
+<br> Ela a minha primeira amiga e será agora
+<br> A
+minha irmã --- até eu ver-te, alguma hora.
+<br>
+
+
+<br> I can reduce all feelings but this one;
+<br> And
+that I would not; --- for at length I see
+<br> Such scenes as
+those wherein my life begun. 
+<br> The earliest --- even the
+only paths for me ---
+<br> Had I but sooner learnt the crowd to
+shun,
+<br> I had been better than I now can be; 
+<br>
+The passions which have torn me would have slept;
+<br> I had not
+suffered, and *thou* hadst not wept.
+<br>
+
+
+<br> With false Ambition what had I to do? 
+<br> Little
+with Love, and least of all with Fame;
+<br> And yet they came
+unsought, and with me grew, 
+<br> And made me all which they can
+make --- a name. 
+<br> Yet this was not the end I did pursue;
+
+<br> Surely I once beheld a nobler aim. 
+<br> But all
+is over --- I am one the more
+<br> To baffled millions which
+have gone before.
+<br>
+
+
+<br> And for the future, this world's future may
+<br>
+From me demand but little of my rare; 
+<br> I have outlived
+myself by many a day; 
+<br> Having survived so many things that
+were;
+<br> My years have been no slumber, but the
+prey
+<br> Of seaseless vigils; for I had the share 
+<br>
+Of life which might have filled a century,
+<br> Before its
+fourth in time had passed me by.
+<br>
+
+
+<br> Os sentimentos posso frear, mas esse não;
+<br> Nem
+eu o quereria; --- vejo finalmente
+<br> Cenas como as da vida em
+sua iniciação.
+<br> As mais antigas --- minhas trilhas,
+tão-somente ---
+<br> Mais cedo houvesse eu evitado a
+multidão,
+<br> Melhor teria eu sido do que no
+presente;
+<br> Lacerantes paixões teriam sossegado;
+<br>
+Sofrido não teria *eu*, nem *tu* chorado.
+<br>
+
+
+<br> Com a falsa ambição que tinha eu a fazer?
+<br>
+Pouco com o amor, menos de tudo com o renome;
+<br> Mas vieram
+sem procura, e entraram de crescer
+<br> E me fizeram quanto
+podem --- dar um nome.
+<br> Mas tal não era a meta para eu
+escolher;
+<br> De alvo mais nobre outrora eu tive a nobre
+fome.
+<br> Mas tudo terminou: --- sou um a mais,
+somente,
+<br> Entre os milhões frustrados que partiram à
+frente.
+<br>
+
+
+<br> Quanto ao futuro, o deste mundo poderia 
+<br>
+Demandar-me somente mínima atenção; 
+<br> A mim próprio
+sobrevivi por muito dia; 
+<br> Perduro, e tantas coisas, tantas,
+já não são;
+<br> Meu tempo não foi sono, sob a
+tirania
+<br> De incessantes vigílias: tive eu a
+porção
+<br> De vida que podia a um séc'lo ter
+enchido
+<br> Antes que a quarta parte houvesse me
+servido.
+<br>
+
+
+<br> And for the remnant which may be to come 
+<br> I
+am content; and for the past I feel 
+<br> Not thankless, --- for
+within the crowded sum
+<br> Of struggles, happiness at times
+would steal,
+<br> And for the present, I would not benumb
+
+<br> My feelings farther. --- Nor shall I conceal
+<br>
+That with all this I still can look around,
+<br> And worshin
+Nature with a thought profound.
+<br>
+
+
+<br> For thee, my own sweet sister, in thy heart 
+<br>
+I know myself secure, as thou in mine; 
+<br> We were and are ---
+I am, even as thou art ---
+<br> Beings who ne'er each other can
+resign;
+<br> It is the same, together or apart, 
+<br>
+From life's commencement to its slow decline
+<br> We are
+entwined --- let death come slow or fast, 
+<br> The tie which
+bound the first endures the last!
+<br>
+
+
+<br> Quanto ao restante que me pode ainda vir,
+<br>
+Estou contente; e sinto eu, quanto ao passado,
+<br> Alguma
+gratidão; pois no denso montante
+<br> De lutas, a ventura tem de
+leve andado;
+<br> Quanto ao presente, eu não queria mais um
+instante
+<br> Dormir meus sentimentos. --- Mostro de bom
+grado
+<br> Que eu posso, com tudo isso, ainda em torno
+olhar,
+<br> E com um pensar profundo a natureza amar.
+<br>
+
+
+<br> Minha querida irmã, sinto-me resguardado,
+<br> Tal
+como tu no meu, dentro em teu coração; 
+<br> Fomos e somos ---
+sou, e assim és por teu lado,
+<br> Seres que não desistem um do
+outro, oh não; 
+<br> É o mesmo, juntos ou um do outro separado:
+
+<br> Desde o início da vida à sua descensão, 
+<br>
+Unidos --- venha a morte, em breve ou devagar,
+<br> Nosso
+primeiro liame é o último a findar!
+<br>
+
+Sonnet to Lake Leman {#sonnet-to-lake-leman .unnumbered}
+====================
+
+Rousseau --- Voltaire --- our Gibbon --- and De Staël
+<br>
+Leman! these names are worthy of thy shore,
+<br> Thy shore of
+names like these! wert thou no more,
+<br> Their memory thy
+remembrance would recall:
+<br> To them thy banks were lovely as
+to all,
+<br> But they have made them lovelier, for the
+lore
+<br> Of mighty minds doth hallow in the core
+<br>
+Of human hearts the ruin of a wall
+<br> Where dwelt the wise and
+wondrous; but by *thee,*
+<br> How much more, Lake of Beauty! do we
+feel,
+<br> In sweetly gliding o'er thy crystal sea,
+<br>
+The wild glow of that not ungentle zeal,
+<br> Which of the heirs
+of immortality 
+<br> Is proud, and makes the breath of glory
+real!
+<br>
+
+Soneto ao Lago Leman[^30]
+=========================
+
+Rousseau, Voltaire, o nosso Gibbon, e De Staël: 
+<br> Leman!
+tais nomes, dignos são dessa ribeira, 
+<br> E esta de nomes
+tais! Passando tu, afinal, 
+<br> Lembrá-los nos traria tua
+memória inteira;
+<br>
+
+Tua borda os encantava, e aos homens em geral,
+<br> Mas eles a
+tornaram inda mais fagueira, 
+<br> Porquanto santifica, a mente
+magistral, 
+<br> Nos corações a queda da parede, em
+poeira,
+<br>
+
+Da morada dos sábios e maravilhosos; 
+<br> Mas junto a ti, lago
+formoso entre os formosos!
+<br> Sentimos a planar por sobre o
+teu cristal
+<br>
+
+O veemente esplendor de um entusiasmo real,
+<br> Que, ufano dos
+herdeiros da imortalidade, 
+<br> Faz da respiração da glória uma
+verdade!
+<br>
+
+Lines on Hearing thatLady Byron Was Ill {#lines-on-hearing-thatlady-byron-was-ill .unnumbered}
+=======================================
+
+And thou wert sad --- yet I was not with thee;
+<br> And thou
+wert sick, and yet I was not near;
+<br> Methought that joy and
+health alone could be
+<br> Where I was *not* --- and pain and
+sorrow here!
+<br> And is it thus? --- it is as I
+foretold,
+<br> And shall be more so; for the mind
+recoils
+<br> Upon itself, and the wrecked heart lies
+cold,
+<br> While heaviness collects the shattered
+spoils.
+<br> It is not in the storm nor in the
+strife
+<br> We feel benumbed, and wish to be no more,
+<br>
+But in the after-silence on the shore,
+<br> When all is lost,
+except a little life.
+<br>
+
+Versos escritos ao ouvir queLady Byron estava doente[^31]
+=========================================================
+
+Estavas triste --- mas contigo eu não me achava; 
+<br> E estavas
+doente, mas eu não estava aí; 
+<br> Só havia júbilo e saúde ---
+eu o pensava ---
+<br> Longe de mim --- tristeza e dor somente
+aqui!
+<br> E é assim? --- Como eu predisse, e será sempre
+pior:
+<br> A alma recua sobre si, e o coração 
+<br> Jaz
+naufragado e frio, enquanto a lentidão
+<br> Os despojos partidos
+reúne sem calor. 
+<br> Não sentimos torpor em luta ou
+tempestade,
+<br> E, a vontade de ser, nelas não é
+perdida,
+<br> Porém no pós-silêncio que já a praia
+invade
+<br> Quando se perdeu tudo, exceto a simples
+vida.
+<br>
+
+I am too well avenged! --- but 'twas my right;
+<br> Whate'er my
+sins might be, *thou* wert not sent
+<br> To be the Nemesis who
+should requite ---
+<br> Nor did Heaven choose so near an
+instrument.
+<br> Mercy is for the merciful! --- if
+thou
+<br> Hast been of such, 'twill be accorded
+now.
+<br> Thy nights are banished from the realms of sleep.
+---
+<br> Yes! they may flatter thee, but thou shalt
+feel
+<br> A hollow agony which will not heal,
+<br> For
+thou art pillowed on a course too deep;
+<br> Thou hast sown in
+my sorrow, and must reap
+<br>
+
+The bitter harvest in a woe as real!
+<br> I have had many foes,
+but none like thee;
+<br> For 'gainst the rest myself I could
+defend,
+<br> And be avenged, or turn them into
+friend;
+<br> But thou in safe implacability
+<br> Hadst
+nought to dread --- in thy own weakness shielded,
+<br> And in my
+love, which hath but too much yielded,
+<br> And spared, for thy
+sake, some I should not spare;
+<br> And thus upon the world ---
+trust in thy truth,
+<br> And the wild fame of my ungoverned
+youth ---
+<br> On things that were not, and on things that are
+---
+<br> Even upon such a basis hast thou built
+<br> A
+monument, whose cement hath been guilt!
+<br> The moral
+Clytemnestra of thy lord,
+<br> And hewed down, with an
+unsuspected sword,
+<br> Fame, peace, and hope --- and all the
+better life
+<br> Which, but for this cold treason of thy
+heart,
+<br> Might still have risen from out the grave of
+strife,
+<br> And found a nobler duty than to part. 
+<br>
+But of thy virtues didst thou make a vice,
+<br> Trafficking with
+them in a purpose cold,
+<br>
+
+Estou vingado! Mas isso era meu direito;
+<br> Se cometi pecados,
+tu não foste enviada
+<br> Para ser Nêmesis que me punisse a
+jeito
+<br> --- Nem o céu escolheu víndice tão
+chegada!
+<br> Para os piedosos a piedade! Fosses
+tal,
+<br> Piedade agora te seria concedida.
+<br> Do
+reinado do sono, a noite ei-la banida.
+<br> Sim, podem
+bajular-te: sentirás um mal,
+<br> Uma cava agonia que será sem
+cura,
+<br> Pois a praga mais funda tens por
+travesseiro;
+<br>
+
+Semeaste em minha dor, e hás de colher inteiro
+<br> O mais
+triste colher em tão real agrura!
+<br> Nenhum igual a ti, em
+tantos inimigos:
+<br> Pois contra os mais eu me podia
+defender,
+<br> Ou me vingar ou transformá-los em
+amigos;
+<br> Mas, implacável, nada tinhas a temer,
+<br>
+Pois a tua fraqueza qual broquel se erguia
+<br> E erguia-se este
+amor, que muito concedeu,
+<br> Poupando, só por ti, alguns que
+não devia;
+<br> E sobre o mundo assim, que em tua verdade
+creu
+<br> E no rumor de eu ser um moço desregrado
+<br>
+--- Em coisas que não eram, e outras que são reais ---,
+<br>
+Sobre essa própria base construíste a mais
+<br> Um monumento, por
+tua culpa cimentado!
+<br> Clitemnestra moral contra o marido
+erguida,
+<br> Derrubaste, com gládio insuspeitado, a
+calma,
+<br> Fama e esperança --- e aquela mais amena vida
+
+<br> Que, não fosse essa fria traição de tua alma,
+
+<br> Tirar do túmulo da briga eu poderia 
+<br> E achar
+dever mais nobre do que o de partir. 
+<br> Porém tua virtude em
+vício se fazia, 
+<br> Traficando com ela, com a intenção mais
+fria, 
+<br>
+
+For present anger, and for future gold ---
+<br> And buying
+other's grief at any price.
+<br> And thus once entered into
+crooked ways, 
+<br> The early truth, which was thy proper
+praise,
+<br> Did not still walk beside thee --- but at
+times,
+<br> And with a breast unknowing its own crimes,
+
+<br> Deceit, averments incompatible, 
+<br> Equivocations,
+and the thoughts which dwell
+<br> In Janus-spirits --- the
+significant eye 
+<br> Which learns to lie with silence --- the
+pretext
+<br> Of prudence, with advantages annexed ---
+
+<br>
+
+The acquiescence in all things which tend,
+<br> No matter how,
+to the desired end ---
+<br> All found a place in thy
+philosophy.
+<br> The means were worthy, and the end is won
+---
+<br> I would not do by thee as thou hast done!
+<br>
+
+Pela ira do presente e o ouro do porvir 
+<br> --- E a um preço
+qualquer comprando a alheia dor. 
+<br> E assim por sendas
+tortuosas caminhando 
+<br> Tua antiga franqueza, digna de
+louvor, 
+<br> Não mais andou contigo --- mas de quando em
+quando, 
+<br> De teus delitos ignorante o coração, 
+<br>
+A falsidade, as asserções sem pé nem par, 
+<br> As evasivas e as
+ideias de plantão 
+<br> Em espíritos bifrontes --- o expressivo
+olhar 
+<br> Que mente com o silêncio --- e ainda a pretextada
+
+<br> Prudência, com as vantagens a ela reunidas, 
+<br> A
+aquiescência nas coisas todas dirigidas 
+<br> E como, não
+importa, à meta desejada 
+<br> --- Tudo isso achou lugar em tua
+filosofia. 
+<br> Hábeis os meios, a intenção foi
+consumada:
+<br> --- Tu me fizeste o que contigo eu não
+faria!
+<br>
+
+Stanzas {#stanzas-1 .unnumbered}
+=======
+
+When a man hath no freedom to fight for at home,
+<br> Let him
+combat for that of his neighbours;
+<br> Let him think of the
+glories of Greece and of Rome,
+<br> And get knocked on the head
+for his labours.
+<br>
+
+To do good to mankind is the chivalrous plan,
+<br> And is always
+as nobly requited;
+<br> Then battle for freedom wherever you
+can,
+<br> And, if not shot or hanged, you'll get
+knighted.
+<br>
+
+Estâncias[^32]
+==============
+
+Liberdade não há por que lutar na pátria 
+<br> Que pela dos
+vizinhos se combata;
+<br> Que se pense na glória da Hélade ou de
+Roma,
+<br> E se receba a morte em troca da bravata.
+<br>
+
+Fazer o bem à humanidade é o fim cavalheiresco,
+<br> E sempre
+nobremente ele é recompensado;
+<br> Lutai portanto pela
+liberdade onde puderdes:
+<br> Sofreis fuzil ou forca, ou sois
+condecorado.
+<br>
+
+Ode to Napoleon Buonaparte {#ode-to-napoleon-buonaparte .unnumbered}
+==========================
+
+'Tis done --- but yesterday a King!
+<br> And armed with kings to
+strive ---
+<br> And now thou art a nameless thing:
+<br>
+So abject --- yet alive!
+<br> Is this the man of thousand
+thrones,
+<br> Who strewed our earth with hostile
+bones,
+<br> And can he thus survive?
+<br> Since he,
+miscalled the Morning Star,
+<br> Nor man nor fiend hath fallen
+so far.
+<br>
+
+Ill-minded man! why scourge thy kind
+<br> Who bowed so low the
+knee?
+<br> By gazing on thyself grown blind,
+<br> Thou
+taughtest the rest to see.
+<br> With might unquestioned ---
+power to save ---
+<br> Thine only gift hath been the
+grave,
+<br> To those that worshipped thee;
+<br> Nor till
+thy fall could mortals guess
+<br> Ambition's less than
+littleness!
+<br>
+
+Ode a Napoleão Bonaparte[^33]
+=============================
+
+Tudo acabado: Ontem um rei, porém!
+<br> E armado para com outros
+reis lutar,
+<br> És hoje um ser que já nem nome
+tem!
+<br> Estar tão degradado --- e vivo estar!
+<br>
+Este é o homem de mil tronos, então,
+<br> Que de ossos de
+inimigos recobriu o chão
+<br> E pode em tal vileza
+perdurar?
+<br> ,
+<br> Homem nem demo, após, tão baixo
+foi lançado.
+<br>
+
+Por que açoitar, homem mal tencionado!
+<br> Tua espécie que
+soube o joelho flexionar?
+<br> Transfeito em cego, por te
+olhares demasiado,
+<br> Tu ensinaste os outros a
+enxergar!
+<br> Com o poder de salvar --- inquestionado e forte
+---
+<br> Tua dádiva foi tão-só a morte
+<br>
+:
+<br> Até caíres nem sonharam os mortais
+<br> Que é
+mais a pequenez do que a ambição, tão mais!
+<br>
+
+Thanks for that lesson --- it will teach
+<br> To after-warriors
+more,
+<br> Than high philosophy can preach,
+<br> And
+vainly preached before.
+<br> That spell upon the minds of
+men
+<br> Breaks never to unite again,
+<br> That led them
+to adore
+<br> Those Pagod things of sabre-sway,
+<br>
+With fronts of brass, and feet of clay.
+<br>
+
+The triumph, and the vanity,
+<br> The rapture of the strife
+---
+<br> The earthquake voice of victory,
+<br> To thee
+the breath of life;
+<br> The sword, the sceptre, and that
+sway
+<br> Which man seemed made but to obey,
+<br>
+Wherewith renown was rife ---
+<br> All quelled! --- Dark Spirit!
+what must be
+<br> The madness of thy memory!
+<br>
+
+The desolator desolate!
+<br> The victor overthrown!
+<br>
+The arbiter of others' fate
+<br> A suppliant for his
+own!
+<br> Is it some yet imperial hope,
+<br> That with
+such change can calmly cope?
+<br> Or dread of death
+alone?
+<br> To die a prince --- or live a slave ---
+<br>
+Thy choice is most ignobly brave!
+<br>
+
+Graças por tal lição, que há de ensinar,
+<br> Depois de ti, bem
+mais ao combatente
+<br> Do que a filosofia pode
+predicar
+<br> E foi em vão pregado anteriormente.
+<br>
+Rompe-se para não se restaurar jamais
+<br> Aquele encanto sobre
+a mente dos mortais
+<br> Que os levou a cultuar
+fervidamente
+<br> Tais ídolos --- que do poder da espada
+advêm
+<br> E têm fronte de bronze e pés de barro têm!
+<br>
+
+O triunfo, e a vanglória,
+<br> ,
+<br> A voz de terremoto
+da vitória,
+<br> Para ti o sopro da vida;
+<br> A espada,
+o cetro, e aquele teu poder
+<br> Que os homens pareciam ter de
+obedecer
+<br> E de que a fama estava tão provida
+<br>
+--- Tudo caiu! --- Sombrio espírito! que história
+<br> Mais
+louca não será tua memória!
+<br>
+
+O vitorioso, derrotado;
+<br> Desolado, o desolador:
+<br>
+O árbitro do alheio fado
+<br> Feito, do seu,
+suplicador!
+<br> Existe de imperar inda esperança
+<br>
+Que possa competir com essa mudança?
+<br> Ou só da morte o
+terror?
+<br> Morrer príncipe --- ou viver escravo, à
+toa,
+<br> Só na vileza a tua escolha é boa!
+<br>
+
+He who of old would rend the oak,
+<br> Dreamed not of the
+rebound;
+<br> Chained by the trunk he vainly broke
+---
+<br> Alone --- how looked he round?
+<br> Thou, in
+the sternness of thy strength,
+<br> An equal deed hast done at
+length,
+<br> And darker fate hast found:
+<br> He fell,
+the forest prowlers' prey;
+<br> But thou must eat thy heart
+away!
+<br>
+
+The Roman, when his burning heart
+<br> Was slaked with blood of
+Rome,
+<br> Threw down the dagger --- dared depart,
+<br>
+In savage grandeur, home.
+<br> He dared depart in utter
+scorn
+<br> Of men that such a yoke had borne,
+<br> Yet
+left him such a doom!
+<br> His only glory was that
+hour
+<br> Of self-upheld abandoned power.
+<br>
+
+The Spaniard, when the lust of sway
+<br> Had lost its quickening
+spell,
+<br> Cast crowns for rosaries away,
+<br> An
+empire for a cell;
+<br> A strict accountant of his
+beads,
+<br> A subtle disputant on creeds,
+<br> His
+dotage trifled well:
+<br> Yet better had he neither
+known
+<br> A bigot's shrine, nor despot's throne.
+<br>
+
+O que queria abrir o roble antigamente
+<br> Não pensava no risco
+do retorno:
+<br> Preso no tronco que forçara
+inutilmente
+<br> --- Sozinho --- como procurava em
+torno?
+<br> Tu, na rudez de teu vigor
+<br> Cumpriste
+cabalmente um feito de igual cor,
+<br> E teve, o fado teu,
+negríssimo contorno:
+<br> Se a fera da floresta devorou
+então,
+<br> Deves a pouco e pouco roer o coração!
+<br>
+
+
+<br> Com o sangue de Roma saciado,
+<br> Largou a adaga,
+e ousou rumar consciente,
+<br> E com rude grandeza, para o lar
+amado.
+<br> Ousou partir com extrema derrisão
+<br> De
+homens que haviam suportado tal grilhão,
+<br> Mas lhe deixavam
+esse fado!
+<br> Sua glória foi só essa hora alada
+<br>
+De força, que alcançara só, abandonada.
+<br>
+
+
+<br> Perdeu o encanto estimulante,
+<br> As coroas
+trocou pelo rosário,
+<br> O império pela cela
+sufocante!
+<br> Quer das camândulas estrito
+contador,
+<br> Quer dos credos sutil discutidor,
+<br>
+Seu dote ele esbanjou bem e bastante:
+<br> Melhor não
+conhecesse, no seu dia humano,
+<br> O santuário do beato e o
+trono do tirano.
+<br>
+
+But thou --- from thy reluctant hand
+<br> The thunderbolt is
+wrung ---
+<br> Too late thou leavest the high
+command
+<br> To which thy weakness clung;
+<br> All evil
+spirit as thou art,
+<br> It is enough to grieve the
+heart
+<br> To see thine own unstrung;
+<br> To think that
+God's fair world hath been
+<br> The footstool of a thing so
+mean;
+<br>
+
+And earth hath spilt her blood for him,
+<br> Who thus can hoard
+his own!
+<br> And monarchs bowed the trembling
+limb,
+<br> And thanked him for a throne!
+<br> Fair
+freedom! we may hold thee dear,
+<br> When thus thy mightiest
+foes their fear
+<br> In humblest guise have shown.
+<br>
+Oh! ne'er may tyrant leave behind
+<br> A bright name to lure
+mankind!
+<br>
+
+Thine evil deeds are writ in gore,
+<br> Nor written thus in vain
+---
+<br> Thy triumphs tell of fame no more,
+<br> Or
+deepen every stain:
+<br> If thou hadst died as honour
+dies,
+<br> Some new Napoleon might arise,
+<br> To shame
+the world again ---
+<br> But who would soar the solar
+height,
+<br> To set in such a starless night?
+<br> Mas tu
+--- de tua mão que estava relutando
+<br> O raio trovejante foi
+tirado ---
+<br> Deixas bem tarde o alto comando
+<br> Ao
+qual tua fraqueza tinha-se agarrado;
+<br> Embora em tudo
+espírito malsão,
+<br> Basta para oprimir o nosso
+coração
+<br> Ver o teu entibiado;
+<br> E esse mundo de
+Deus tem sido --- é crível? ---
+<br> O escabelo de um ser tão
+desprezível.
+<br>
+
+Se para ele a terra derramou seu sangue,
+<br> O sangue próprio
+pode ele resguardar!
+<br> E os reis curvaram, a tremer, o joelho
+langue,
+<br> Gratos por ele o trono lhes deixar!
+<br>
+Liberdade! Podemos ver o teu valor,
+<br> Se os teus mais fortes
+adversários seu pavor
+<br> Humildemente vieram a
+mostrar.
+<br> Oh, que não possa o déspota legar
+jamais
+<br> Um nome rútilo que engode a nós, mortais!
+<br>
+
+Cada maldade tua em sangue está escrita,
+<br> Porém não foi
+escrita em vão:
+<br> A fama, cada triunfo teu já não a
+incita,
+<br> Ou já de cada mancha agrava a abjeção.
+<br>
+Se como a honra morre houvesses tu morrido,
+<br> Poderia surgir
+novo tirano ardido
+<br> Para vexar o mundo em mais uma
+versão.
+<br> --- Mas quem tão alto como o sol
+voaria
+<br> Para criar noite sem astros, tão sombria?
+<br>
+
+Weighed in the balance, hero dust
+<br> Is vile as vulgar
+clay;
+<br> Thy scales, mortality! are just
+<br> To all
+that pass away:
+<br> But yet methought the living
+great
+<br> Some higher sparks should animate, 
+<br> To
+dazzle and dismay:
+<br> Nor deemed contempt could thus make
+mirth
+<br> Of these, the conquerors of the earth.
+<br>
+
+And she, proud Austria's mournful flower,
+<br> Thy still
+imperial bride;
+<br> How bears her breast the torturing
+hour?
+<br> Still clings she to thy side?
+<br> Must she
+too bend, must she too share
+<br> Thy late repentance, long
+despair,
+<br> Thou throneless homicide?
+<br> If still
+she loves thee, hoard that gem;
+<br> 'Tis worth thy vanished
+diadem!
+<br>
+
+Then haste thee to thy sullen isle,
+<br> And gaze upon the
+sea;
+<br> That element may meet thy smile ---
+<br> It
+ne'er was ruled by thee!
+<br> Or trace with thine all idle
+hand,
+<br> In loitering mood upon the sand,
+<br> That
+earth is now as free!
+<br> That Corinth's pedagogue hath
+now
+<br> Transferred his by-word to thy brow.
+<br>
+
+O pó do herói, pesado na balança,
+<br> É vil, tal como o barro
+mais vulgar;
+<br> Teu par de pratos, ó mortalidade,
+alcança
+<br> Quem quer que esteja destinado a se
+findar;
+<br> Porém os vivos, quando grandes, eu o
+cria,
+<br> Chispa mais alta é que os animaria,
+<br> Para
+virem a deslumbrar e apavorar!
+<br> Nem julguei que o desdém
+zombar assim pudesse
+<br> De tanto vencedor do mundo, que os
+padece.
+<br>
+
+E ela, a tristonha flor da Áustria orgulhosa,
+<br> A tua esposa
+inda imperial,
+<br> Como aguenta seu peito a hora angustiosa?
+
+<br> Inda a teu lado está ela, afinal?
+<br> Ela também
+deve inclinar-se e partilhar
+<br> Tua tarda compunção,
+desperançado ar,
+<br> Tu, homicida que perdeste a insígnia
+real?
+<br> Se ela te ama ainda, guarda bem tal gema,
+
+<br> Que vale o teu perdido diadema!
+<br>
+
+
+<br> E as águas põe-te a olhar;
+<br> O teu sorriso, a
+onda o desafia,
+<br> --- Nunca a vieste a governar!
+<br>
+Ou traça com tua mão de todo ociosa,
+<br> Na areia, com uma
+têmpera morosa,
+<br> Que a terra agora está tão livre como o
+mar!
+<br> 
+<br> Agora transferiu para tua fronte
+pensa.
+<br>
+
+Thou Timour! in his captive's cage
+<br> What thoughts will there
+be thine,
+<br> While brooding in thy prisoned rage?
+<br>
+But one --- 'The world *was* mine!'
+<br> Unless, like he of
+Babylon,
+<br> All sense is with thy sceptre gone,
+<br>
+Life will not long confine
+<br> That spirit poured so widely
+forth ---
+<br> So long obeyed --- so little worth!
+<br>
+
+Or, like the thief of fire from heaven,
+<br> Wilt thou withstand
+the shock?
+<br> And share with him, the unforgiven,
+<br>
+His vulture and his rock!
+<br> Foredoomed by God --- by man
+accurst,
+<br> And that last act, though not thy
+worst,
+<br> The very Fiend's arch mock;
+<br> He in his
+fall preserved his pride,
+<br> And, if a mortal, had as proudly
+died!
+<br>
+
+There was a day --- there was an hour,
+<br> While earth was
+Gaul's --- Gaul thine ---
+<br> When that immeasurable
+power
+<br> Unsated to resign
+<br> Had been an act of
+purer fame
+<br> Than gathers round Marengo's name
+<br>
+And gilded thy decline,
+<br> Through the long twilight of all
+time,
+<br> Despite some passing clouds of crime.
+<br>
+
+<br> Qual há de ser o pensamento teu,
+<br> Ao veres que
+está preso o teu furor tão vivo!
+<br> Apenas um: "O mundo já me
+*pertenceu*!"
+<br> A menos, como o babilônio
+decaído,
+<br> Que com teu cetro todo o senso hajas
+perdido,
+<br> Por muito a vida não terá no cárcer
+seu
+<br> O teu espírito que fluiu extensamente,
+<br>
+Tanto tempo acatado, mas tão indigente!
+<br>
+
+
+<br> Quererás aguentar-lhe o dissabor?
+<br> E compartir
+com ele, o que não viu perdão, 
+<br> O seu rochedo e o seu
+açor!
+<br> Por Deus fadado, pelo homem amaldiçoado,
+<br>
+Esse último ato teu --- não o mais depravado
+<br> A abóboda do
+diabo leva em derrisão;
+<br> Ele manteve o orgulho, em sua
+descaída, 
+<br> E, se mortal, com orgulho igual perdera a
+vida!
+<br>
+
+Um dia, uma hora vieram a ocorrer,
+<br> Quando a terra era a
+Gália, a Gália, teu lugar, 
+<br> Quando aquele imensíssimo
+poder, 
+<br> Não saciado para resignar,
+<br> Teria feito
+ação de mais puro renome
+<br> Que a que vive em Marengo a lhe
+rodear o nome
+<br> E redourou teu descambar
+<br> Através
+do crepúsculo da era inteira,
+<br> Apesar de algum crime ---
+nuvem passageira.
+<br>
+
+But thou forsooth must be a king
+<br> And don the purple
+vest,
+<br> As if that foolish robe could wring
+<br>
+Remembrance from thy breast.
+<br> Where is that faded garment?
+where
+<br> The gewgaws thou wert fond to wear,
+<br> The
+star, the string, the crest?
+<br> Vain froward child of empire!
+say,
+<br> Are all thy playthings snatched away?
+<br>
+
+Where may the wearied eye repose,
+<br> When gazing on the
+great;
+<br> Where neither guilty glory glows,
+<br> Nor
+despicable state?
+<br> Yes --- One --- the first --- the last
+--- the best ---
+<br> The Cincinnatus of the West,
+<br>
+Whom envy dared not hate,
+<br> Bequeath the name of
+Washington,
+<br> To make man blush there was but One!
+<br>
+Mas tu deves ser rei, rei inconteste,
+<br> E o traje púrpura
+envergar,
+<br> Como se conseguisse, tão simplória
+veste,
+<br> De teu peito as lembranças arrancar.
+<br>
+Onde está esse manto que perdeu a cor?
+<br> Onde as nonadas que
+eram teu fervor,
+<br> A estrela, a fita, o cocar?
+<br>
+Dize, filho do império, irracional e vão!
+<br> Teus brinquedos,
+tiraram-nos de tua mão?
+<br>
+
+,
+<br> Quando se volte para os grandes a visão;
+<br>
+Onde não brilha glória não culpada,
+<br> Nem desprezível
+condição?
+<br> Sim, o primeiro, o último, o
+excelente,
+<br> O Cincinato do Ocidente, 
+<br> Em quem a
+inveja não ousou pôr o ferrão:
+<br> Lega o nome de Washington,
+tão-só, 
+<br> Para que os homens corem de ter sido um
+só!
+<br>
+
+[^1]: Pensa-se que este poema foi inspirado pela visão de Lady Wilmot
+    Horton num baile, trajada de cores de luto, mas com numerosas
+    lantejoulas no vestido (D. Dunn). É o primeiro poema de *Hebrew
+    Melodies* (1815), que foram traduzidas em nosso Romantismo, por
+    exemplo, por Antônio Franco da Costa Meireles, 1869 (cf. Onédia
+    Célia, pp. 223 e ss.) ou J. A. de Oliveira Silva (1875).
+
+[^2]: (*Don Juan*, canto [iii]{.smallcaps}, [lxxxvi]{.smallcaps}.)
+    Consta de *Don Juan*, [iii]{.smallcaps}, depois de
+    [lxxxvi]{.smallcaps}. Este hino, escreve Byron, devia ou podia ser
+    cantado assim pelo grego moderno, isto é, de antes da independência,
+    em "tolerável verso" ([lxxxvii]{.smallcaps}).
+
+[^3]: Este poema, que traduzi em versos de sete sílabas (o original tem
+    número de sílabas correspondente, mas é silábico-acentual), foi
+    escrito em 1817. Thomas Moore (1779--1852), conhecido poeta, foi
+    amigo de Byron.
+
+[^4]: Originalmente de *Hebrew Melodies* (1815), o poema figura nas
+    traduções dessas *Melodias* por Costa Meireles (1869) e Oliveira
+    Silva (1875). O ritmo ternário do texto inglês desmereceria, por
+    martelante demais em português, a equivalência que fosse mantida.
+
+[^5]: Esta canção foi escrita em Veneza, 1817. Parece refletir passeios
+    de gôndola, à noite.
+
+[^6]: O poema, datado de 17 de março de 1816, foi escrito quando da
+    separação de Lady Byron, e parece querer chamar a esposa à
+    reconciliação. O original traz uma longa epígrafe de Coleridge,
+    "Christabel". Foi traduzido em 1857 no *Diário do Rio de Janeiro*
+    (15 de novembro) escrevendo [x. y.]{.smallcaps} o seguinte: "Há uma
+    poesia escrita a Lady Byron, da qual Mme. de Staël disse estas
+    palavras: --- Eu trocaria as minhas glórias pela glória de ter
+    inspirado uma semelhante poesia. --- Entretanto a mulher que a
+    inspirou foi inexorável até o fim, nunca perdoou." Ver Onédia Célia,
+    p. 56 ss.
+
+[^7]: (*Childe Harold*, canto [iii]{.smallcaps}) A popularidade das
+    obras de Byron na era vitoriana entre operários intelectualizados
+    foi testemunhada por Friedrich Engels em 1845, e no termo do período
+    leitores não sofisticados de todas as classes sociais ainda se
+    lembravam de *morceaux de bravoure* tais como o que descreve
+    Waterloo em *Childe Harold*, [iii]{.smallcaps} (John Jump). Apesar
+    de seus versos contra Napoleão, sabe-se que Byron o prezava, sendo
+    essa até uma das razões que o antipatizaram nos seus círculos
+    ingleses. O poeta era contrário ao estado de coisas que sucedeu a
+    queda do corso, como se vê nos vv. 20 ss.
+
+[^8]: Este poema, que consta do *Childe Harold*, [i]{.smallcaps}, entre
+    [lxxxiv]{.smallcaps} e [lxxxv]{.smallcaps}, foi um dos mais
+    cultuados em nosso Romantismo. Onédia Célia consigna as traduções de
+    Francisco Otaviano, Francisco de Assis Vieira Bueno, João Júlio dos
+    Santos, Sousândrade, V. S. (Luís Vieira da Silva), J. A.  de
+    Oliveira Silva, Barão de Paranapiacaba e Fagundes Varela. Onédia
+    considera a tradução de Sousândrade não a mais fiel, nem a mais
+    infiel, mas certamente a mais bela das versões brasileiras de "To
+    Inez". Há de fato na tradução um "anjo eterno" que nada tem a ver
+    com o original, mas, inesperado como é, parece-nos sugestivo.
+
+[^9]: O refrão quer dizer, como o próprio Byron esclarece, "Vida minha,
+    eu te amo!". O poema data de Atenas, 1810. Quanto à moça a quem foi
+    endereçada, ver a Introdução.
+
+[^10]: Faz parte das *Hebrew Melodies* (1815). Traduzido por Antônio
+    Franco da Costa Meireles em 1869; em prosa, por Manuel dos Reis em
+    1872; por J. A. de Oliveira Silva em 1875, segundo o registro de
+    Onédia Célia.
+
+[^11]: Assinala-se que foi o último poema escrito por Byron.
+
+[^12]: De *Hebrew Melodies* (1815). Além de figurar entre as traduções
+    de Costa Meireles (1869) e Oliveira Silva (1875), teve uma tradução
+    pirateada no *Diário do Rio de Janeiro*, 19/4/1855. Ver Onédia
+    Célia, p. 54.
+
+[^13]: O poema data de 9 de maio de 1810. Byron partiu do lado euro­peu
+    dos Dardanelos para a travessia. O feito permaneceu lembra­do
+    localmente, pois, segundo Vulliamy, mostraram-lhe, na estrada entre
+    Chanak e o promontório de Nagara, "a casa na qual Lord Byron vivia
+    ao tempo em que atravessou a nado os Dardanelos".
+
+[^14]: O poema é datado de fevereiro de 1812. A epígrafe significa: "Ai,
+    quão menos é viver com os que restaram do que recordar-te!"
+
+[^15]: O poema data de 1808.
+
+[^16]: (*Childe Harold's Pilgrimage*, Canto [iv]{.smallcaps}). Em seu "O
+    Mar", de *Vozes d'América*, poema aliás impetuoso e vivo, Fagundes
+    Varela demonstra, num ou noutro verso, que conhecia este trecho do
+    *Childe Harold*. O tema do mar não era alheio ao nosso Romantismo:
+    já Gonçalves Dias dele tratava num de seus hinos.
+
+[^17]: Escritas na estrada entre Florença e Pisa. O poema data de
+    novembro de 1821.
+
+[^18]: Segundo a tradição, este poema, escrito em março de 1816,
+    dirigia-se a Claire Clairmont, um dos casos de Byron, que com ele
+    teve a filha Allegra.
+
+[^19]: O texto deve ser de 1811. Em nosso Romantismo o poema foi
+    parafraseado por Francisco Otaviano, com dicção ultra-romântica, em
+    decassílabos brancos, e traduzido por Carlos de Meneses e Sousa
+    Júnior, em quadras alexandrinas de rimas cruzadas. Onédia Célia
+    cuida da paráfrase de Otaviano.
+
+[^20]: O poema foi composto na Villa Diodati, em julho de 1816, e entre
+    nós foi traduzido por Castro Alves com bastante felicidade, como
+    opina Onédia Célia, que considera o original um belo poema, e um dos
+    únicos de Byron que "apresenta realmente alguns elementos que o
+    podem colocar dentro da linha desse romantismo hórrido, que acabou
+    por se confundir no romantismo paulista com byronismo".
+
+[^21]: Datam de março de 1815. Trazem no original quatro versos latinos
+    dos *Poemata*, de Gray, como epígrafe: cuidam de como é feliz quem
+    sente jorrar no íntimo a fonte das lágrimas.
+
+[^22]: Este poema --- escrito na Abadia de Newstead, em 1808 --- pareceu
+    muito atraente a poetas nossos como Castro Alves, que o traduziu. O
+    mesmo fez Luís Delfino, que se valeu, segundo Onédia Célia, de
+    interposta tradução francesa. A taça realmente existiu e foi usada
+    por Byron e amigos em festa em Newstead.
+
+[^23]: Este poema, que faz parte das *Hebrew Melodies* (1815), foi
+    traduzido por Costa Meireles (1869) e Oliveira Silva (1875). O tema
+    sugestionou os nossos românticos, como demonstram "Babilônia" de
+    Cardoso de Meneses e Sousa Júnior, e "O Festim de Baltasar", de
+    Elzeário da Lapa Pinto.
+
+[^24]: (Canto [iv]{.smallcaps}, vv. 1--19.) O poema sobre Dante, em
+    terza rima, tem quatro cantos, que Byron dava como possível
+    prosseguir, se os versos fossem compreendidos e aprovados.
+
+[^25]: Uma das "Occasional Pieces", parece datar de fins de 1811. É um
+    dos poemas a Tirza (supõe­se que Edleston, então morto). Na 4ª
+    estrofe Byron fala que viajava pelo mar Egeu pensando que Tirza
+    estivesse viva, e esta já havia morrido sem que ele soubesse.
+
+[^26]: *Don Juan*, canto [iv]{.smallcaps}.
+
+[^27]: Ao Anular a Condenação de Lord Edward Fitzgerald. Escrito em
+    Bolonha, em 12 de agosto de 1819.
+
+[^28]: Escritos a bordo do Paquete de Lisboa, em 30 de junho de 1809.
+    Era o início da primeira viagem de Byron e têm um tom de realismo
+    humorístico que é também uma das vertentes de nosso Romantismo.
+    *Rainha Mab*, na terceira estrofe: segundo Catherine Briggs, nos
+    séculos [xvi]{.smallcaps} e [xvii]{.smallcaps} a maior parte dos
+    poetas fez a Rainha Mab a rainha das Fadas e particularmente das
+    *fadas diminutas* da *Nymphidia* de Drayton. Também diminuta é a de
+    Shakespeare, *Romeu e Julieta.*
+
+[^29]: Escrita na Villa Diodati em 1816. Augusta Leigh permitiu ---
+    informa Douglas Dunn --- que fosse publicada em 1830. O poema é
+    autobiográfico, e Augusta, ambiguamente, parece ser encarada mais do
+    que como irmã.
+
+[^30]: Byron, na Suíça, morou certo tempo junto a esse lago, famoso por
+    sua beleza. Escrito em julho de 1816, na Villa Diodati.
+
+[^31]: "Este amargo poema foi escrito em setembro de 1816 (isto é, mais
+    ou menos ao tempo em que o foi a 'Carta a Augusta'), mas só foi
+    impresso em 1832. Sua ira e paixão foram provavelmente despertados
+    ao ouvir, de Shelley, os rumores distintos quanto à natureza das
+    relações entre Byron e Augusta, e Byron e sua mulher; também, e
+    pouco antes de o poema ter sido escrito, a tentativa de Mme. de
+    Staël de reconciliar Lord e Lady Byron foi frustrada pelo fato de
+    Lady Byron nem querer ouvir falar no assunto" (D. Dunn). Aparecem no
+    poema Nêmesis, deusa vingadora ($=$ víndice) dos crimes, e
+    Clitemnestra, a esposa de Agamêmnon, que o matou. Lady Byron é
+    caracterizada como uma "Clitemnestra moral".
+
+[^32]: Composto em novembro de 1820.
+
+[^33]: Byron era favorável a Napoleão e só uma vez, lembra-o Bertrand
+    Russell, se voltou contra o seu herói: nesta ode, que damos como
+    curiosidade, o suicídio de Napoleão seria melhor, julgava Byron em
+    1814, do que a renúncia e a ilha de Elba. Mas, assinala ainda
+    Russell, durante os Cem Dias Byron proclamou seu desejo de que
+    Napoleão triunfasse e, ao receber a notícia de Waterloo, disse:
+    "Lamento-o terrivelmente". O mito de Napoleão destruidor de reis e,
+    portanto, mais próximo do povo, foi explorado em nosso Romantismo. O
+    "Napoleão em Waterloo", de Gonçalves de Magalhães, é um documento
+    exponencial da supra-­humanização do herói.

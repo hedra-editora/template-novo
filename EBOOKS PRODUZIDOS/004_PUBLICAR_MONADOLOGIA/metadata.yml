@@ -1,0 +1,16 @@
+---
+title: A Monadologia e outros textos
+author: Gottfried Leibniz
+rights: Editora Hedra
+lang: pt-BR
+mainlang: portuguese
+otherlang: portuguese
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

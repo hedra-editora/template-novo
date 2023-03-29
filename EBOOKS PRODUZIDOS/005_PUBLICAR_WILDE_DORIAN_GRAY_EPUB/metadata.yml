@@ -1,0 +1,17 @@
+---
+title: O retrato de Dorian Gray
+author: Oscar Wilde
+rights: Editora Hedra
+edition: Segunda Edição
+lang: pt-BR
+mainlang: portuguese
+otherlang: portuguese
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

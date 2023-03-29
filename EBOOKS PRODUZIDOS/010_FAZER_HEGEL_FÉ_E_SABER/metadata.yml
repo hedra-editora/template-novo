@@ -1,0 +1,17 @@
+---
+title: Fé e Saber
+author: Georg Wilhelm Friedrich Hegel
+rights: Editora Hedra
+edition: Segunda Edição
+lang: pt-BR
+mainlang: portuguese
+otherlang: portuguese
+tags: [filosofia, jacobi, fichte, kant, subjetivismo]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+

@@ -1,0 +1,18 @@
+---
+title: Sobre a verdade e a mentira no sentido extra-moral
+author: Friedrich Nietzsche
+introdução: Fernando de Moraes Barros
+rights: Editora Hedra
+edition: Segunda Edição
+lang: pt-BR
+mainlang: portuguese
+otherlang: portuguese
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+
